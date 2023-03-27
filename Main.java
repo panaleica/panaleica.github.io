@@ -18,7 +18,7 @@ public class Main {
                         "url": "%s",
                         "image": "%s"
                     },
-                    """, name.substring(0, name.lastIndexOf('.')), URL + "music/" + name, "cover/sunyanzi13.jpg");
+                    """, name.substring(0, name.lastIndexOf('.')), URL + "music/" + name, URL + "cover/sunyanzi13.jpg");
         }
         FileWriter fw = new FileWriter("list.json");
         PrintWriter pw = new PrintWriter(fw);
