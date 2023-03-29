@@ -7,15 +7,15 @@ import java.util.Objects;
 public class Main {
     final static String URL = "https://panaleica.github.io/";
     final static File ROOT = new File("music");
-    final static String FILENAME = "music.json";
+    final static String FILENAME = "music.js";
 
     public static void main(String[] args) throws IOException {
         StringBuilder musicList = getMusicList(ROOT);
         FileWriter fileWriter = new FileWriter(FILENAME);
         PrintWriter printWriter = new PrintWriter(fileWriter);
-        printWriter.print('[');
+        printWriter.print("let json = [");
         printWriter.print(musicList.substring(0, musicList.length() - 2));
-        printWriter.print(']');
+        printWriter.print("]");
         printWriter.flush();
     }
 
@@ -49,14 +49,13 @@ public class Main {
             }
         }
         for (File file1 : files)
-            if (!file1.getName().endsWith(".jpg") && !file1.getName().endsWith(".png"))
-                str.append(String.format("""
-                        {
-                            "name": "%s",
-                            "url": "%s",
-                            "image": "%s"
-                        },
-                        """, file1.getName().substring(0, file1.getName().lastIndexOf('.')), URL + file.getPath().replace('\\', '/') + "/" + file1.getName(), URL + file.getPath().replace('\\', '/') + "/" + coverName));
+            if (!file1.getName().endsWith(".jpg") && !file1.getName().endsWith(".png")) str.append(String.format("""
+                    {
+                        "name": "%s",
+                        "url": "%s",
+                        "image": "%s"
+                    },
+                    """, file1.getName().substring(0, file1.getName().lastIndexOf('.')), URL + file.getPath().replace('\\', '/') + "/" + file1.getName(), URL + file.getPath().replace('\\', '/') + "/" + coverName));
         return str;
     }
 }
