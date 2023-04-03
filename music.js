@@ -334,107 +334,107 @@ let json = [{
     "image": "https://panaleica.github.io/music/by2/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - Someday",
+    "name": "F.I.R.飞儿乐团 - Someday",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - Someday.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 一个世界的辽阔",
+    "name": "F.I.R.飞儿乐团 - 一个世界的辽阔",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 一个世界的辽阔.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 信者恒信",
+    "name": "F.I.R.飞儿乐团 - 信者恒信",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 信者恒信.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 将逝之爱",
+    "name": "F.I.R.飞儿乐团 - 将逝之爱",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 将逝之爱.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 攻无不克",
+    "name": "F.I.R.飞儿乐团 - 攻无不克",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 攻无不克.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 爱在蔓延时",
+    "name": "F.I.R.飞儿乐团 - 爱在蔓延时",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 爱在蔓延时.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 相信希望 (Believe)",
+    "name": "F.I.R.飞儿乐团 - 相信希望 (Believe)",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 相信希望 (Believe).ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 钻石之心",
+    "name": "F.I.R.飞儿乐团 - 钻石之心",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 钻石之心.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 锦绣梦",
+    "name": "F.I.R.飞儿乐团 - 锦绣梦",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - 锦绣梦.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 _ 7SENSES - 恋恋 feat_ SNH48_7SENSES",
+    "name": "F.I.R.飞儿乐团 _ 7SENSES - 恋恋",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 _ 7SENSES - 恋恋 feat_ SNH48_7SENSES.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 _ 丝绒公路乐队 - 光的姿态 feat_ 丝绒公路",
+    "name": "F.I.R.飞儿乐团 _ 丝绒公路乐队 - 光的姿态",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 _ 丝绒公路乐队 - 光的姿态 feat_ 丝绒公路.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 刺青春",
+    "name": "F.I.R.飞儿乐团 - 刺青春",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 刺青春.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 如果你说爱我",
+    "name": "F.I.R.飞儿乐团 - 如果你说爱我",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 如果你说爱我.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 忘年会",
+    "name": "F.I.R.飞儿乐团 - 忘年会",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 忘年会.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 星火",
+    "name": "F.I.R.飞儿乐团 - 星火",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 星火.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 梦见岛",
+    "name": "F.I.R.飞儿乐团 - 梦见岛",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 梦见岛.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 爱上属于你的天空",
+    "name": "F.I.R.飞儿乐团 - 爱上属于你的天空",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 爱上属于你的天空.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 真实梦界",
+    "name": "F.I.R.飞儿乐团 - 真实梦界",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 真实梦界.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 美丽的你",
+    "name": "F.I.R.飞儿乐团 - 美丽的你",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 美丽的你.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 自由之歌",
+    "name": "F.I.R.飞儿乐团 - 自由之歌",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 自由之歌.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
 {
-    "name": "F_I_R_飞儿乐团 - 造梦者",
+    "name": "F.I.R.飞儿乐团 - 造梦者",
     "url": "https://panaleica.github.io/music/fir/album02/F_I_R_飞儿乐团 - 造梦者.ogg",
     "image": "https://panaleica.github.io/music/fir/album02/600x600bb.jpg"
 },
@@ -707,6 +707,111 @@ let json = [{
     "name": "梁静茹 - 类情人",
     "url": "https://panaleica.github.io/music/liangjingru/album05/梁静茹 - 类情人.ogg",
     "image": "https://panaleica.github.io/music/liangjingru/album05/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 一对一",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 一对一.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 下一秒钟",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 下一秒钟.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 丝路",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 丝路.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 可惜不是你",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 可惜不是你.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 因为还是会",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 因为还是会.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 好夜晚Good Night",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 好夜晚Good Night.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 很久以后",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 很久以后.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 我还记得",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 我还记得.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 瘦瘦的",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 瘦瘦的.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 路",
+    "url": "https://panaleica.github.io/music/liangjingru/album06/梁静茹 - 路.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album06/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - L_I_E",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - L_I_E.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 中间",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 中间.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 别人的天长地久",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 别人的天长地久.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 宁夏",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 宁夏.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 我是幸福的",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 我是幸福的.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 我都知道",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 我都知道.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 接受",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 接受.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 燕尾蝶",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 燕尾蝶.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 纯真",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 纯真.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 给从前的爱",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 给从前的爱.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 茉莉花",
+    "url": "https://panaleica.github.io/music/liangjingru/album07/梁静茹 - 茉莉花.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album07/600x600bb.jpg"
 },
 {
     "name": "孙燕姿 - 充氧期",
@@ -1122,6 +1227,341 @@ let json = [{
     "name": "孙燕姿 - 种",
     "url": "https://panaleica.github.io/music/sunyanzi/album07/孙燕姿 - 种.ogg",
     "image": "https://panaleica.github.io/music/sunyanzi/album07/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 了解",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 了解.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 休止符",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 休止符.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 学会",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 学会.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 年轻无极限",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 年轻无极限.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 我不难过",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 我不难过.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 接下来",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 接下来.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 未完成",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 未完成.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 永远",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 永远.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 没有人的方向",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 没有人的方向.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 神奇",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 - 神奇.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 _ 仓木麻衣 (くらき まい) - My Story,Your Song",
+    "url": "https://panaleica.github.io/music/sunyanzi/album08/孙燕姿 _ 仓木麻衣 (くらき まい) - My Story,Your Song.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album08/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Leave",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - Leave.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - We Will Get There",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - We Will Get There.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 一样的夏天",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 一样的夏天.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 一起走到",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 一起走到.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 不同",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 不同.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 作战",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 作战.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 懂事",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 懂事.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 我不爱",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 我不爱.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 我想",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 我想.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 爱从零开始",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 爱从零开始.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 直来直往",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 直来直往.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 眼神",
+    "url": "https://panaleica.github.io/music/sunyanzi/album09/孙燕姿 - 眼神.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album09/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Hey Jude",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - Hey Jude.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Silent All These Years",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - Silent All These Years.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Someone",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - Someone.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Sometimes Love Just Ain't Enough",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - Sometimes Love Just Ain't Enough.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - That I Would Be Good",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - That I Would Be Good.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Up2U",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - Up2U.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Venus",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - Venus.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 原来你什么都不要",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - 原来你什么都不要.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 天空",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - 天空.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 就是这样",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - 就是这样.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 橄榄树",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - 橄榄树.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 没时间",
+    "url": "https://panaleica.github.io/music/sunyanzi/album10/孙燕姿 - 没时间.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album10/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 不是真的爱我",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 不是真的爱我.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 任性",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 任性.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 爱情字典",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 爱情字典.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 真的",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 真的.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 练习",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 练习.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 绿光",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 绿光.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 逃亡",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 逃亡.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 随堂测验",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 随堂测验.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 风筝",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 - 风筝.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 _ 孙靖 - 我是我",
+    "url": "https://panaleica.github.io/music/sunyanzi/album11/孙燕姿 _ 孙靖 - 我是我.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album11/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - On The Road (Demo 1)",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - On The Road (Demo 1).ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - On The Road (Demo2)",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - On The Road (Demo2).ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 中间地带",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 中间地带.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 坏天气",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 坏天气.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 害怕",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 害怕.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 开始懂了",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 开始懂了.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 我要的幸福",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 我要的幸福.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 星期一天气晴我离开你",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 星期一天气晴我离开你.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 相信",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 相信.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 累赘",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 累赘.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 难得一见",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 难得一见.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 零缺点",
+    "url": "https://panaleica.github.io/music/sunyanzi/album12/孙燕姿 - 零缺点.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album12/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - E-Lover",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - E-Lover.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Leave Me Alone",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - Leave Me Alone.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 和平",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 和平.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 天黑黑",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 天黑黑.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 很好",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 很好.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 浓眉毛",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 浓眉毛.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 爱情证书",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 爱情证书.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 终于",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 终于.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 自然",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 自然.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 超快感",
+    "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 超快感.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
 },
 {
     "name": "詹雯婷 - Fire Dancer",

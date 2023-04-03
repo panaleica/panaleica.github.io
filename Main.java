@@ -49,13 +49,15 @@ public class Main {
             }
         }
         for (File file1 : files)
-            if (!file1.getName().endsWith(".jpg") && !file1.getName().endsWith(".png")) str.append(String.format("""
-                    {
-                        "name": "%s",
-                        "url": "%s",
-                        "image": "%s"
-                    },
-                    """, file1.getName().substring(0, file1.getName().lastIndexOf('.')), URL + file.getPath().replace('\\', '/') + "/" + file1.getName(), URL + file.getPath().replace('\\', '/') + "/" + coverName));
+            if (!file1.getName().endsWith(".jpg") && !file1.getName().endsWith(".png")) {
+                str.append(String.format("""
+                        {
+                            "name": "%s",
+                            "url": "%s",
+                            "image": "%s"
+                        },
+                        """, file1.getName().substring(0, file1.getName().lastIndexOf('.')).replaceAll("\\s*feat.*", "").replaceAll("F_I_R_", "F.I.R."), URL + file.getPath().replace('\\', '/') + "/" + file1.getName(), URL + file.getPath().replace('\\', '/') + "/" + coverName));
+            }
         return str;
     }
 }
