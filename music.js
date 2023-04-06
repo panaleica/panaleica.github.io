@@ -379,12 +379,12 @@ let json = [{
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F.I.R.飞儿乐团 _ 7SENSES - 恋恋",
+    "name": "F.I.R.飞儿乐团 _ 7SENSES - 恋恋 feat_ SNH48_7SENSES",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 _ 7SENSES - 恋恋 feat_ SNH48_7SENSES.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
 {
-    "name": "F.I.R.飞儿乐团 _ 丝绒公路乐队 - 光的姿态",
+    "name": "F.I.R.飞儿乐团 _ 丝绒公路乐队 - 光的姿态 feat_ 丝绒公路",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 _ 丝绒公路乐队 - 光的姿态 feat_ 丝绒公路.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
 },
@@ -1827,6 +1827,96 @@ let json = [{
     "name": "孙燕姿 - 超快感",
     "url": "https://panaleica.github.io/music/sunyanzi/album13/孙燕姿 - 超快感.ogg",
     "image": "https://panaleica.github.io/music/sunyanzi/album13/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Rise",
+    "url": "https://panaleica.github.io/music/sunyanzi/album14/孙燕姿 - Rise.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album14/s27284299.jpg"
+},
+{
+    "name": "孙燕姿 - Radio",
+    "url": "https://panaleica.github.io/music/sunyanzi/album15/孙燕姿 - Radio.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album15/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 _ ShiGGa Shay 白西阁 - 简爱",
+    "url": "https://panaleica.github.io/music/sunyanzi/album16/孙燕姿 _ ShiGGa Shay 白西阁 - 简爱.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album16/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 在,也不见",
+    "url": "https://panaleica.github.io/music/sunyanzi/album17/孙燕姿 - 在,也不见.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album17/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - Sweet Child O' Mine",
+    "url": "https://panaleica.github.io/music/sunyanzi/album18/孙燕姿 - Sweet Child O' Mine.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album18/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 克卜勒",
+    "url": "https://panaleica.github.io/music/sunyanzi/album18/孙燕姿 - 克卜勒.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album18/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 彩虹金刚",
+    "url": "https://panaleica.github.io/music/sunyanzi/album18/孙燕姿 - 彩虹金刚.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album18/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 童谣1987",
+    "url": "https://panaleica.github.io/music/sunyanzi/album18/孙燕姿 - 童谣1987.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album18/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 这个世界",
+    "url": "https://panaleica.github.io/music/sunyanzi/album18/孙燕姿 - 这个世界.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album18/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 半句再见",
+    "url": "https://panaleica.github.io/music/sunyanzi/album19/孙燕姿 - 半句再见.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album19/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 守护永恒的爱",
+    "url": "https://panaleica.github.io/music/sunyanzi/album20/孙燕姿 - 守护永恒的爱.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album20/600x600bb.jpg"
+},
+{
+    "name": "五月天 _ 孙燕姿 - 温柔 #MaydayBlue20th",
+    "url": "https://panaleica.github.io/music/sunyanzi/album21/五月天 _ 孙燕姿 - 温柔 #MaydayBlue20th.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album21/600x600bb.jpg"
+},
+{
+    "name": "林俊杰 _ 孙燕姿 - Stay With You (英文版)",
+    "url": "https://panaleica.github.io/music/sunyanzi/album22/林俊杰 _ 孙燕姿 - Stay With You (英文版).ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album22/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 余额",
+    "url": "https://panaleica.github.io/music/sunyanzi/album23/孙燕姿 - 余额.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album23/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 匿名万岁",
+    "url": "https://panaleica.github.io/music/sunyanzi/album24/孙燕姿 - 匿名万岁.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album24/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 世界终结前一天",
+    "url": "https://panaleica.github.io/music/sunyanzi/album25/孙燕姿 - 世界终结前一天.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album25/600x600bb.jpg"
+},
+{
+    "name": "孙燕姿 - 擒光",
+    "url": "https://panaleica.github.io/music/sunyanzi/album26/孙燕姿 - 擒光.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album26/600x600bb.jpg"
+},
+{
+    "name": "吴青峰 _ 孙燕姿 - （______醉鬼阿Q）（feat_孙燕姿）",
+    "url": "https://panaleica.github.io/music/sunyanzi/album27/吴青峰 _ 孙燕姿 - （______醉鬼阿Q）（feat_孙燕姿）.ogg",
+    "image": "https://panaleica.github.io/music/sunyanzi/album27/600x600bb.jpg"
 },
 {
     "name": "詹雯婷 - Fire Dancer",
