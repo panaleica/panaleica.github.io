@@ -229,6 +229,41 @@ let json = [{
     "image": "https://panaleica.github.io/music/baian/album05/600x600bb.jpg"
 },
 {
+    "name": "白安 - 回家的路",
+    "url": "https://panaleica.github.io/music/baian/album06/白安 - 回家的路.ogg",
+    "image": "https://panaleica.github.io/music/baian/album06/600x600bb.jpg"
+},
+{
+    "name": "白安 - Voice inside",
+    "url": "https://panaleica.github.io/music/baian/album07/白安 - Voice inside.ogg",
+    "image": "https://panaleica.github.io/music/baian/album07/600x600bb.jpg"
+},
+{
+    "name": "五月天 阿信 _ 告五人 _ 白安 - 我们都活在进化之中",
+    "url": "https://panaleica.github.io/music/baian/album08/五月天 阿信 _ 告五人 _ 白安 - 我们都活在进化之中.ogg",
+    "image": "https://panaleica.github.io/music/baian/album08/600x600bb.jpg"
+},
+{
+    "name": "李宗盛 _ 李剑青 _ 白安 - 送你一首过年歌",
+    "url": "https://panaleica.github.io/music/baian/album09/李宗盛 _ 李剑青 _ 白安 - 送你一首过年歌.ogg",
+    "image": "https://panaleica.github.io/music/baian/album09/600x600bb.jpg"
+},
+{
+    "name": "白安 - Undo",
+    "url": "https://panaleica.github.io/music/baian/album10/白安 - Undo.ogg",
+    "image": "https://panaleica.github.io/music/baian/album10/600x600bb.jpg"
+},
+{
+    "name": "白安 - 我的地方",
+    "url": "https://panaleica.github.io/music/baian/album11/白安 - 我的地方.ogg",
+    "image": "https://panaleica.github.io/music/baian/album11/600x600bb.jpg"
+},
+{
+    "name": "白安 - 鱼没有脚",
+    "url": "https://panaleica.github.io/music/baian/album12/白安 - 鱼没有脚.ogg",
+    "image": "https://panaleica.github.io/music/baian/album12/600x600bb.jpg"
+},
+{
     "name": "BY2 - PP别黏在椅上",
     "url": "https://panaleica.github.io/music/by2/album01/BY2 - PP别黏在椅上.ogg",
     "image": "https://panaleica.github.io/music/by2/album01/600x600bb.jpg"
@@ -1077,6 +1112,136 @@ let json = [{
     "name": "梁静茹 _ 光良 - 只能抱着你",
     "url": "https://panaleica.github.io/music/liangjingru/album12/梁静茹 _ 光良 - 只能抱着你.ogg",
     "image": "https://panaleica.github.io/music/liangjingru/album12/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 今天，半永久",
+    "url": "https://panaleica.github.io/music/liangjingru/album13/梁静茹 - 今天，半永久.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album13/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 明天，双人舞",
+    "url": "https://panaleica.github.io/music/liangjingru/album13/梁静茹 - 明天，双人舞.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album13/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 昨天，一点爱",
+    "url": "https://panaleica.github.io/music/liangjingru/album13/梁静茹 - 昨天，一点爱.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album13/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 再见，少年",
+    "url": "https://panaleica.github.io/music/liangjingru/album14/梁静茹 - 再见，少年.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album14/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 _ 艾怡良 - 飘洋过海来看你",
+    "url": "https://panaleica.github.io/music/liangjingru/album15/梁静茹 _ 艾怡良 - 飘洋过海来看你.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album15/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 两难",
+    "url": "https://panaleica.github.io/music/liangjingru/album16/梁静茹 - 两难.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album16/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 秘果",
+    "url": "https://panaleica.github.io/music/liangjingru/album17/梁静茹 - 秘果.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album17/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 呵护",
+    "url": "https://panaleica.github.io/music/liangjingru/album18/梁静茹 - 呵护.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album18/s29087932.jpg"
+},
+{
+    "name": "梁静茹 - 不翼而飞",
+    "url": "https://panaleica.github.io/music/liangjingru/album19/梁静茹 - 不翼而飞.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album19/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 为你我受冷风吹",
+    "url": "https://panaleica.github.io/music/liangjingru/album20/梁静茹 - 为你我受冷风吹.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album20/s6814182.jpg"
+},
+{
+    "name": "梁静茹 - 哄我入睡",
+    "url": "https://panaleica.github.io/music/liangjingru/album20/梁静茹 - 哄我入睡.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album20/s6814182.jpg"
+},
+{
+    "name": "梁静茹 - 娃娃",
+    "url": "https://panaleica.github.io/music/liangjingru/album20/梁静茹 - 娃娃.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album20/s6814182.jpg"
+},
+{
+    "name": "梁静茹 - 礼物",
+    "url": "https://panaleica.github.io/music/liangjingru/album20/梁静茹 - 礼物.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album20/s6814182.jpg"
+},
+{
+    "name": "梁静茹 - 问 (Live)",
+    "url": "https://panaleica.github.io/music/liangjingru/album20/梁静茹 - 问 (Live).ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album20/s6814182.jpg"
+},
+{
+    "name": "梁静茹 - 绣花",
+    "url": "https://panaleica.github.io/music/liangjingru/album21/梁静茹 - 绣花.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album21/s4591054.jpg"
+},
+{
+    "name": "梁静茹 - 不敢当",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 不敢当.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 别再为他流泪",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 别再为他流泪.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 天灯",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 天灯.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 属于",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 属于.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 情歌",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 情歌.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 找个人",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 找个人.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 爱情之所以为爱情",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 爱情之所以为爱情.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 用力抱着",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 用力抱着.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 风笛手",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 风笛手.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 _ 严爵 - 没有如果",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 _ 严爵 - 没有如果.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 _ 曹格 - PK",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 _ 曹格 - PK.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
 },
 {
     "name": "孙燕姿 - 充氧期",
