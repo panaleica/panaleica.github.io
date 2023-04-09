@@ -56,7 +56,7 @@ public class Main {
                             "url": "%s",
                             "image": "%s"
                         },
-                        """, file1.getName().substring(0, file1.getName().lastIndexOf('.')).replaceAll("F_I_R_","F.I.R."), URL + file.getPath().replace('\\', '/') + "/" + file1.getName(), URL + file.getPath().replace('\\', '/') + "/" + coverName));
+                        """, file1.getName().substring(0, file1.getName().lastIndexOf('.')).replaceAll("F_I_R_","F.I.R."), URL + file.getPath().replace('\\', '/') + "/" + file1.getName().replaceAll("#","%23"), URL + file.getPath().replace('\\', '/') + "/" + coverName));
             }
         return str;
     }

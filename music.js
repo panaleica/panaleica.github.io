@@ -2050,7 +2050,7 @@ let json = [{
 },
 {
     "name": "五月天 _ 孙燕姿 - 温柔 #MaydayBlue20th",
-    "url": "https://panaleica.github.io/music/sunyanzi/album21/五月天 _ 孙燕姿 - 温柔 #MaydayBlue20th.ogg",
+    "url": "https://panaleica.github.io/music/sunyanzi/album21/五月天 _ 孙燕姿 - 温柔 %23MaydayBlue20th.ogg",
     "image": "https://panaleica.github.io/music/sunyanzi/album21/600x600bb.jpg"
 },
 {
@@ -2135,7 +2135,7 @@ let json = [{
 },
 {
     "name": "詹雯婷 - #7",
-    "url": "https://panaleica.github.io/music/zhanwenting/album02/詹雯婷 - #7.ogg",
+    "url": "https://panaleica.github.io/music/zhanwenting/album02/詹雯婷 - %237.ogg",
     "image": "https://panaleica.github.io/music/zhanwenting/album02/600x600bb.jpg"
 },
 {
