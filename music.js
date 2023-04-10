@@ -1194,6 +1194,11 @@ let json = [{
     "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
 },
 {
+    "name": "梁静茹 - 儿歌",
+    "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 儿歌.ogg",
+    "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
+},
+{
     "name": "梁静茹 - 别再为他流泪",
     "url": "https://panaleica.github.io/music/liangjingru/album22/梁静茹 - 别再为他流泪.ogg",
     "image": "https://panaleica.github.io/music/liangjingru/album22/600x600bb.jpg"
