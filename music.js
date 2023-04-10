@@ -2192,4 +2192,24 @@ let json = [{
     "name": "詹雯婷 - 预言石",
     "url": "https://panaleica.github.io/music/zhanwenting/album02/詹雯婷 - 预言石.ogg",
     "image": "https://panaleica.github.io/music/zhanwenting/album02/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 勇往直前",
+    "url": "https://panaleica.github.io/music/zhanwenting/album03/詹雯婷 - 勇往直前.ogg",
+    "image": "https://panaleica.github.io/music/zhanwenting/album03/s29637025.jpg"
+},
+{
+    "name": "詹雯婷 - 但愿人长久",
+    "url": "https://panaleica.github.io/music/zhanwenting/album04/詹雯婷 - 但愿人长久.ogg",
+    "image": "https://panaleica.github.io/music/zhanwenting/album04/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 人间惊鸿客",
+    "url": "https://panaleica.github.io/music/zhanwenting/album05/詹雯婷 - 人间惊鸿客.ogg",
+    "image": "https://panaleica.github.io/music/zhanwenting/album05/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 诀爱",
+    "url": "https://panaleica.github.io/music/zhanwenting/album06/詹雯婷 - 诀爱.ogg",
+    "image": "https://panaleica.github.io/music/zhanwenting/album06/600x600bb.jpg"
 }]
