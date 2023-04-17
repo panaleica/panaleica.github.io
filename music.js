@@ -484,6 +484,181 @@ let json = [{
     "image": "https://panaleica.github.io/music/fir/album04/600x600bb.jpg"
 },
 {
+    "name": "F.I.R.飞儿乐团 - Fly Away",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - Fly Away.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Intro",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - Intro.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Lydia",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - Lydia.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Revolution",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - Revolution.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - You Make me Want To Fall In Love",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - You Make me Want To Fall In Love.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 你的微笑",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 你的微笑.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 光芒",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 光芒.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 后乐园",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 后乐园.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 塔罗牌",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 塔罗牌.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 待续",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 待续.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 我们的爱",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 我们的爱.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 流浪者之歌",
+    "url": "https://panaleica.github.io/music/fir/album05/F_I_R_飞儿乐团 - 流浪者之歌.ogg",
+    "image": "https://panaleica.github.io/music/fir/album05/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - I Can't Go On",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - I Can't Go On.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Love_3",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - Love_3.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Neverland",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - Neverland.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - The Legend 传说…",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - The Legend 传说….ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - What's Next_",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - What's Next_.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 刺鸟",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 刺鸟.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 千年之恋",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 千年之恋.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 应许之地",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 应许之地.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 把爱放开",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 把爱放开.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 无限",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 无限.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 死心的理由",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 死心的理由.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 爱的力量",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 爱的力量.ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 盛宴…",
+    "url": "https://panaleica.github.io/music/fir/album06/F_I_R_飞儿乐团 - 盛宴….ogg",
+    "image": "https://panaleica.github.io/music/fir/album06/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 1234567",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 1234567.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Get High",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - Get High.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - I Don't Care",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - I Don't Care.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 你很爱他",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 你很爱他.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 北极圈",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 北极圈.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 天天夜夜",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 天天夜夜.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 我最爱的人",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 我最爱的人.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 眷恋",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 眷恋.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 雨樱花",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 雨樱花.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 飞行部落",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 飞行部落.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
     "name": "梁静茹 - 亲亲",
     "url": "https://panaleica.github.io/music/liangjingru/album01/梁静茹 - 亲亲.ogg",
     "image": "https://panaleica.github.io/music/liangjingru/album01/600x600bb.jpg"
