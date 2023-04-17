@@ -624,6 +624,11 @@ let json = [{
     "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
 },
 {
+    "name": "F.I.R.飞儿乐团 - Intro",
+    "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - Intro.ogg",
+    "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
+},
+{
     "name": "F.I.R.飞儿乐团 - 你很爱他",
     "url": "https://panaleica.github.io/music/fir/album07/F_I_R_飞儿乐团 - 你很爱他.ogg",
     "image": "https://panaleica.github.io/music/fir/album07/600x600bb.jpg"
