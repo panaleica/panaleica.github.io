@@ -2489,6 +2489,111 @@ let json = [{
     "image": "https://panaleica.github.io/music/sunyanzi/album27/600x600bb.jpg"
 },
 {
+    "name": "张若凡 - 不凡",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 不凡.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 小鸟",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 小鸟.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 很幼稚但没关系",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 很幼稚但没关系.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 意外的礼物",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 意外的礼物.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 戒断你",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 戒断你.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 是不是人？",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 是不是人？.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 死性不改",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 死性不改.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 等待被理解的人",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 等待被理解的人.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 非必要的美好小事",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 - 非必要的美好小事.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 _ 李哲言 - 甜噩梦",
+    "url": "https://panaleica.github.io/music/zhangruofan/album01/张若凡 _ 李哲言 - 甜噩梦.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album01/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 我陪你好吗",
+    "url": "https://panaleica.github.io/music/zhangruofan/album02/张若凡 - 我陪你好吗.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album02/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 专属天使",
+    "url": "https://panaleica.github.io/music/zhangruofan/album03/张若凡 - 专属天使.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album03/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 一静到底",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 一静到底.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 两个星期",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 两个星期.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 如何忘记你",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 如何忘记你.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 已经结束的",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 已经结束的.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 幻觉",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 幻觉.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 给你的歌",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 给你的歌.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 谁也得不到",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 谁也得不到.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 赤道上有知更鸟",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 赤道上有知更鸟.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
+    "name": "张若凡 - 走了吗",
+    "url": "https://panaleica.github.io/music/zhangruofan/album04/张若凡 - 走了吗.ogg",
+    "image": "https://panaleica.github.io/music/zhangruofan/album04/600x600bb.jpg"
+},
+{
     "name": "詹雯婷 - Fire Dancer",
     "url": "https://panaleica.github.io/music/zhanwenting/album01/詹雯婷 - Fire Dancer.ogg",
     "image": "https://panaleica.github.io/music/zhanwenting/album01/600x600bb.jpg"
