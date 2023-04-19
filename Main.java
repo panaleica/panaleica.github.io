@@ -31,7 +31,7 @@ public class Main {
                     str.append(getMusicList(file1));
                 }
             }
-        }
+       }
         if (file.isDirectory() && Objects.requireNonNull(file.list()).length == 0) {
             return str;
         }

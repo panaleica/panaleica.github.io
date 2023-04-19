@@ -369,6 +369,301 @@ let json = [{
     "image": "https://panaleica.github.io/music/by2/album02/600x600bb.jpg"
 },
 {
+    "name": "BY2 - Don't Go Away",
+    "url": "https://panaleica.github.io/music/by2/album03/BY2 - Don't Go Away.ogg",
+    "image": "https://panaleica.github.io/music/by2/album03/600x600bb.jpg"
+},
+{
+    "name": "BY2 - Every Time I look Into Your Eyes",
+    "url": "https://panaleica.github.io/music/by2/album04/BY2 - Every Time I look Into Your Eyes.m4a",
+    "image": "https://panaleica.github.io/music/by2/album04/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 任由爱",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 任由爱.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 伤心农场",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 伤心农场.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 凑热闹",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 凑热闹.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 大人的世界",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 大人的世界.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 大冒险",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 大冒险.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 好奇傻死猫",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 好奇傻死猫.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 带我离开",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 带我离开.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 爱上你",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 爱上你.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 爱的双重魔力",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 爱的双重魔力.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 这叫爱",
+    "url": "https://panaleica.github.io/music/by2/album05/BY2 - 这叫爱.ogg",
+    "image": "https://panaleica.github.io/music/by2/album05/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 一样爱着你",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 一样爱着你.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 不是故意",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 不是故意.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 我不想 Know",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 我不想 Know.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 早安男孩",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 早安男孩.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 有你我不怕",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 有你我不怕.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 有没有",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 有没有.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 白兔儿乖乖",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 白兔儿乖乖.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 看不见",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 看不见.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 红蜻蜓",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 红蜻蜓.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 闹闹 Now",
+    "url": "https://panaleica.github.io/music/by2/album06/BY2 - 闹闹 Now.ogg",
+    "image": "https://panaleica.github.io/music/by2/album06/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 2020爱你爱你",
+    "url": "https://panaleica.github.io/music/by2/album07/BY2 - 2020爱你爱你.ogg",
+    "image": "https://panaleica.github.io/music/by2/album07/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 你并不懂我",
+    "url": "https://panaleica.github.io/music/by2/album07/BY2 - 你并不懂我.ogg",
+    "image": "https://panaleica.github.io/music/by2/album07/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 爱情闯进门",
+    "url": "https://panaleica.github.io/music/by2/album07/BY2 - 爱情闯进门.ogg",
+    "image": "https://panaleica.github.io/music/by2/album07/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 触动心 触动爱",
+    "url": "https://panaleica.github.io/music/by2/album07/BY2 - 触动心 触动爱.ogg",
+    "image": "https://panaleica.github.io/music/by2/album07/600x600bb.jpg"
+},
+{
+    "name": "BY2 - Stereo",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - Stereo.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 不哭了",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 不哭了.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 傻呆呆",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 傻呆呆.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 双面妲己",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 双面妲己.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 就这样吗",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 就这样吗.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 梦想不能等待",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 梦想不能等待.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 没理由",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 没理由.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 爱情来找碴",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 爱情来找碴.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 闺蜜乐园",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 - 闺蜜乐园.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 _ 萧秉治 - 藏不住",
+    "url": "https://panaleica.github.io/music/by2/album08/BY2 _ 萧秉治 - 藏不住.ogg",
+    "image": "https://panaleica.github.io/music/by2/album08/600x600bb.jpg"
+},
+{
+    "name": "BY2 - Cat and Mouse",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - Cat and Mouse.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 你没爱过我",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 你没爱过我.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 你骗我",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 你骗我.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 当时的我们",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 当时的我们.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 怎样说清此刻的心情",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 怎样说清此刻的心情.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 温柔最痛",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 温柔最痛.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 爱我就大声说",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 爱我就大声说.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 超勇敢",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 超勇敢.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 那年下雪的时候",
+    "url": "https://panaleica.github.io/music/by2/album09/BY2 - 那年下雪的时候.ogg",
+    "image": "https://panaleica.github.io/music/by2/album09/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 桃花旗袍",
+    "url": "https://panaleica.github.io/music/by2/album10/BY2 - 桃花旗袍.ogg",
+    "image": "https://panaleica.github.io/music/by2/album10/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 梦先生",
+    "url": "https://panaleica.github.io/music/by2/album11/BY2 - 梦先生.ogg",
+    "image": "https://panaleica.github.io/music/by2/album11/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 爱又爱",
+    "url": "https://panaleica.github.io/music/by2/album11/BY2 - 爱又爱.ogg",
+    "image": "https://panaleica.github.io/music/by2/album11/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 至少还有你",
+    "url": "https://panaleica.github.io/music/by2/album12/BY2 - 至少还有你.ogg",
+    "image": "https://panaleica.github.io/music/by2/album12/s33790231.jpg"
+},
+{
+    "name": "BY2 - 坏女孩 (Bad Girl)",
+    "url": "https://panaleica.github.io/music/by2/album13/BY2 - 坏女孩 (Bad Girl).ogg",
+    "image": "https://panaleica.github.io/music/by2/album13/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 黑白配",
+    "url": "https://panaleica.github.io/music/by2/album14/BY2 - 黑白配.ogg",
+    "image": "https://panaleica.github.io/music/by2/album14/s34041932.jpg"
+},
+{
+    "name": "BY2 - 不再懦弱",
+    "url": "https://panaleica.github.io/music/by2/album15/BY2 - 不再懦弱.ogg",
+    "image": "https://panaleica.github.io/music/by2/album15/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 异地恋人",
+    "url": "https://panaleica.github.io/music/by2/album16/BY2 - 异地恋人.ogg",
+    "image": "https://panaleica.github.io/music/by2/album16/001HzMU134ByVS_2.jpg"
+},
+{
+    "name": "BY2 - 你还在听吗",
+    "url": "https://panaleica.github.io/music/by2/album17/BY2 - 你还在听吗.ogg",
+    "image": "https://panaleica.github.io/music/by2/album17/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 等到你",
+    "url": "https://panaleica.github.io/music/by2/album18/BY2 - 等到你.ogg",
+    "image": "https://panaleica.github.io/music/by2/album18/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 都是假象",
+    "url": "https://panaleica.github.io/music/by2/album19/BY2 - 都是假象.ogg",
+    "image": "https://panaleica.github.io/music/by2/album19/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 不是你要的谁",
+    "url": "https://panaleica.github.io/music/by2/album20/BY2 - 不是你要的谁.ogg",
+    "image": "https://panaleica.github.io/music/by2/album20/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 数到五",
+    "url": "https://panaleica.github.io/music/by2/album21/BY2 - 数到五.ogg",
+    "image": "https://panaleica.github.io/music/by2/album21/600x600bb.jpg"
+},
+{
+    "name": "BY2 _ 梁老师T_Song - 七分甜",
+    "url": "https://panaleica.github.io/music/by2/album22/BY2 _ 梁老师T_Song - 七分甜.ogg",
+    "image": "https://panaleica.github.io/music/by2/album22/600x600bb.jpg"
+},
+{
     "name": "F.I.R.飞儿乐团 - Someday",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - Someday.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
@@ -2717,4 +3012,174 @@ let json = [{
     "name": "詹雯婷 - 诀爱",
     "url": "https://panaleica.github.io/music/zhanwenting/album06/詹雯婷 - 诀爱.ogg",
     "image": "https://panaleica.github.io/music/zhanwenting/album06/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - Intro",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - Intro.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - Mojito",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - Mojito.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 不爱我就拉倒",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 不爱我就拉倒.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 倒影",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 倒影.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 我是如此相信",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 我是如此相信.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 最伟大的作品",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 最伟大的作品.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 等你下课 (with 杨瑞代)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 等你下课 (with 杨瑞代).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 粉色海洋",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 粉色海洋.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 红颜如霜",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 红颜如霜.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 说好不哭 (with 五月天阿信)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 说好不哭 (with 五月天阿信).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 还在流浪",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 还在流浪.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 错过的烟火",
+    "url": "https://panaleica.github.io/music/zhoujielun/album01/周杰伦 - 错过的烟火.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album01/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - Now You See Me",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - Now You See Me.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 一点点",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 一点点.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 前世情人",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 前世情人.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 告白气球",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 告白气球.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 土耳其冰淇淋",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 土耳其冰淇淋.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 床边故事",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 床边故事.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 爱情废柴",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 爱情废柴.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 英雄",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 英雄.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 说走就走",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 - 说走就走.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 张惠妹 - 不该 (with aMEI)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album02/周杰伦 _ 张惠妹 - 不该 (with aMEI).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album02/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 一口气全念对",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 一口气全念对.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 听爸爸的话",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 听爸爸的话.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 听见下雨的声音",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 听见下雨的声音.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 天涯过客",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 天涯过客.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 手写的从前",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 手写的从前.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 窃爱",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 窃爱.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 算什么男人",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 算什么男人.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 美人鱼",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 美人鱼.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 阳明山",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 阳明山.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 鞋子特大号",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 - 鞋子特大号.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 杨瑞代 - 我要夏天",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 _ 杨瑞代 - 我要夏天.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 袁咏琳 - 怎么了",
+    "url": "https://panaleica.github.io/music/zhoujielun/album03/周杰伦 _ 袁咏琳 - 怎么了.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album03/600x600bb.jpg"
 }]
