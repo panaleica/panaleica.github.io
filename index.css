@@ -1,0 +1,150 @@
+a {
+    text-decoration: none;
+}
+
+#player {
+    position: fixed;
+    left: 210px;
+    top: 20px;
+    width: 850px;
+    height: 110px;
+    background: linear-gradient(to right, rgba(246, 229, 253, 0.9), #e1e1f8, rgba(246, 233, 255, 0.85));
+    border-radius: 100px;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#cover {
+    position: fixed;
+    margin-left: 8px;
+    margin-top: 8px;
+    height: 95px;
+    width: 95px;
+    border-radius: 100%;
+}
+
+.rotate{
+    animation: rotation 6s linear infinite;
+}
+
+#title {
+    position: fixed;
+    margin-left: 150px;
+    margin-top: 15px;
+    font-weight: bold;
+    color: rgba(40, 1, 52, 0.73);
+}
+
+#play {
+    position: fixed;
+    margin-left: 140px;
+    margin-top: 45px;
+    width: 380px;
+}
+
+button {
+    background-color: rgba(133, 113, 204, 0.9);
+    color: white;
+    text-align: center;
+    border: none;
+    font-size: 14px;
+    height: 25px;
+    width: 80px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: rgba(174, 160, 232, 0.9);
+}
+
+#btn_group {
+    position: fixed;
+    left: 760px;
+    top: 45px;
+}
+
+#goto {
+    position: fixed;
+    left: 760px;
+    top: 80px;
+}
+
+input {
+    outline: none;
+    width: 156px;
+    height: 18px;
+    border: 2px solid #e2d8ee;
+    border-radius: 4px;
+}
+
+#repository {
+    height: 25px;
+    width: 100px;
+    position: fixed;
+    right: 60px;
+    top: 0;
+    background-color: rgba(217, 202, 236, 0.87);
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#repository a {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+fieldset {
+    margin: 150px 200px 20px 200px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(206, 202, 239);
+    padding: 0;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+li {
+    font-size: 14px;
+    width: 300px;
+    line-height: 220%;
+    margin-right: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    border-bottom: 1px solid rgba(203, 167, 218, 0.1);
+    transition: color 0.3s, border-bottom 0.3s, background 0.3s;
+}
+
+li:hover {
+    cursor: pointer;
+    color: #9c76fd;
+    background: rgba(179, 118, 253, 0.08);
+}
+
+.active {
+    color: rgb(156, 118, 253);
+    font-weight: bold;
+    border-bottom: 3px solid rgb(156, 118, 253);
+}
+
+#index {
+    font-family: Consolas, serif;
+    color: #8c8c8c;
+}

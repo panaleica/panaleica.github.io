@@ -375,7 +375,7 @@ let json = [{
 },
 {
     "name": "BY2 - Every Time I look Into Your Eyes",
-    "url": "https://panaleica.github.io/music/by2/album04/BY2 - Every Time I look Into Your Eyes.m4a",
+    "url": "https://panaleica.github.io/music/by2/album04/BY2 - Every Time I look Into Your Eyes.ogg",
     "image": "https://panaleica.github.io/music/by2/album04/600x600bb.jpg"
 },
 {
@@ -3342,4 +3342,519 @@ let json = [{
     "name": "周杰伦 _ 杨瑞代 - 爱的飞行日记",
     "url": "https://panaleica.github.io/music/zhoujielun/album06/周杰伦 _ 杨瑞代 - 爱的飞行日记.ogg",
     "image": "https://panaleica.github.io/music/zhoujielun/album06/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 乔克叔叔",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 乔克叔叔.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 兰亭序",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 兰亭序.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 时光机",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 时光机.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 稻香",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 稻香.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 给我一首歌的时间",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 给我一首歌的时间.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 花海",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 花海.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 说好的幸福呢",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 说好的幸福呢.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 魔术先生",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 魔术先生.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 龙战骑士",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 - 龙战骑士.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ Lara梁心颐 - 蛇舞",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 _ Lara梁心颐 - 蛇舞.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 杨瑞代 - 流浪诗人",
+    "url": "https://panaleica.github.io/music/zhoujielun/album07/周杰伦 _ 杨瑞代 - 流浪诗人.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album07/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 彩虹",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 彩虹.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 我不配",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 我不配.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 扯",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 扯.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 无双",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 无双.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 最长的电影",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 最长的电影.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 牛仔很忙",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 牛仔很忙.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 甜甜的",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 甜甜的.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 蒲公英的约定",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 蒲公英的约定.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 阳光宅男",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 阳光宅男.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 青花瓷",
+    "url": "https://panaleica.github.io/music/zhoujielun/album08/周杰伦 - 青花瓷.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album08/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 听妈妈的话",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 听妈妈的话.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 心雨",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 心雨.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 本草纲目",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 本草纲目.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 白色风车",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 白色风车.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 红模仿",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 红模仿.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 菊花台",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 菊花台.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 迷迭香",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 迷迭香.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 退后",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 - 退后.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 潘儿 - 夜的第七章",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 _ 潘儿 - 夜的第七章.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 费玉清 - 千里之外",
+    "url": "https://panaleica.github.io/music/zhoujielun/album09/周杰伦 _ 费玉清 - 千里之外.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album09/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 一路向北",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 一路向北.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 发如雪",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 发如雪.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 夜曲",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 夜曲.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 枫",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 枫.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 浪漫手机",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 浪漫手机.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 蓝色风暴",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 蓝色风暴.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 逆鳞",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 逆鳞.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 飘移",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 飘移.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 麦芽糖",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 麦芽糖.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 黑色毛衣",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 - 黑色毛衣.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ Lara梁心颐 - 珊瑚海",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 _ Lara梁心颐 - 珊瑚海.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 _ 林迈可 - 四面楚歌",
+    "url": "https://panaleica.github.io/music/zhoujielun/album10/周杰伦 _ 林迈可 - 四面楚歌.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album10/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 七里香",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 七里香.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 乱舞春秋",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 乱舞春秋.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 借口",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 借口.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 园游会",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 园游会.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 困兽之斗",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 困兽之斗.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 外婆",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 外婆.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 将军",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 将军.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 我的地盘",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 我的地盘.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 搁浅",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 搁浅.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 止战之殇",
+    "url": "https://panaleica.github.io/music/zhoujielun/album11/周杰伦 - 止战之殇.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album11/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 三年二班",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 三年二班.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 东风破",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 东风破.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 以父之名",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 以父之名.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 你听得到",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 你听得到.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 双刀",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 双刀.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 同一种调调",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 同一种调调.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 她的睫毛",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 她的睫毛.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 懦夫",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 懦夫.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 晴天",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 晴天.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 梯田",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 梯田.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 爱情悬崖",
+    "url": "https://panaleica.github.io/music/zhoujielun/album12/周杰伦 - 爱情悬崖.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album12/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 分裂",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 分裂.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 半兽人",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 半兽人.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 半岛铁盒",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 半岛铁盒.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 回到过去",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 回到过去.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 暗号",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 暗号.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 最后的战役",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 最后的战役.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 火车叨位去",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 火车叨位去.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 爷爷泡的茶",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 爷爷泡的茶.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 米兰的小铁匠",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 米兰的小铁匠.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 龙拳",
+    "url": "https://panaleica.github.io/music/zhoujielun/album13/周杰伦 - 龙拳.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album13/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 上海一九四三",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 上海一九四三.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 双截棍",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 双截棍.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 威廉古堡",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 威廉古堡.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 安静",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 安静.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 对不起",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 对不起.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 开不了口",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 开不了口.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 忍者",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 忍者.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 爱在西元前",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 爱在西元前.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 爸，我回来了",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 爸，我回来了.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 简单爱",
+    "url": "https://panaleica.github.io/music/zhoujielun/album14/周杰伦 - 简单爱.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album14/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 伊斯坦堡",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 伊斯坦堡.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 印第安老斑鸠",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 印第安老斑鸠.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 反方向的钟",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 反方向的钟.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 可爱女人",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 可爱女人.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 娘子",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 娘子.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 完美主义",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 完美主义.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 斗牛",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 斗牛.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 星晴",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 星晴.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 黑色幽默",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 黑色幽默.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 龙卷风",
+    "url": "https://panaleica.github.io/music/zhoujielun/album15/周杰伦 - 龙卷风.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album15/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 世界末日 (Live)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album16/周杰伦 - 世界末日 (Live).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album16/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 你比从前快乐 (Live)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album16/周杰伦 - 你比从前快乐 (Live).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album16/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 蜗牛 (Live)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album16/周杰伦 - 蜗牛 (Live).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album16/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 断了的弦",
+    "url": "https://panaleica.github.io/music/zhoujielun/album17/周杰伦 - 断了的弦.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album17/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 轨迹",
+    "url": "https://panaleica.github.io/music/zhoujielun/album17/周杰伦 - 轨迹.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album17/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 献世 (Live)",
+    "url": "https://panaleica.github.io/music/zhoujielun/album18/周杰伦 - 献世 (Live).ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album18/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 霍元甲",
+    "url": "https://panaleica.github.io/music/zhoujielun/album18/周杰伦 - 霍元甲.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album18/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 黄金甲",
+    "url": "https://panaleica.github.io/music/zhoujielun/album19/周杰伦 - 黄金甲.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album19/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 英雄",
+    "url": "https://panaleica.github.io/music/zhoujielun/album20/周杰伦 - 英雄.ogg",
+    "image": "https://panaleica.github.io/music/zhoujielun/album20/600x600bb.jpg"
 }]

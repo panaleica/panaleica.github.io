@@ -2,12 +2,139 @@
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
-    <title>Hello</title>
+    <title>Music</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <script src="vue.min.js"></script>
+    <script src="https://panaleica.github.io/music.js"></script>
 </head>
 <body>
-<div>使用以下标签引用JS文件</div>
-<div>
-    &lt;script src="https://panaleica.github.io/music.js"&gt;&lt;/script&gt;
+<div id="app">
+    <div id="player">
+        <span id="title">{{music.name}}</span>
+        <audio id="play" ref="music" :src="music.url" @ended="onAudioEnded()" controls>Music Player</audio>
+        <div id="btn_group">
+            <button id="btn_last" @click="prePlay" title="Ctrl+Left">上一首</button>
+            <button id="btn_next" @click="nextPlay" title="Ctrl+Right">下一首</button>
+            <button id="btn_2" v-if="config.type==1" @click="config.type=2">单曲循环</button>
+            <button id="btn_3" v-if="config.type==2" @click="config.type=3">顺序播放</button>
+            <button id="btn_1" v-if="config.type==3" @click="config.type=1">随机播放</button>
+        </div>
+        <div id="goto">
+            <input type="text" v-model="config.search" @change="onSearchUpdate()">
+            <button @click="search">搜索</button>
+        </div>
+        <a :href="music.image" target="_blank"><img id="cover" :src="music.image" class="rotate" alt="Album cover"></a>
+    </div>
+    <div id="repository"><a href="https://github.com/panaleica/panaleica.github.io" target="_blank">GitHub</a></div>
+    <fieldset>
+        <ul class="list">
+            <li v-for="(item,index) in json" :data-key="index" :class="{active:item.url==music.url}" :title="item.name"
+                @click="onAudioClick(item,index)"><span
+                    id="index">&nbsp;{{index+1}}&nbsp;</span><span>{{item.name}}</span>
+            </li>
+        </ul>
+    </fieldset>
 </div>
+<script>
+    var vm = new Vue({
+        el: '#app',
+        data: {
+            json: [...json], // 全部
+            musicList: [...json], // 当前总列表
+            music: { // 当前播放
+                name: '',
+                url: ''
+            },
+            list: [], // 当前列表
+            searchList: [],
+            curIndex: 0,
+            config: {
+                search: "", // 搜索内容
+                type: 2, // 1，单曲循环 2，顺序播放 3，随机播放
+            }
+        },
+        mounted() {
+            this.$refs.music.volume = 0.8
+            this.music = this.musicList[this.curIndex]
+            this.play()
+            document.addEventListener('keydown', (e) => {
+                if (e.key === " ") {
+                    e.preventDefault();
+                    this.$refs.music.paused ? this.$refs.music.play() : this.$refs.music.pause();
+                } else if (e.key === "ArrowLeft" && e.ctrlKey) {
+                    this.prePlay()
+                } else if (e.key === "ArrowRight" && e.ctrlKey) {
+                    this.nextPlay()
+                }
+            })
+        },
+        methods: {
+            onAudioClick(music, index) {
+                this.curIndex = index
+                this.music = music
+                this.play()
+            },
+            onAudioEnded() {
+                switch (this.config.type) {
+                    case 1:
+                        this.play()
+                        break;
+                    case 2:
+                        this.music = this.musicList[++this.curIndex]
+                        this.play()
+                        break;
+                    case 3:
+                        this.RandomPlay();
+                        break;
+                    default:
+                        break;
+                }
+            },
+            prePlay() {
+                if (this.config.type === 3) {
+                    this.RandomPlay()
+                } else {
+                    this.curIndex > 0 && (this.music = this.musicList[--this.curIndex], this.play())
+                }
+            },
+            nextPlay() {
+                if (this.config.type === 3) {
+                    this.RandomPlay()
+                } else {
+                    this.curIndex < this.musicList.length - 1 && (this.music = this.musicList[++this.curIndex], this.play())
+                }
+            },
+            onSearchUpdate() {
+                this.searchList = []
+                this.json.forEach((item, index) => item.name.includes(this.config.search) && this.searchList.push(index))
+            },
+            search() {
+                let ind = this.searchList.indexOf(this.curIndex);
+                !this.curIndex && (this.curIndex = this.searchList[0]);
+                if (!this.searchList.length) {
+                    return
+                }
+                if (this.searchList.includes(this.curIndex)) {
+                    ind + 1 < this.searchList.length ? (this.curIndex = this.searchList[ind + 1]) : (this.curIndex = this.searchList[0]);
+                } else {
+                    this.curIndex = this.searchList[0]
+                }
+                document.querySelector('.list').children[this.curIndex].scrollIntoView(false)
+                this.music = this.musicList[this.curIndex]
+            },
+            RandomPlay() {
+                const index = Math.ceil(Math.random() * json.length)
+                this.music = this.musicList[index]
+                this.play()
+            },
+            play() {
+                this.$nextTick(() => {
+                    this.$refs.music.play();
+                    document.title = this.music.name
+                })
+            }
+        }
+    })
+</script>
 </body>
 </html>
