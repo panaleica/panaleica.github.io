@@ -10,7 +10,7 @@
 </head>
 <body>
 <div id="app">
-    <div id="bg" :style="{'background-image':'url('+music.image+')'}"></div>
+    <img :src="music.image" id="bg" alt="background">
     <div id="player">
         <span id="title">{{music.name}}</span>
         <audio id="play" ref="music" :src="music.url" @ended="onAudioEnded()" @pause="onPause()" @play="onPlay()" controls>Music Player</audio>
@@ -25,7 +25,7 @@
             <input type="text" v-model="config.search" @change="onSearchUpdate()">
             <button @click="search">搜索</button>
         </div>
-        <a :href="music.image" target="_blank"><img id="cover" :src="music.image" class="rotate stoprotate" alt="Album Cover"></a>
+        <a :href="music.image" target="_blank"><img id="cover" :src="music.image" class="rotate stopRotate" alt="Album Cover"></a>
     </div>
     <div id="repository"><a href="https://github.com/panaleica/panaleica.github.io" target="_blank">GitHub</a></div>
     <fieldset>
@@ -93,15 +93,17 @@
             prePlay() {
                 if (this.config.type === 3) {
                     this.RandomPlay()
-                } else {
-                    this.curIndex > 0 && (this.music = this.musicList[--this.curIndex], this.play())
+                } else if (this.curIndex > 0) {
+                    this.music = this.musicList[--this.curIndex]
+                    this.play()
                 }
             },
             nextPlay() {
                 if (this.config.type === 3) {
                     this.RandomPlay()
-                } else {
-                    this.curIndex < this.musicList.length - 1 && (this.music = this.musicList[++this.curIndex], this.play())
+                } else if (this.curIndex < this.musicList.length - 1) {
+                    this.music = this.musicList[++this.curIndex]
+                    this.play()
                 }
             },
             onSearchUpdate() {
@@ -136,11 +138,11 @@
             },
             onPause() {
                 const image = document.getElementById("cover");
-                image.classList.add("stoprotate")
+                image.classList.add("stopRotate")
             },
             onPlay() {
                 const image = document.getElementById("cover");
-                image.classList.remove("stoprotate")
+                image.classList.remove("stopRotate")
             }
         }
     })
