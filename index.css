@@ -1,14 +1,18 @@
+body {
+    background: linear-gradient(to right, rgb(235, 243, 255), rgb(255, 234, 248), rgb(250, 236, 255), rgb(230, 230, 255));
+}
+
 a {
     text-decoration: none;
 }
 
 #player {
     position: fixed;
-    left: 210px;
+    left: 10%;
     top: 20px;
     width: 850px;
     height: 110px;
-    background: linear-gradient(to right, rgba(246, 229, 253, 0.9), #e1e1f8, rgba(246, 233, 255, 0.85));
+    background: linear-gradient(to right, rgb(242, 214, 253), rgba(224, 224, 253, 0.95), rgba(244, 225, 255, 0.9), rgba(225, 225, 248, 0.95));
     border-radius: 100px;
 }
 
@@ -22,16 +26,20 @@ a {
 }
 
 #cover {
-    position: fixed;
-    margin-left: 8px;
-    margin-top: 8px;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 7px;
     height: 95px;
     width: 95px;
     border-radius: 100%;
 }
 
-.rotate{
+.rotate {
     animation: rotation 6s linear infinite;
+}
+
+.stoprotate {
+    animation-play-state: paused;
 }
 
 #title {
@@ -39,7 +47,7 @@ a {
     margin-left: 150px;
     margin-top: 15px;
     font-weight: bold;
-    color: rgba(40, 1, 52, 0.73);
+    color: rgba(79, 3, 103, 0.73);
 }
 
 #play {
@@ -68,19 +76,19 @@ button:hover {
 
 #btn_group {
     position: fixed;
-    left: 760px;
-    top: 45px;
+    margin-left: 560px;
+    top: 48px;
 }
 
 #goto {
     position: fixed;
-    left: 760px;
-    top: 80px;
+    margin-left: 560px;
+    top: 82px;
 }
 
 input {
     outline: none;
-    width: 156px;
+    width: 158px;
     height: 18px;
     border: 2px solid #e2d8ee;
     border-radius: 4px;
@@ -90,7 +98,7 @@ input {
     height: 25px;
     width: 100px;
     position: fixed;
-    right: 60px;
+    right: 2%;
     top: 0;
     background-color: rgba(217, 202, 236, 0.87);
     border-bottom-right-radius: 6px;
@@ -107,7 +115,7 @@ input {
 }
 
 fieldset {
-    margin: 150px 200px 20px 200px;
+    margin: 150px 9% 20px 9%;
     border-style: solid;
     border-width: 2px;
     border-color: rgb(206, 202, 239);
@@ -117,7 +125,6 @@ fieldset {
 .list {
     display: flex;
     flex-wrap: wrap;
-    align-content: flex-start;
 }
 
 li {
@@ -147,4 +154,18 @@ li:hover {
 #index {
     font-family: Consolas, serif;
     color: #8c8c8c;
+}
+
+#bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    transform: scale(1.2, 1.2);
+    position: fixed;
+    filter: blur(60px);
+    opacity: 40%;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transition: background 0.5s;
 }

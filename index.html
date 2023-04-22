@@ -2,19 +2,21 @@
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
-    <title>Music</title>
+    <title>Music Library</title>
+    <link rel="icon" href="music.png">
     <link rel="stylesheet" type="text/css" href="index.css">
     <script src="vue.min.js"></script>
     <script src="https://panaleica.github.io/music.js"></script>
 </head>
 <body>
 <div id="app">
+    <div id="bg" :style="{'background-image':'url('+music.image+')'}"></div>
     <div id="player">
         <span id="title">{{music.name}}</span>
-        <audio id="play" ref="music" :src="music.url" @ended="onAudioEnded()" controls>Music Player</audio>
+        <audio id="play" ref="music" :src="music.url" @ended="onAudioEnded()" @pause="onPause()" @play="onPlay()" controls>Music Player</audio>
         <div id="btn_group">
-            <button id="btn_last" @click="prePlay" title="Ctrl+Left">上一首</button>
-            <button id="btn_next" @click="nextPlay" title="Ctrl+Right">下一首</button>
+            <button id="btn_last" @click="prePlay()" title="Ctrl+Left">上一首</button>
+            <button id="btn_next" @click="nextPlay()" title="Ctrl+Right">下一首</button>
             <button id="btn_2" v-if="config.type==1" @click="config.type=2">单曲循环</button>
             <button id="btn_3" v-if="config.type==2" @click="config.type=3">顺序播放</button>
             <button id="btn_1" v-if="config.type==3" @click="config.type=1">随机播放</button>
@@ -23,14 +25,13 @@
             <input type="text" v-model="config.search" @change="onSearchUpdate()">
             <button @click="search">搜索</button>
         </div>
-        <a :href="music.image" target="_blank"><img id="cover" :src="music.image" class="rotate" alt="Album cover"></a>
+        <a :href="music.image" target="_blank"><img id="cover" :src="music.image" class="rotate stoprotate" alt="Album Cover"></a>
     </div>
     <div id="repository"><a href="https://github.com/panaleica/panaleica.github.io" target="_blank">GitHub</a></div>
     <fieldset>
         <ul class="list">
-            <li v-for="(item,index) in json" :data-key="index" :class="{active:item.url==music.url}" :title="item.name"
-                @click="onAudioClick(item,index)"><span
-                    id="index">&nbsp;{{index+1}}&nbsp;</span><span>{{item.name}}</span>
+            <li v-for="(item,index) in json" :class="{active:item.url==music.url}" :title="item.name" @click="onAudioClick(item,index)">
+                <span id="index">&nbsp;{{index+1}}&nbsp;</span><span>{{item.name}}</span>
             </li>
         </ul>
     </fieldset>
@@ -56,7 +57,6 @@
         mounted() {
             this.$refs.music.volume = 0.8
             this.music = this.musicList[this.curIndex]
-            this.play()
             document.addEventListener('keydown', (e) => {
                 if (e.key === " ") {
                     e.preventDefault();
@@ -121,6 +121,7 @@
                 }
                 document.querySelector('.list').children[this.curIndex].scrollIntoView(false)
                 this.music = this.musicList[this.curIndex]
+                this.play()
             },
             RandomPlay() {
                 const index = Math.ceil(Math.random() * json.length)
@@ -132,6 +133,14 @@
                     this.$refs.music.play();
                     document.title = this.music.name
                 })
+            },
+            onPause() {
+                const image = document.getElementById("cover");
+                image.classList.add("stoprotate")
+            },
+            onPlay() {
+                const image = document.getElementById("cover");
+                image.classList.remove("stoprotate")
             }
         }
     })
