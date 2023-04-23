@@ -101,7 +101,8 @@
                 if (this.config.type === 3) {
                     this.randomPlay()
                 } else if (this.curIndex === this.musicList.length - 1) {
-                    this.music = this.musicList[0]
+                    this.curIndex = 0
+                    this.music = this.musicList[this.curIndex]
                     this.play()
                 } else {
                     this.music = this.musicList[++this.curIndex]
@@ -109,8 +110,8 @@
                 }
             },
             randomPlay() {
-                let index = Math.ceil(Math.random() * this.musicList.length)
-                this.music = this.musicList[index]
+                this.curIndex = Math.ceil(Math.random() * this.musicList.length)
+                this.music = this.musicList[this.curIndex]
                 this.play()
             },
             search() {
