@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="zh">
 <head>
-    <meta charset="UTF-8">
     <title>Music Library</title>
-    <link rel="icon" href="music.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="pictures/music.png">
     <link rel="stylesheet" type="text/css" href="index.css">
-    <script src="vue.min.js"></script>
+    <script src="vue.js"></script>
     <script src="https://panaleica.github.io/music.js"></script>
 </head>
 <body>
@@ -17,11 +18,11 @@
         <span id="title">{{music.name}}</span>
         <audio id="play" ref="music" :src="music.url" @ended="onAudioEnded()" @pause="onPause()" @play="onPlay()" controls>Music Player</audio>
         <div id="btn-group">
-            <button @click="prePlay()" title="Ctrl+Left">上一首</button>
-            <button @click="nextPlay()" title="Ctrl+Right">下一首</button>
+            <button @click="prePlay()">上一首</button>
+            <button @click="nextPlay()">下一首</button>
+            <button v-if="config.type==0" @click="config.type=1">顺序播放</button>
             <button v-if="config.type==1" @click="config.type=2">单曲循环</button>
-            <button v-if="config.type==2" @click="config.type=3">顺序播放</button>
-            <button v-if="config.type==3" @click="config.type=1">随机播放</button>
+            <button v-if="config.type==2" @click="config.type=0">随机播放</button>
         </div>
         <div id="goto">
             <input type="text" v-model="config.search">
@@ -51,7 +52,7 @@
             curIndex: 0,
             config: {
                 search: "",
-                type: 2,
+                type: 0,
             }
         },
         mounted() {
@@ -66,13 +67,13 @@
             },
             onAudioEnded() {
                 switch (this.config.type) {
+                    case 0:
+                        this.nextPlay()
+                        break;
                     case 1:
                         this.play()
                         break;
                     case 2:
-                        this.nextPlay()
-                        break;
-                    case 3:
                         this.randomPlay();
                         break;
                     default:
@@ -86,7 +87,7 @@
                 })
             },
             prePlay() {
-                if (this.config.type === 3) {
+                if (this.config.type === 2) {
                     this.randomPlay()
                 } else if (this.curIndex === 0) {
                     this.curIndex = this.musicList.length - 1
@@ -98,7 +99,7 @@
                 }
             },
             nextPlay() {
-                if (this.config.type === 3) {
+                if (this.config.type === 2) {
                     this.randomPlay()
                 } else if (this.curIndex === this.musicList.length - 1) {
                     this.curIndex = 0

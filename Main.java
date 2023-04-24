@@ -31,7 +31,7 @@ public class Main {
                     str.append(getMusicList(file1));
                 }
             }
-       }
+        }
         if (file.isDirectory() && Objects.requireNonNull(file.list()).length == 0) {
             return str;
         }
@@ -56,7 +56,7 @@ public class Main {
                             "url": "%s",
                             "image": "%s"
                         },
-                        """, file1.getName().substring(0, file1.getName().lastIndexOf('.')).replaceAll("F_I_R_","F.I.R."), URL + file.getPath().replace('\\', '/') + "/" + file1.getName().replaceAll("#","%23"), URL + file.getPath().replace('\\', '/') + "/" + coverName));
+                        """, file1.getName().substring(0, file1.getName().lastIndexOf('.')).replaceAll("F_I_R_", "F.I.R."), URL + file.getPath().replace('\\', '/') + "/" + file1.getName().replaceAll("#", "%23"), URL + file.getPath().replace('\\', '/') + "/" + coverName));
             }
         return str;
     }
