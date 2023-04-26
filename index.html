@@ -7,7 +7,7 @@
     <link rel="icon" href="pictures/music.png">
     <link rel="stylesheet" type="text/css" href="index.css">
     <script src="vue.js"></script>
-    <script src="https://panaleica.github.io/music.js"></script>
+    <script src="music.js"></script>
 </head>
 <body>
 <div id="app">
@@ -25,7 +25,7 @@
             <button v-if="config.type==2" @click="config.type=0">随机播放</button>
         </div>
         <div id="goto">
-            <input type="text" v-model="config.search">
+            <input type="text" aria-labelledby="Search" v-model="config.search">
             <button @click="search()">搜索</button>
             <button @click="filter()">过滤</button>
         </div>
@@ -89,7 +89,7 @@
             prePlay() {
                 if (this.config.type === 2) {
                     this.randomPlay()
-                } else if (this.curIndex === 0) {
+                } else if (this.curIndex === 0 || this.curIndex === -1) {
                     this.curIndex = this.musicList.length - 1
                     this.music = this.musicList[this.curIndex]
                     this.play()
@@ -101,7 +101,7 @@
             nextPlay() {
                 if (this.config.type === 2) {
                     this.randomPlay()
-                } else if (this.curIndex === this.musicList.length - 1) {
+                } else if (this.curIndex === this.musicList.length - 1 || this.curIndex === -1) {
                     this.curIndex = 0
                     this.music = this.musicList[this.curIndex]
                     this.play()
@@ -111,7 +111,7 @@
                 }
             },
             randomPlay() {
-                this.curIndex = Math.ceil(Math.random() * this.musicList.length)
+                this.curIndex = Math.floor(Math.random() * this.musicList.length)
                 this.music = this.musicList[this.curIndex]
                 this.play()
             },
@@ -147,7 +147,7 @@
                         this.curIndex = i
                         break
                     } else {
-                        this.curIndex = 0
+                        this.curIndex = -1
                     }
                 }
             },
