@@ -264,6 +264,11 @@ let json = [{
     "image": "https://panaleica.github.io/music/baian/album12/600x600bb.jpg"
 },
 {
+    "name": "白安 - I'll Be Alright",
+    "url": "https://panaleica.github.io/music/baian/album13/白安 - I'll Be Alright.ogg",
+    "image": "https://panaleica.github.io/music/baian/album13/600x600bb.jpg"
+},
+{
     "name": "BY2 - PP别黏在椅上",
     "url": "https://panaleica.github.io/music/by2/album01/BY2 - PP别黏在椅上.ogg",
     "image": "https://panaleica.github.io/music/by2/album01/600x600bb.jpg"
