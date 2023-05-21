@@ -35,7 +35,7 @@
     <fieldset>
         <ul id="list">
             <li v-for="(item,index) in musicList" :class="{active:item.url==music.url}" :title="item.name" @click="onAudioClick(item,index)">
-                <span id="index">&nbsp;{{index+1}}&nbsp;</span><span>{{item.name}}</span>
+                <span class="index">&nbsp;{{index+1}}&nbsp;</span><span>{{item.name}}</span>
             </li>
         </ul>
     </fieldset>
