@@ -3,4 +3,4 @@
 
 使用以下标签引用JS文件
 
-`<script src="https://panaleica.github.io/music.js"></script>`
+`<script src="https://panaleica.github.io/music_external.js"></script>`
