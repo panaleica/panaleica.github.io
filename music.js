@@ -274,6 +274,16 @@ let json = [{
     "image": "music/baian/album14/600x600bb.jpg"
 },
 {
+    "name": "白安 _ 张紫宁 - 刚好 (Live)",
+    "url": "music/baian/album15/白安 _ 张紫宁 - 刚好 (Live).ogg",
+    "image": "music/baian/album15/T002R300x300M0000010cqEK2Ebn2R_2.jpg"
+},
+{
+    "name": "白安 _ 早安 - 是什么让我遇见这样的你 (Live)",
+    "url": "music/baian/album16/白安 _ 早安 - 是什么让我遇见这样的你 (Live).ogg",
+    "image": "music/baian/album16/T002R300x300M000004ADYFG0SQj3f_2.jpg"
+},
+{
     "name": "BY2 - PP别黏在椅上",
     "url": "music/by2/album01/BY2 - PP别黏在椅上.ogg",
     "image": "music/by2/album01/600x600bb.jpg"
@@ -672,6 +682,11 @@ let json = [{
     "name": "BY2 _ 梁老师T_Song - 七分甜",
     "url": "music/by2/album22/BY2 _ 梁老师T_Song - 七分甜.ogg",
     "image": "music/by2/album22/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 我真的怕忘记你",
+    "url": "music/by2/album23/BY2 - 我真的怕忘记你.ogg",
+    "image": "music/by2/album23/600x600bb.jpg"
 },
 {
     "name": "F.I.R.飞儿乐团 - Someday",
@@ -3577,6 +3592,191 @@ let json = [{
     "name": "五月天 - 诺亚方舟",
     "url": "music/wuyuetian/album10/五月天 - 诺亚方舟.ogg",
     "image": "music/wuyuetian/album10/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 我",
+    "url": "music/wuyuetian/album11/五月天 - 我.ogg",
+    "image": "music/wuyuetian/album11/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 摇滚本事",
+    "url": "music/wuyuetian/album11/五月天 - 摇滚本事.ogg",
+    "image": "music/wuyuetian/album11/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 生命有一种绝对",
+    "url": "music/wuyuetian/album11/五月天 - 生命有一种绝对.ogg",
+    "image": "music/wuyuetian/album11/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 闯",
+    "url": "music/wuyuetian/album11/五月天 - 闯.ogg",
+    "image": "music/wuyuetian/album11/600x600bb.jpg"
+},
+{
+    "name": "五月天 - DNA",
+    "url": "music/wuyuetian/album12/五月天 - DNA.ogg",
+    "image": "music/wuyuetian/album12/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 放肆",
+    "url": "music/wuyuetian/album12/五月天 - 放肆.ogg",
+    "image": "music/wuyuetian/album12/600x600bb.jpg"
+},
+{
+    "name": "五月天 - Do You Ever Shine_",
+    "url": "music/wuyuetian/album13/五月天 - Do You Ever Shine_.ogg",
+    "image": "music/wuyuetian/album13/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 由我们主宰",
+    "url": "music/wuyuetian/album14/五月天 - 由我们主宰.ogg",
+    "image": "music/wuyuetian/album14/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 勇敢",
+    "url": "music/wuyuetian/album15/五月天 - 勇敢.ogg",
+    "image": "music/wuyuetian/album15/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 人生有限公司",
+    "url": "music/wuyuetian/album16/五月天 - 人生有限公司.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 任意门",
+    "url": "music/wuyuetian/album16/五月天 - 任意门.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 兄弟",
+    "url": "music/wuyuetian/album16/五月天 - 兄弟.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 后来的我们",
+    "url": "music/wuyuetian/album16/五月天 - 后来的我们.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 好好 (想把你写成一首歌)",
+    "url": "music/wuyuetian/album16/五月天 - 好好 (想把你写成一首歌).ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 如果我们不曾相遇",
+    "url": "music/wuyuetian/album16/五月天 - 如果我们不曾相遇.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 少年他的奇幻漂流",
+    "url": "music/wuyuetian/album16/五月天 - 少年他的奇幻漂流.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 成名在望",
+    "url": "music/wuyuetian/album16/五月天 - 成名在望.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 最好的一天",
+    "url": "music/wuyuetian/album16/五月天 - 最好的一天.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 派对动物",
+    "url": "music/wuyuetian/album16/五月天 - 派对动物.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 终于结束的起点",
+    "url": "music/wuyuetian/album16/五月天 - 终于结束的起点.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 转眼",
+    "url": "music/wuyuetian/album16/五月天 - 转眼.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 顽固",
+    "url": "music/wuyuetian/album16/五月天 - 顽固.ogg",
+    "image": "music/wuyuetian/album16/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 凡人歌",
+    "url": "music/wuyuetian/album17/五月天 - 凡人歌.ogg",
+    "image": "music/wuyuetian/album17/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 志明与春娇 (国语)",
+    "url": "music/wuyuetian/album18/五月天 - 志明与春娇 (国语).ogg",
+    "image": "music/wuyuetian/album18/T002R300x300M0000005tsLz17Fiyl_1.jpg"
+},
+{
+    "name": "五月天 - 什么歌",
+    "url": "music/wuyuetian/album19/五月天 - 什么歌.ogg",
+    "image": "music/wuyuetian/album19/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 后来的我们",
+    "url": "music/wuyuetian/album20/五月天 - 后来的我们.ogg",
+    "image": "music/wuyuetian/album20/600x600bb.jpg"
+},
+{
+    "name": "五月天 - I Will Carry You",
+    "url": "music/wuyuetian/album21/五月天 - I Will Carry You.ogg",
+    "image": "music/wuyuetian/album21/T002R300x300M000001xf32c0zs2so_1.jpg"
+},
+{
+    "name": "五月天 - 纯真 #MaydayBlue20th",
+    "url": "music/wuyuetian/album22/五月天 - 纯真 %23MaydayBlue20th.ogg",
+    "image": "music/wuyuetian/album22/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 疯狂世界 #MaydayBlue20th",
+    "url": "music/wuyuetian/album23/五月天 - 疯狂世界 %23MaydayBlue20th.ogg",
+    "image": "music/wuyuetian/album23/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 玫瑰少年",
+    "url": "music/wuyuetian/album24/五月天 - 玫瑰少年.ogg",
+    "image": "music/wuyuetian/album24/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 因为你 所以我",
+    "url": "music/wuyuetian/album25/五月天 - 因为你 所以我.ogg",
+    "image": "music/wuyuetian/album25/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 刻在我心底的名字",
+    "url": "music/wuyuetian/album26/五月天 - 刻在我心底的名字.ogg",
+    "image": "music/wuyuetian/album26/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 你的神曲",
+    "url": "music/wuyuetian/album27/五月天 - 你的神曲.ogg",
+    "image": "music/wuyuetian/album27/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 为你写下这首情歌",
+    "url": "music/wuyuetian/album28/五月天 - 为你写下这首情歌.ogg",
+    "image": "music/wuyuetian/album28/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 知足 (Live)",
+    "url": "music/wuyuetian/album29/五月天 - 知足 (Live).ogg",
+    "image": "music/wuyuetian/album29/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 外人 (诺亚方舟 10周年进化 Live版)",
+    "url": "music/wuyuetian/album30/五月天 - 外人 (诺亚方舟 10周年进化 Live版).ogg",
+    "image": "music/wuyuetian/album30/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 唯一 (诺亚方舟 10周年进化 Live版)",
+    "url": "music/wuyuetian/album31/五月天 - 唯一 (诺亚方舟 10周年进化 Live版).ogg",
+    "image": "music/wuyuetian/album31/600x600bb.jpg"
 },
 {
     "name": "徐佳莹 - VIP",
