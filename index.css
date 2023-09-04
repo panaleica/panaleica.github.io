@@ -13,8 +13,22 @@ a {
     top: 20px;
     width: 850px;
     height: 110px;
-    background: linear-gradient(to right, rgb(242, 214, 253), rgba(224, 224, 253, 0.95), rgba(244, 225, 255, 0.9), rgba(225, 225, 248, 0.95));
     border-radius: 100px;
+    background: linear-gradient(-45deg, rgba(255, 224, 242, 0.9), rgba(221, 221, 250, 0.9), rgba(229, 206, 255, 0.9), rgba(207, 207, 252, 0.9));
+    background-size: 300% 300%;
+    animation: AnimateBG 10s ease infinite;
+}
+
+@keyframes AnimateBG {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
 }
 
 @keyframes rotation {
@@ -59,7 +73,7 @@ a {
 }
 
 button {
-    background-color: rgba(133, 113, 204, 0.9);
+    background-color: rgb(151, 129, 231);
     color: white;
     text-align: center;
     border: none;
@@ -72,7 +86,7 @@ button {
 }
 
 button:hover {
-    background-color: rgba(174, 160, 232, 0.9);
+    background-color: rgb(202, 188, 255);
 }
 
 #btn-group {

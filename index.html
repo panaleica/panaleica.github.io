@@ -87,6 +87,9 @@
                 })
             },
             prePlay() {
+                if (this.musicList.length === 0) {
+                    return
+                }
                 if (this.config.type === 2) {
                     this.randomPlay()
                 } else if (this.curIndex === 0 || this.curIndex === -1) {
@@ -99,6 +102,9 @@
                 }
             },
             nextPlay() {
+                if (this.musicList.length === 0) {
+                    return
+                }
                 if (this.config.type === 2) {
                     this.randomPlay()
                 } else if (this.curIndex === this.musicList.length - 1 || this.curIndex === -1) {
@@ -111,17 +117,23 @@
                 }
             },
             randomPlay() {
+                if (this.musicList.length === 0) {
+                    return
+                }
                 this.curIndex = Math.floor(Math.random() * this.musicList.length)
                 this.music = this.musicList[this.curIndex]
                 this.play()
             },
             search() {
+                if (this.musicList.length === 0) {
+                    return
+                }
                 if (this.config.search.trim() === "") {
                     return
                 }
                 let flag = 0;
                 for (let index = (this.curIndex === this.musicList.length - 1) ? 0 : this.curIndex + 1; index < this.musicList.length; index++) {
-                    if (this.musicList[index].name.includes(this.config.search.trim())) {
+                    if (this.musicList[index].name.toLowerCase().includes(this.config.search.trim().toLowerCase())) {
                         this.curIndex = index;
                         break
                     }
@@ -137,7 +149,7 @@
             filter() {
                 this.musicList = [...json]
                 for (let index = 0; index < this.musicList.length; index++) {
-                    if (!this.musicList[index].name.includes(this.config.search.trim())) {
+                    if (!this.musicList[index].name.toLowerCase().includes(this.config.search.trim().toLowerCase())) {
                         this.musicList.splice(index, 1)
                         index--
                     }
