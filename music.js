@@ -1194,6 +1194,371 @@ let json = [{
     "image": "music/fir/album11/600x600bb.jpg"
 },
 {
+    "name": "华晨宇 _ 和平精英 - 绝境战神",
+    "url": "music/huachenyu/album01/华晨宇 _ 和平精英 - 绝境战神.ogg",
+    "image": "music/huachenyu/album01/T002R300x300M0000029gVDz0rGpjA_1.jpg"
+},
+{
+    "name": "华晨宇 - 向阳而生",
+    "url": "music/huachenyu/album02/华晨宇 - 向阳而生.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 好想我回来啊",
+    "url": "music/huachenyu/album02/华晨宇 - 好想我回来啊.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 小镇里的花 (民乐版)",
+    "url": "music/huachenyu/album02/华晨宇 - 小镇里的花 (民乐版).mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 小镇里的花",
+    "url": "music/huachenyu/album02/华晨宇 - 小镇里的花.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 当全世界忘了我",
+    "url": "music/huachenyu/album02/华晨宇 - 当全世界忘了我.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 点燃银河尽头的篝火",
+    "url": "music/huachenyu/album02/华晨宇 - 点燃银河尽头的篝火.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 花落时相遇",
+    "url": "music/huachenyu/album02/华晨宇 - 花落时相遇.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 虚幻与现实",
+    "url": "music/huachenyu/album02/华晨宇 - 虚幻与现实.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 走，一起去看日出吧",
+    "url": "music/huachenyu/album02/华晨宇 - 走，一起去看日出吧.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 飞行模式",
+    "url": "music/huachenyu/album02/华晨宇 - 飞行模式.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 黑白艺术家",
+    "url": "music/huachenyu/album02/华晨宇 - 黑白艺术家.mp3",
+    "image": "music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 肆无惧燥",
+    "url": "music/huachenyu/album03/华晨宇 - 肆无惧燥.mp3",
+    "image": "music/huachenyu/album03/s34248565.jpg"
+},
+{
+    "name": "华晨宇 _ 和平精英 - 名场面",
+    "url": "music/huachenyu/album04/华晨宇 _ 和平精英 - 名场面.ogg",
+    "image": "music/huachenyu/album04/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 _ 和平精英 - 飞行指挥家",
+    "url": "music/huachenyu/album05/华晨宇 _ 和平精英 - 飞行指挥家.ogg",
+    "image": "music/huachenyu/album05/s33883431.jpg"
+},
+{
+    "name": "华晨宇 - 无渴不爽",
+    "url": "music/huachenyu/album06/华晨宇 - 无渴不爽.ogg",
+    "image": "music/huachenyu/album06/s33857604.jpg"
+},
+{
+    "name": "华晨宇 - 七重人格",
+    "url": "music/huachenyu/album07/华晨宇 - 七重人格.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 与火星的孩子对话",
+    "url": "music/huachenyu/album07/华晨宇 - 与火星的孩子对话.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 好想爱这个世界啊",
+    "url": "music/huachenyu/album07/华晨宇 - 好想爱这个世界啊.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 斗牛",
+    "url": "music/huachenyu/album07/华晨宇 - 斗牛.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 新世界",
+    "url": "music/huachenyu/album07/华晨宇 - 新世界.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 疯人院",
+    "url": "music/huachenyu/album07/华晨宇 - 疯人院.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 神树",
+    "url": "music/huachenyu/album07/华晨宇 - 神树.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 降临",
+    "url": "music/huachenyu/album07/华晨宇 - 降临.mp3",
+    "image": "music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 渴不停",
+    "url": "music/huachenyu/album08/华晨宇 - 渴不停.ogg",
+    "image": "music/huachenyu/album08/s33609311.jpg"
+},
+{
+    "name": "华晨宇 - 你要相信这不是最后一天",
+    "url": "music/huachenyu/album09/华晨宇 - 你要相信这不是最后一天.mp3",
+    "image": "music/huachenyu/album09/s33578718.jpg"
+},
+{
+    "name": "华晨宇 - 寒鸦少年",
+    "url": "music/huachenyu/album10/华晨宇 - 寒鸦少年.mp3",
+    "image": "music/huachenyu/album10/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 夏之旅",
+    "url": "music/huachenyu/album11/华晨宇 - 夏之旅.mp3",
+    "image": "music/huachenyu/album11/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 智商二五零",
+    "url": "music/huachenyu/album12/华晨宇 - 智商二五零.mp3",
+    "image": "music/huachenyu/album12/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 无聊人",
+    "url": "music/huachenyu/album13/华晨宇 - 无聊人.mp3",
+    "image": "music/huachenyu/album13/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 嗨夏",
+    "url": "music/huachenyu/album14/华晨宇 - 嗨夏.mp3",
+    "image": "music/huachenyu/album14/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 齐天",
+    "url": "music/huachenyu/album15/华晨宇 - 齐天.mp3",
+    "image": "music/huachenyu/album15/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 寻",
+    "url": "music/huachenyu/album16/华晨宇 - 寻.mp3",
+    "image": "music/huachenyu/album16/600x600bb.jpg"
+},
+{
+    "name": "华晨宇,宁桓宇,白举纲 - 随我",
+    "url": "music/huachenyu/album17/华晨宇,宁桓宇,白举纲 - 随我.mp3",
+    "image": "music/huachenyu/album17/s29421986.jpg"
+},
+{
+    "name": "华晨宇 - 我管你 (真我版)",
+    "url": "music/huachenyu/album18/华晨宇 - 我管你 (真我版).mp3",
+    "image": "music/huachenyu/album18/s29376508.jpg"
+},
+{
+    "name": "杨坤 _ 华晨宇 - 挂彩",
+    "url": "music/huachenyu/album19/杨坤 _ 华晨宇 - 挂彩.ogg",
+    "image": "music/huachenyu/album19/s29272371.jpg"
+},
+{
+    "name": "华晨宇 - 我的滑板鞋2016 (录音室版)",
+    "url": "music/huachenyu/album20/华晨宇 - 我的滑板鞋2016 (录音室版).mp3",
+    "image": "music/huachenyu/album20/s29149313.jpg"
+},
+{
+    "name": "华晨宇 - 我离孤单几公里",
+    "url": "music/huachenyu/album21/华晨宇 - 我离孤单几公里.mp3",
+    "image": "music/huachenyu/album21/s29041112.jpg"
+},
+{
+    "name": "华晨宇 - 消失的昨天",
+    "url": "music/huachenyu/album22/华晨宇 - 消失的昨天.mp3",
+    "image": "music/huachenyu/album22/s29031124.jpg"
+},
+{
+    "name": "华晨宇 - For Forever",
+    "url": "music/huachenyu/album23/华晨宇 - For Forever.mp3",
+    "image": "music/huachenyu/album23/s28978448.jpg"
+},
+{
+    "name": "华晨宇 - To Be Free",
+    "url": "music/huachenyu/album24/华晨宇 - To Be Free.mp3",
+    "image": "music/huachenyu/album24/s28946117.jpg"
+},
+{
+    "name": "华晨宇 - Here We Are",
+    "url": "music/huachenyu/album25/华晨宇 - Here We Are.mp3",
+    "image": "music/huachenyu/album25/s28879204.jpg"
+},
+{
+    "name": "华晨宇 - 造物者",
+    "url": "music/huachenyu/album26/华晨宇 - 造物者.mp3",
+    "image": "music/huachenyu/album26/s28855589.jpg"
+},
+{
+    "name": "华晨宇 - 巨鹿",
+    "url": "music/huachenyu/album27/华晨宇 - 巨鹿.mp3",
+    "image": "music/huachenyu/album27/s28832109.jpg"
+},
+{
+    "name": "华晨宇 - 火星情报局",
+    "url": "music/huachenyu/album28/华晨宇 - 火星情报局.mp3",
+    "image": "music/huachenyu/album28/s28608701.jpg"
+},
+{
+    "name": "华晨宇 - 横冲直撞",
+    "url": "music/huachenyu/album29/华晨宇 - 横冲直撞.mp3",
+    "image": "music/huachenyu/album29/s28498601.jpg"
+},
+{
+    "name": "华晨宇 - 世界是个动物园",
+    "url": "music/huachenyu/album30/华晨宇 - 世界是个动物园.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 写给未来的孩子",
+    "url": "music/huachenyu/album30/华晨宇 - 写给未来的孩子.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 反义词",
+    "url": "music/huachenyu/album30/华晨宇 - 反义词.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 变相怪杰",
+    "url": "music/huachenyu/album30/华晨宇 - 变相怪杰.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 地球之盐",
+    "url": "music/huachenyu/album30/华晨宇 - 地球之盐.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 异类",
+    "url": "music/huachenyu/album30/华晨宇 - 异类.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 忧伤的巨人",
+    "url": "music/huachenyu/album30/华晨宇 - 忧伤的巨人.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 我管你",
+    "url": "music/huachenyu/album30/华晨宇 - 我管你.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 蜉蝣",
+    "url": "music/huachenyu/album30/华晨宇 - 蜉蝣.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 逃离乌托邦",
+    "url": "music/huachenyu/album30/华晨宇 - 逃离乌托邦.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇,杨宗纬 - 国王与乞丐",
+    "url": "music/huachenyu/album30/华晨宇,杨宗纬 - 国王与乞丐.mp3",
+    "image": "music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 癌",
+    "url": "music/huachenyu/album31/华晨宇 - 癌.mp3",
+    "image": "music/huachenyu/album31/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - Let You Go",
+    "url": "music/huachenyu/album32/华晨宇 - Let You Go.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - Why Nobody Fights",
+    "url": "music/huachenyu/album32/华晨宇 - Why Nobody Fights.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 不朽",
+    "url": "music/huachenyu/album32/华晨宇 - 不朽.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 卡西莫多的礼物",
+    "url": "music/huachenyu/album32/华晨宇 - 卡西莫多的礼物.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 微光",
+    "url": "music/huachenyu/album32/华晨宇 - 微光.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 我们都是孤独的",
+    "url": "music/huachenyu/album32/华晨宇 - 我们都是孤独的.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 拆弹专家",
+    "url": "music/huachenyu/album32/华晨宇 - 拆弹专家.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 枕边故事",
+    "url": "music/huachenyu/album32/华晨宇 - 枕边故事.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 烟火里的尘埃",
+    "url": "music/huachenyu/album32/华晨宇 - 烟火里的尘埃.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 环游",
+    "url": "music/huachenyu/album32/华晨宇 - 环游.mp3",
+    "image": "music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 趁你还年轻",
+    "url": "music/huachenyu/album33/华晨宇 - 趁你还年轻.mp3",
+    "image": "music/huachenyu/album33/s27188688.jpg"
+},
+{
+    "name": "华晨宇,白举纲 - Hi！自由",
+    "url": "music/huachenyu/album34/华晨宇,白举纲 - Hi！自由.mp3",
+    "image": "music/huachenyu/album34/600x600bb.jpg"
+},
+{
+    "name": "华晨宇,白举纲,左立 - 青春再见",
+    "url": "music/huachenyu/album34/华晨宇,白举纲,左立 - 青春再见.mp3",
+    "image": "music/huachenyu/album34/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 我和我",
+    "url": "music/huachenyu/album35/华晨宇 - 我和我.mp3",
+    "image": "music/huachenyu/album35/s27064064.jpg"
+},
+{
+    "name": "华晨宇,欧豪,白举纲 - 追梦赤子心",
+    "url": "music/huachenyu/album35/华晨宇,欧豪,白举纲 - 追梦赤子心.mp3",
+    "image": "music/huachenyu/album35/s27064064.jpg"
+},
+{
     "name": "梁静茹 - 亲亲",
     "url": "music/liangjingru/album01/梁静茹 - 亲亲.ogg",
     "image": "music/liangjingru/album01/600x600bb.jpg"
