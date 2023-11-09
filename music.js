@@ -689,6 +689,296 @@ let json = [{
     "image": "music/by2/album23/600x600bb.jpg"
 },
 {
+    "name": "陈楚生 - 向海而生",
+    "url": "music/chenchusheng/album01/陈楚生 - 向海而生.ogg",
+    "image": "music/chenchusheng/album01/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 远山如昨",
+    "url": "music/chenchusheng/album02/陈楚生 - 远山如昨.ogg",
+    "image": "music/chenchusheng/album02/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 张远 - 不熄",
+    "url": "music/chenchusheng/album03/陈楚生 _ 张远 - 不熄.ogg",
+    "image": "music/chenchusheng/album03/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 对立回忆",
+    "url": "music/chenchusheng/album04/陈楚生 - 对立回忆.ogg",
+    "image": "music/chenchusheng/album04/s34573645.jpg"
+},
+{
+    "name": "陈楚生 - 爱的尽头",
+    "url": "music/chenchusheng/album07/陈楚生 - 爱的尽头.ogg",
+    "image": "music/chenchusheng/album07/s34403910.jpg"
+},
+{
+    "name": "陈楚生 _ 陆虎 _ 张远 - 战友之歌",
+    "url": "music/chenchusheng/album08/陈楚生 _ 陆虎 _ 张远 - 战友之歌.ogg",
+    "image": "music/chenchusheng/album08/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 俞灏明 _ 张远 - 梦幻人生",
+    "url": "music/chenchusheng/album09/陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 俞灏明 _ 张远 - 梦幻人生.ogg",
+    "image": "music/chenchusheng/album09/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 苏醒AllenSu _ 张远 _ 陆虎 - 不舍 (Live)",
+    "url": "music/chenchusheng/album10/陈楚生 _ 苏醒AllenSu _ 张远 _ 陆虎 - 不舍 (Live).ogg",
+    "image": "music/chenchusheng/album10/s34303957.jpg"
+},
+{
+    "name": "陈楚生 - 我们",
+    "url": "music/chenchusheng/album12/陈楚生 - 我们.ogg",
+    "image": "music/chenchusheng/album12/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 陆虎 _ 苏醒AllenSu _ 王铮亮 _ 王栎鑫 _ 张远 - 活该",
+    "url": "music/chenchusheng/album13/陈楚生 _ 陆虎 _ 苏醒AllenSu _ 王铮亮 _ 王栎鑫 _ 张远 - 活该.ogg",
+    "image": "music/chenchusheng/album13/s34279183.jpg"
+},
+{
+    "name": "陈楚生 - 港湾",
+    "url": "music/chenchusheng/album14/陈楚生 - 港湾.ogg",
+    "image": "music/chenchusheng/album14/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 涂鸦森林",
+    "url": "music/chenchusheng/album15/陈楚生 - 涂鸦森林.ogg",
+    "image": "music/chenchusheng/album15/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 陆虎 - 给从前的自己",
+    "url": "music/chenchusheng/album16/陈楚生 _ 陆虎 - 给从前的自己.ogg",
+    "image": "music/chenchusheng/album16/s34236601.jpg"
+},
+{
+    "name": "陈楚生 - D夫人",
+    "url": "music/chenchusheng/album19/陈楚生 - D夫人.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 出厂日期",
+    "url": "music/chenchusheng/album19/陈楚生 - 出厂日期.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我的世界",
+    "url": "music/chenchusheng/album19/陈楚生 - 我的世界.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我的衣裳",
+    "url": "music/chenchusheng/album19/陈楚生 - 我的衣裳.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我等待的",
+    "url": "music/chenchusheng/album19/陈楚生 - 我等待的.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 打印人生",
+    "url": "music/chenchusheng/album19/陈楚生 - 打印人生.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 晓得",
+    "url": "music/chenchusheng/album19/陈楚生 - 晓得.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 晚礼服",
+    "url": "music/chenchusheng/album19/陈楚生 - 晚礼服.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 白石洲",
+    "url": "music/chenchusheng/album19/陈楚生 - 白石洲.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 隔壁阿丑",
+    "url": "music/chenchusheng/album19/陈楚生 - 隔壁阿丑.ogg",
+    "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 冷雨夜",
+    "url": "music/chenchusheng/album31/陈楚生 - 冷雨夜.ogg",
+    "image": "music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 吻别",
+    "url": "music/chenchusheng/album31/陈楚生 - 吻别.ogg",
+    "image": "music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 忘不了",
+    "url": "music/chenchusheng/album31/陈楚生 - 忘不了.ogg",
+    "image": "music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 来生缘",
+    "url": "music/chenchusheng/album31/陈楚生 - 来生缘.ogg",
+    "image": "music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 棋子",
+    "url": "music/chenchusheng/album31/陈楚生 - 棋子.ogg",
+    "image": "music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我在何地",
+    "url": "music/chenchusheng/album32/陈楚生 - 我在何地.ogg",
+    "image": "music/chenchusheng/album32/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 你还好吗",
+    "url": "music/chenchusheng/album33/陈楚生 - 你还好吗.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 八心八箭",
+    "url": "music/chenchusheng/album33/陈楚生 - 八心八箭.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 再见",
+    "url": "music/chenchusheng/album33/陈楚生 - 再见.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 好久不见",
+    "url": "music/chenchusheng/album33/陈楚生 - 好久不见.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 恍惚",
+    "url": "music/chenchusheng/album33/陈楚生 - 恍惚.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我好想你",
+    "url": "music/chenchusheng/album33/陈楚生 - 我好想你.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 离群的鹿",
+    "url": "music/chenchusheng/album33/陈楚生 - 离群的鹿.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 荒废光年",
+    "url": "music/chenchusheng/album33/陈楚生 - 荒废光年.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 落日旅馆",
+    "url": "music/chenchusheng/album33/陈楚生 - 落日旅馆.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 趋光号",
+    "url": "music/chenchusheng/album33/陈楚生 - 趋光号.ogg",
+    "image": "music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 35 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 35 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一夜 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 一夜 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 原来我一直都不孤单 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 原来我一直都不孤单 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 有没有人告诉你 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 有没有人告诉你 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 瘾 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 瘾 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 秘密 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 秘密 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 装睡的人 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 装睡的人 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 西涌客栈 + 思念一个荒废的名字 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 西涌客栈 + 思念一个荒废的名字 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 追风筝的孩子 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 追风筝的孩子 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 阿福 (1_7 Concert Live)",
+    "url": "music/chenchusheng/album34/陈楚生 - 阿福 (1_7 Concert Live).ogg",
+    "image": "music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一夜",
+    "url": "music/chenchusheng/album35/陈楚生 - 一夜.ogg",
+    "image": "music/chenchusheng/album35/s29811262.jpg"
+},
+{
+    "name": "郁可唯 _ 陈楚生 - 日月同辉 (单曲)",
+    "url": "music/chenchusheng/album37/郁可唯 _ 陈楚生 - 日月同辉 (单曲).ogg",
+    "image": "music/chenchusheng/album37/T002R300x300M0000000gxSH0Petpc_2.jpg"
+},
+{
+    "name": "陈楚生 - 男孩的梦",
+    "url": "music/chenchusheng/album45/陈楚生 - 男孩的梦.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 风起时，想你",
+    "url": "music/chenchusheng/album45/陈楚生 - 风起时，想你.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 山高水长",
+    "url": "music/chenchusheng/album47/陈楚生 - 山高水长.ogg",
+    "image": "music/chenchusheng/album47/T002R300x300M000004VmsuF0Wd5jF_1.jpg"
+},
+{
+    "name": "陈楚生 - 红星照我去战斗",
+    "url": "music/chenchusheng/album50/陈楚生 - 红星照我去战斗.ogg",
+    "image": "music/chenchusheng/album50/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一个人的冬天",
+    "url": "music/chenchusheng/album51/陈楚生 - 一个人的冬天.ogg",
+    "image": "music/chenchusheng/album51/s3405570.jpg"
+},
+{
+    "name": "陈楚生 - 这一刻",
+    "url": "music/chenchusheng/album52/陈楚生 - 这一刻.ogg",
+    "image": "music/chenchusheng/album52/s4715958.jpg"
+},
+{
+    "name": "陈楚生 - 有没有人告诉你",
+    "url": "music/chenchusheng/album53/陈楚生 - 有没有人告诉你.ogg",
+    "image": "music/chenchusheng/album53/600x600bb.jpg"
+},
+{
     "name": "F.I.R.飞儿乐团 - Someday",
     "url": "music/fir/album01/F_I_R_飞儿乐团 - Someday.ogg",
     "image": "music/fir/album01/600x600bb.jpg"

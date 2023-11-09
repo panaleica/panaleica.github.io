@@ -5,9 +5,11 @@ import java.io.PrintWriter;
 import java.util.Objects;
 
 public class Main {
-    final static String URL = "";
+    // final static String URL = "";
+    final static String URL = "https://panaleica.github.io/";
     final static File ROOT = new File("music");
-    final static String FILENAME = "music.js";
+    // final static String FILENAME = "music.js";
+    final static String FILENAME = "music_external.js";
 
     public static void main(String[] args) throws IOException {
         StringBuilder musicList = getMusicList(ROOT);

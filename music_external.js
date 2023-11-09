@@ -689,6 +689,296 @@ let json = [{
     "image": "https://panaleica.github.io/music/by2/album23/600x600bb.jpg"
 },
 {
+    "name": "陈楚生 - 向海而生",
+    "url": "https://panaleica.github.io/music/chenchusheng/album01/陈楚生 - 向海而生.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album01/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 远山如昨",
+    "url": "https://panaleica.github.io/music/chenchusheng/album02/陈楚生 - 远山如昨.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album02/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 张远 - 不熄",
+    "url": "https://panaleica.github.io/music/chenchusheng/album03/陈楚生 _ 张远 - 不熄.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album03/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 对立回忆",
+    "url": "https://panaleica.github.io/music/chenchusheng/album04/陈楚生 - 对立回忆.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album04/s34573645.jpg"
+},
+{
+    "name": "陈楚生 - 爱的尽头",
+    "url": "https://panaleica.github.io/music/chenchusheng/album07/陈楚生 - 爱的尽头.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album07/s34403910.jpg"
+},
+{
+    "name": "陈楚生 _ 陆虎 _ 张远 - 战友之歌",
+    "url": "https://panaleica.github.io/music/chenchusheng/album08/陈楚生 _ 陆虎 _ 张远 - 战友之歌.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album08/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 俞灏明 _ 张远 - 梦幻人生",
+    "url": "https://panaleica.github.io/music/chenchusheng/album09/陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 俞灏明 _ 张远 - 梦幻人生.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album09/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 苏醒AllenSu _ 张远 _ 陆虎 - 不舍 (Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album10/陈楚生 _ 苏醒AllenSu _ 张远 _ 陆虎 - 不舍 (Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album10/s34303957.jpg"
+},
+{
+    "name": "陈楚生 - 我们",
+    "url": "https://panaleica.github.io/music/chenchusheng/album12/陈楚生 - 我们.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album12/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 陆虎 _ 苏醒AllenSu _ 王铮亮 _ 王栎鑫 _ 张远 - 活该",
+    "url": "https://panaleica.github.io/music/chenchusheng/album13/陈楚生 _ 陆虎 _ 苏醒AllenSu _ 王铮亮 _ 王栎鑫 _ 张远 - 活该.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album13/s34279183.jpg"
+},
+{
+    "name": "陈楚生 - 港湾",
+    "url": "https://panaleica.github.io/music/chenchusheng/album14/陈楚生 - 港湾.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album14/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 涂鸦森林",
+    "url": "https://panaleica.github.io/music/chenchusheng/album15/陈楚生 - 涂鸦森林.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album15/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 _ 陆虎 - 给从前的自己",
+    "url": "https://panaleica.github.io/music/chenchusheng/album16/陈楚生 _ 陆虎 - 给从前的自己.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album16/s34236601.jpg"
+},
+{
+    "name": "陈楚生 - D夫人",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - D夫人.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 出厂日期",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 出厂日期.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我的世界",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 我的世界.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我的衣裳",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 我的衣裳.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我等待的",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 我等待的.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 打印人生",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 打印人生.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 晓得",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 晓得.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 晚礼服",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 晚礼服.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 白石洲",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 白石洲.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 隔壁阿丑",
+    "url": "https://panaleica.github.io/music/chenchusheng/album19/陈楚生 - 隔壁阿丑.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 冷雨夜",
+    "url": "https://panaleica.github.io/music/chenchusheng/album31/陈楚生 - 冷雨夜.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 吻别",
+    "url": "https://panaleica.github.io/music/chenchusheng/album31/陈楚生 - 吻别.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 忘不了",
+    "url": "https://panaleica.github.io/music/chenchusheng/album31/陈楚生 - 忘不了.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 来生缘",
+    "url": "https://panaleica.github.io/music/chenchusheng/album31/陈楚生 - 来生缘.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 棋子",
+    "url": "https://panaleica.github.io/music/chenchusheng/album31/陈楚生 - 棋子.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album31/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我在何地",
+    "url": "https://panaleica.github.io/music/chenchusheng/album32/陈楚生 - 我在何地.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album32/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 你还好吗",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 你还好吗.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 八心八箭",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 八心八箭.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 再见",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 再见.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 好久不见",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 好久不见.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 恍惚",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 恍惚.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我好想你",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 我好想你.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 离群的鹿",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 离群的鹿.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 荒废光年",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 荒废光年.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 落日旅馆",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 落日旅馆.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 趋光号",
+    "url": "https://panaleica.github.io/music/chenchusheng/album33/陈楚生 - 趋光号.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album33/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 35 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 35 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一夜 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 一夜 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 原来我一直都不孤单 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 原来我一直都不孤单 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 有没有人告诉你 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 有没有人告诉你 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 瘾 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 瘾 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 秘密 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 秘密 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 装睡的人 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 装睡的人 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 西涌客栈 + 思念一个荒废的名字 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 西涌客栈 + 思念一个荒废的名字 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 追风筝的孩子 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 追风筝的孩子 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 阿福 (1_7 Concert Live)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album34/陈楚生 - 阿福 (1_7 Concert Live).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album34/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一夜",
+    "url": "https://panaleica.github.io/music/chenchusheng/album35/陈楚生 - 一夜.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album35/s29811262.jpg"
+},
+{
+    "name": "郁可唯 _ 陈楚生 - 日月同辉 (单曲)",
+    "url": "https://panaleica.github.io/music/chenchusheng/album37/郁可唯 _ 陈楚生 - 日月同辉 (单曲).ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album37/T002R300x300M0000000gxSH0Petpc_2.jpg"
+},
+{
+    "name": "陈楚生 - 男孩的梦",
+    "url": "https://panaleica.github.io/music/chenchusheng/album45/陈楚生 - 男孩的梦.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 风起时，想你",
+    "url": "https://panaleica.github.io/music/chenchusheng/album45/陈楚生 - 风起时，想你.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 山高水长",
+    "url": "https://panaleica.github.io/music/chenchusheng/album47/陈楚生 - 山高水长.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album47/T002R300x300M000004VmsuF0Wd5jF_1.jpg"
+},
+{
+    "name": "陈楚生 - 红星照我去战斗",
+    "url": "https://panaleica.github.io/music/chenchusheng/album50/陈楚生 - 红星照我去战斗.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album50/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一个人的冬天",
+    "url": "https://panaleica.github.io/music/chenchusheng/album51/陈楚生 - 一个人的冬天.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album51/s3405570.jpg"
+},
+{
+    "name": "陈楚生 - 这一刻",
+    "url": "https://panaleica.github.io/music/chenchusheng/album52/陈楚生 - 这一刻.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album52/s4715958.jpg"
+},
+{
+    "name": "陈楚生 - 有没有人告诉你",
+    "url": "https://panaleica.github.io/music/chenchusheng/album53/陈楚生 - 有没有人告诉你.ogg",
+    "image": "https://panaleica.github.io/music/chenchusheng/album53/600x600bb.jpg"
+},
+{
     "name": "F.I.R.飞儿乐团 - Someday",
     "url": "https://panaleica.github.io/music/fir/album01/F_I_R_飞儿乐团 - Someday.ogg",
     "image": "https://panaleica.github.io/music/fir/album01/600x600bb.jpg"
@@ -1192,6 +1482,371 @@ let json = [{
     "name": "F.I.R.飞儿乐团 - 花疯",
     "url": "https://panaleica.github.io/music/fir/album11/F_I_R_飞儿乐团 - 花疯.ogg",
     "image": "https://panaleica.github.io/music/fir/album11/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 _ 和平精英 - 绝境战神",
+    "url": "https://panaleica.github.io/music/huachenyu/album01/华晨宇 _ 和平精英 - 绝境战神.ogg",
+    "image": "https://panaleica.github.io/music/huachenyu/album01/T002R300x300M0000029gVDz0rGpjA_1.jpg"
+},
+{
+    "name": "华晨宇 - 向阳而生",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 向阳而生.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 好想我回来啊",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 好想我回来啊.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 小镇里的花 (民乐版)",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 小镇里的花 (民乐版).mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 小镇里的花",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 小镇里的花.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 当全世界忘了我",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 当全世界忘了我.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 点燃银河尽头的篝火",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 点燃银河尽头的篝火.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 花落时相遇",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 花落时相遇.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 虚幻与现实",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 虚幻与现实.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 走，一起去看日出吧",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 走，一起去看日出吧.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 飞行模式",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 飞行模式.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 黑白艺术家",
+    "url": "https://panaleica.github.io/music/huachenyu/album02/华晨宇 - 黑白艺术家.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album02/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 肆无惧燥",
+    "url": "https://panaleica.github.io/music/huachenyu/album03/华晨宇 - 肆无惧燥.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album03/s34248565.jpg"
+},
+{
+    "name": "华晨宇 _ 和平精英 - 名场面",
+    "url": "https://panaleica.github.io/music/huachenyu/album04/华晨宇 _ 和平精英 - 名场面.ogg",
+    "image": "https://panaleica.github.io/music/huachenyu/album04/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 _ 和平精英 - 飞行指挥家",
+    "url": "https://panaleica.github.io/music/huachenyu/album05/华晨宇 _ 和平精英 - 飞行指挥家.ogg",
+    "image": "https://panaleica.github.io/music/huachenyu/album05/s33883431.jpg"
+},
+{
+    "name": "华晨宇 - 无渴不爽",
+    "url": "https://panaleica.github.io/music/huachenyu/album06/华晨宇 - 无渴不爽.ogg",
+    "image": "https://panaleica.github.io/music/huachenyu/album06/s33857604.jpg"
+},
+{
+    "name": "华晨宇 - 七重人格",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 七重人格.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 与火星的孩子对话",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 与火星的孩子对话.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 好想爱这个世界啊",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 好想爱这个世界啊.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 斗牛",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 斗牛.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 新世界",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 新世界.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 疯人院",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 疯人院.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 神树",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 神树.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 降临",
+    "url": "https://panaleica.github.io/music/huachenyu/album07/华晨宇 - 降临.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album07/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 渴不停",
+    "url": "https://panaleica.github.io/music/huachenyu/album08/华晨宇 - 渴不停.ogg",
+    "image": "https://panaleica.github.io/music/huachenyu/album08/s33609311.jpg"
+},
+{
+    "name": "华晨宇 - 你要相信这不是最后一天",
+    "url": "https://panaleica.github.io/music/huachenyu/album09/华晨宇 - 你要相信这不是最后一天.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album09/s33578718.jpg"
+},
+{
+    "name": "华晨宇 - 寒鸦少年",
+    "url": "https://panaleica.github.io/music/huachenyu/album10/华晨宇 - 寒鸦少年.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album10/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 夏之旅",
+    "url": "https://panaleica.github.io/music/huachenyu/album11/华晨宇 - 夏之旅.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album11/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 智商二五零",
+    "url": "https://panaleica.github.io/music/huachenyu/album12/华晨宇 - 智商二五零.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album12/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 无聊人",
+    "url": "https://panaleica.github.io/music/huachenyu/album13/华晨宇 - 无聊人.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album13/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 嗨夏",
+    "url": "https://panaleica.github.io/music/huachenyu/album14/华晨宇 - 嗨夏.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album14/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 齐天",
+    "url": "https://panaleica.github.io/music/huachenyu/album15/华晨宇 - 齐天.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album15/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 寻",
+    "url": "https://panaleica.github.io/music/huachenyu/album16/华晨宇 - 寻.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album16/600x600bb.jpg"
+},
+{
+    "name": "华晨宇,宁桓宇,白举纲 - 随我",
+    "url": "https://panaleica.github.io/music/huachenyu/album17/华晨宇,宁桓宇,白举纲 - 随我.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album17/s29421986.jpg"
+},
+{
+    "name": "华晨宇 - 我管你 (真我版)",
+    "url": "https://panaleica.github.io/music/huachenyu/album18/华晨宇 - 我管你 (真我版).mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album18/s29376508.jpg"
+},
+{
+    "name": "杨坤 _ 华晨宇 - 挂彩",
+    "url": "https://panaleica.github.io/music/huachenyu/album19/杨坤 _ 华晨宇 - 挂彩.ogg",
+    "image": "https://panaleica.github.io/music/huachenyu/album19/s29272371.jpg"
+},
+{
+    "name": "华晨宇 - 我的滑板鞋2016 (录音室版)",
+    "url": "https://panaleica.github.io/music/huachenyu/album20/华晨宇 - 我的滑板鞋2016 (录音室版).mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album20/s29149313.jpg"
+},
+{
+    "name": "华晨宇 - 我离孤单几公里",
+    "url": "https://panaleica.github.io/music/huachenyu/album21/华晨宇 - 我离孤单几公里.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album21/s29041112.jpg"
+},
+{
+    "name": "华晨宇 - 消失的昨天",
+    "url": "https://panaleica.github.io/music/huachenyu/album22/华晨宇 - 消失的昨天.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album22/s29031124.jpg"
+},
+{
+    "name": "华晨宇 - For Forever",
+    "url": "https://panaleica.github.io/music/huachenyu/album23/华晨宇 - For Forever.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album23/s28978448.jpg"
+},
+{
+    "name": "华晨宇 - To Be Free",
+    "url": "https://panaleica.github.io/music/huachenyu/album24/华晨宇 - To Be Free.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album24/s28946117.jpg"
+},
+{
+    "name": "华晨宇 - Here We Are",
+    "url": "https://panaleica.github.io/music/huachenyu/album25/华晨宇 - Here We Are.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album25/s28879204.jpg"
+},
+{
+    "name": "华晨宇 - 造物者",
+    "url": "https://panaleica.github.io/music/huachenyu/album26/华晨宇 - 造物者.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album26/s28855589.jpg"
+},
+{
+    "name": "华晨宇 - 巨鹿",
+    "url": "https://panaleica.github.io/music/huachenyu/album27/华晨宇 - 巨鹿.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album27/s28832109.jpg"
+},
+{
+    "name": "华晨宇 - 火星情报局",
+    "url": "https://panaleica.github.io/music/huachenyu/album28/华晨宇 - 火星情报局.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album28/s28608701.jpg"
+},
+{
+    "name": "华晨宇 - 横冲直撞",
+    "url": "https://panaleica.github.io/music/huachenyu/album29/华晨宇 - 横冲直撞.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album29/s28498601.jpg"
+},
+{
+    "name": "华晨宇 - 世界是个动物园",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 世界是个动物园.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 写给未来的孩子",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 写给未来的孩子.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 反义词",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 反义词.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 变相怪杰",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 变相怪杰.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 地球之盐",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 地球之盐.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 异类",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 异类.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 忧伤的巨人",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 忧伤的巨人.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 我管你",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 我管你.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 蜉蝣",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 蜉蝣.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 逃离乌托邦",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇 - 逃离乌托邦.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇,杨宗纬 - 国王与乞丐",
+    "url": "https://panaleica.github.io/music/huachenyu/album30/华晨宇,杨宗纬 - 国王与乞丐.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album30/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 癌",
+    "url": "https://panaleica.github.io/music/huachenyu/album31/华晨宇 - 癌.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album31/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - Let You Go",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - Let You Go.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - Why Nobody Fights",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - Why Nobody Fights.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 不朽",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 不朽.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 卡西莫多的礼物",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 卡西莫多的礼物.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 微光",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 微光.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 我们都是孤独的",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 我们都是孤独的.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 拆弹专家",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 拆弹专家.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 枕边故事",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 枕边故事.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 烟火里的尘埃",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 烟火里的尘埃.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 环游",
+    "url": "https://panaleica.github.io/music/huachenyu/album32/华晨宇 - 环游.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album32/s27582655.jpg"
+},
+{
+    "name": "华晨宇 - 趁你还年轻",
+    "url": "https://panaleica.github.io/music/huachenyu/album33/华晨宇 - 趁你还年轻.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album33/s27188688.jpg"
+},
+{
+    "name": "华晨宇,白举纲 - Hi！自由",
+    "url": "https://panaleica.github.io/music/huachenyu/album34/华晨宇,白举纲 - Hi！自由.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album34/600x600bb.jpg"
+},
+{
+    "name": "华晨宇,白举纲,左立 - 青春再见",
+    "url": "https://panaleica.github.io/music/huachenyu/album34/华晨宇,白举纲,左立 - 青春再见.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album34/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 我和我",
+    "url": "https://panaleica.github.io/music/huachenyu/album35/华晨宇 - 我和我.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album35/s27064064.jpg"
+},
+{
+    "name": "华晨宇,欧豪,白举纲 - 追梦赤子心",
+    "url": "https://panaleica.github.io/music/huachenyu/album35/华晨宇,欧豪,白举纲 - 追梦赤子心.mp3",
+    "image": "https://panaleica.github.io/music/huachenyu/album35/s27064064.jpg"
 },
 {
     "name": "梁静茹 - 亲亲",
