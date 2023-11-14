@@ -709,6 +709,16 @@ let json = [{
     "image": "music/chenchusheng/album04/s34573645.jpg"
 },
 {
+    "name": "陈楚生 - 星落",
+    "url": "music/chenchusheng/album05/陈楚生 - 星落.ogg",
+    "image": "music/chenchusheng/album05/s34554529.jpg"
+},
+{
+    "name": "王铮亮 _ 陆虎 _ 陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 张远 - 快乐在哪里",
+    "url": "music/chenchusheng/album06/王铮亮 _ 陆虎 _ 陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 张远 - 快乐在哪里.ogg",
+    "image": "music/chenchusheng/album06/600x600bb.jpg"
+},
+{
     "name": "陈楚生 - 爱的尽头",
     "url": "music/chenchusheng/album07/陈楚生 - 爱的尽头.ogg",
     "image": "music/chenchusheng/album07/s34403910.jpg"
@@ -727,6 +737,11 @@ let json = [{
     "name": "陈楚生 _ 苏醒AllenSu _ 张远 _ 陆虎 - 不舍 (Live)",
     "url": "music/chenchusheng/album10/陈楚生 _ 苏醒AllenSu _ 张远 _ 陆虎 - 不舍 (Live).ogg",
     "image": "music/chenchusheng/album10/s34303957.jpg"
+},
+{
+    "name": "陈楚生 - 错过",
+    "url": "music/chenchusheng/album11/陈楚生 - 错过.ogg",
+    "image": "music/chenchusheng/album11/600x600bb.jpg"
 },
 {
     "name": "陈楚生 - 我们",
@@ -752,6 +767,16 @@ let json = [{
     "name": "陈楚生 _ 陆虎 - 给从前的自己",
     "url": "music/chenchusheng/album16/陈楚生 _ 陆虎 - 给从前的自己.ogg",
     "image": "music/chenchusheng/album16/s34236601.jpg"
+},
+{
+    "name": "陈楚生 - 你应该藏在心里",
+    "url": "music/chenchusheng/album17/陈楚生 - 你应该藏在心里.ogg",
+    "image": "music/chenchusheng/album17/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 亲爱的月亮",
+    "url": "music/chenchusheng/album18/陈楚生 - 亲爱的月亮.ogg",
+    "image": "music/chenchusheng/album18/s34233694.jpg"
 },
 {
     "name": "陈楚生 - D夫人",
@@ -802,6 +827,11 @@ let json = [{
     "name": "陈楚生 - 隔壁阿丑",
     "url": "music/chenchusheng/album19/陈楚生 - 隔壁阿丑.ogg",
     "image": "music/chenchusheng/album19/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 初晨，是我故意忘记你",
+    "url": "music/chenchusheng/album20/陈楚生 - 初晨，是我故意忘记你.ogg",
+    "image": "music/chenchusheng/album20/600x600bb.jpg"
 },
 {
     "name": "陈楚生 - 冷雨夜",
@@ -939,13 +969,183 @@ let json = [{
     "image": "music/chenchusheng/album35/s29811262.jpg"
 },
 {
+    "name": "陈楚生 - 后来的事 (影视原声)",
+    "url": "music/chenchusheng/album36/陈楚生 - 后来的事 (影视原声).ogg",
+    "image": "music/chenchusheng/album36/600x600bb.jpg"
+},
+{
     "name": "郁可唯 _ 陈楚生 - 日月同辉 (单曲)",
     "url": "music/chenchusheng/album37/郁可唯 _ 陈楚生 - 日月同辉 (单曲).ogg",
     "image": "music/chenchusheng/album37/T002R300x300M0000000gxSH0Petpc_2.jpg"
 },
 {
+    "name": "陈楚生 - Demo",
+    "url": "music/chenchusheng/album38/陈楚生 - Demo.ogg",
+    "image": "music/chenchusheng/album38/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - Beautiful Light",
+    "url": "music/chenchusheng/album39/陈楚生 - Beautiful Light.ogg",
+    "image": "music/chenchusheng/album39/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 快乐不过是做你想做的而已",
+    "url": "music/chenchusheng/album40/陈楚生 - 快乐不过是做你想做的而已.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 我知道你离我不远",
+    "url": "music/chenchusheng/album40/陈楚生 - 我知道你离我不远.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 拥抱的温暖",
+    "url": "music/chenchusheng/album40/陈楚生 - 拥抱的温暖.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 无知无觉",
+    "url": "music/chenchusheng/album40/陈楚生 - 无知无觉.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 焦点",
+    "url": "music/chenchusheng/album40/陈楚生 - 焦点.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 菲菲",
+    "url": "music/chenchusheng/album40/陈楚生 - 菲菲.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 装睡的人",
+    "url": "music/chenchusheng/album40/陈楚生 - 装睡的人.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 西涌客栈",
+    "url": "music/chenchusheng/album40/陈楚生 - 西涌客栈.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 黄金时代",
+    "url": "music/chenchusheng/album40/陈楚生 - 黄金时代.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 _ MC HotDog 热狗 - 醉",
+    "url": "music/chenchusheng/album40/陈楚生 _ MC HotDog 热狗 - 醉.ogg",
+    "image": "music/chenchusheng/album40/s26710783.jpg"
+},
+{
+    "name": "陈楚生 - 英雄杀",
+    "url": "music/chenchusheng/album41/陈楚生 - 英雄杀.ogg",
+    "image": "music/chenchusheng/album41/T002R300x300M000000PwkLG0CbV5x_2.jpg"
+},
+{
+    "name": "陈楚生 - 经过 (独唱版)",
+    "url": "music/chenchusheng/album42/陈楚生 - 经过 (独唱版).ogg",
+    "image": "music/chenchusheng/album42/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 剪刀石头布",
+    "url": "music/chenchusheng/album43/陈楚生 - 剪刀石头布.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 思念一个荒废的名字",
+    "url": "music/chenchusheng/album43/陈楚生 - 思念一个荒废的名字.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我的女孩",
+    "url": "music/chenchusheng/album43/陈楚生 - 我的女孩.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 橡皮人",
+    "url": "music/chenchusheng/album43/陈楚生 - 橡皮人.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 爱情是否依然",
+    "url": "music/chenchusheng/album43/陈楚生 - 爱情是否依然.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 爱那么自然",
+    "url": "music/chenchusheng/album43/陈楚生 - 爱那么自然.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 瘾",
+    "url": "music/chenchusheng/album43/陈楚生 - 瘾.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 追风筝的孩子",
+    "url": "music/chenchusheng/album43/陈楚生 - 追风筝的孩子.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 阿福",
+    "url": "music/chenchusheng/album43/陈楚生 - 阿福.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 颜色",
+    "url": "music/chenchusheng/album43/陈楚生 - 颜色.ogg",
+    "image": "music/chenchusheng/album43/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 修仙缘",
+    "url": "music/chenchusheng/album44/陈楚生 - 修仙缘.ogg",
+    "image": "music/chenchusheng/album44/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 丹书铁契",
+    "url": "music/chenchusheng/album45/陈楚生 - 丹书铁契.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 她们",
+    "url": "music/chenchusheng/album45/陈楚生 - 她们.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 山楂花",
+    "url": "music/chenchusheng/album45/陈楚生 - 山楂花.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 想念",
+    "url": "music/chenchusheng/album45/陈楚生 - 想念.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 梦中的蔷薇",
+    "url": "music/chenchusheng/album45/陈楚生 - 梦中的蔷薇.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 泾渭",
+    "url": "music/chenchusheng/album45/陈楚生 - 泾渭.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 浮光",
+    "url": "music/chenchusheng/album45/陈楚生 - 浮光.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
     "name": "陈楚生 - 男孩的梦",
     "url": "music/chenchusheng/album45/陈楚生 - 男孩的梦.ogg",
+    "image": "music/chenchusheng/album45/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 相忘于江湖",
+    "url": "music/chenchusheng/album45/陈楚生 - 相忘于江湖.ogg",
     "image": "music/chenchusheng/album45/600x600bb.jpg"
 },
 {
@@ -954,9 +1154,89 @@ let json = [{
     "image": "music/chenchusheng/album45/600x600bb.jpg"
 },
 {
+    "name": "陈楚生 _ 安以轩 - 爱过",
+    "url": "music/chenchusheng/album46/陈楚生 _ 安以轩 - 爱过.ogg",
+    "image": "music/chenchusheng/album46/T002R300x300M000001sLHVF20Eidb_2.jpg"
+},
+{
     "name": "陈楚生 - 山高水长",
     "url": "music/chenchusheng/album47/陈楚生 - 山高水长.ogg",
     "image": "music/chenchusheng/album47/T002R300x300M000004VmsuF0Wd5jF_1.jpg"
+},
+{
+    "name": "陈楚生 - 她们",
+    "url": "music/chenchusheng/album48/陈楚生 - 她们.ogg",
+    "image": "music/chenchusheng/album48/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 想念",
+    "url": "music/chenchusheng/album48/陈楚生 - 想念.ogg",
+    "image": "music/chenchusheng/album48/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 绿动",
+    "url": "music/chenchusheng/album48/陈楚生 - 绿动.ogg",
+    "image": "music/chenchusheng/album48/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一个人唱情歌",
+    "url": "music/chenchusheng/album49/陈楚生 - 一个人唱情歌.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 一个人的好天气",
+    "url": "music/chenchusheng/album49/陈楚生 - 一个人的好天气.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 不想长大",
+    "url": "music/chenchusheng/album49/陈楚生 - 不想长大.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 且听风吟",
+    "url": "music/chenchusheng/album49/陈楚生 - 且听风吟.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 奇幻之旅",
+    "url": "music/chenchusheng/album49/陈楚生 - 奇幻之旅.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 想哭",
+    "url": "music/chenchusheng/album49/陈楚生 - 想哭.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 我不是我自己",
+    "url": "music/chenchusheng/album49/陈楚生 - 我不是我自己.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 无话可说",
+    "url": "music/chenchusheng/album49/陈楚生 - 无话可说.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 明天",
+    "url": "music/chenchusheng/album49/陈楚生 - 明天.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 某某",
+    "url": "music/chenchusheng/album49/陈楚生 - 某某.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 离开",
+    "url": "music/chenchusheng/album49/陈楚生 - 离开.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
+},
+{
+    "name": "陈楚生 - 鱼乐圈",
+    "url": "music/chenchusheng/album49/陈楚生 - 鱼乐圈.ogg",
+    "image": "music/chenchusheng/album49/600x600bb.jpg"
 },
 {
     "name": "陈楚生 - 红星照我去战斗",
@@ -3502,6 +3782,576 @@ let json = [{
     "name": "吴青峰 _ 孙燕姿 - （______醉鬼阿Q）（feat_孙燕姿）",
     "url": "music/sunyanzi/album27/吴青峰 _ 孙燕姿 - （______醉鬼阿Q）（feat_孙燕姿）.ogg",
     "image": "music/sunyanzi/album27/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - Miss Pretty (Remix)",
+    "url": "music/suxing/album01/苏醒AllenSu - Miss Pretty (Remix).mp3",
+    "image": "music/suxing/album01/s34668191.jpg"
+},
+{
+    "name": "苏醒AllenSu - 一程",
+    "url": "music/suxing/album02/苏醒AllenSu - 一程.mp3",
+    "image": "music/suxing/album02/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 不听话",
+    "url": "music/suxing/album03/苏醒AllenSu - 不听话.mp3",
+    "image": "music/suxing/album03/s34646753.jpg"
+},
+{
+    "name": "苏醒AllenSu - Marry Me",
+    "url": "music/suxing/album04/苏醒AllenSu - Marry Me.mp3",
+    "image": "music/suxing/album04/s34580064.jpg"
+},
+{
+    "name": "苏醒AllenSu - 小城夏天 (Kia 赛图斯合作版)",
+    "url": "music/suxing/album05/苏醒AllenSu - 小城夏天 (Kia 赛图斯合作版).mp3",
+    "image": "music/suxing/album05/s34538328.jpg"
+},
+{
+    "name": "苏醒AllenSu - 你听啊你看啊",
+    "url": "music/suxing/album06/苏醒AllenSu - 你听啊你看啊.mp3",
+    "image": "music/suxing/album06/600x600bb.jpg"
+},
+{
+    "name": "王铮亮 _ 陆虎 _ 陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 张远 - 快乐在哪里",
+    "url": "music/suxing/album07/王铮亮 _ 陆虎 _ 陈楚生 _ 苏醒AllenSu _ 王栎鑫 _ 张远 - 快乐在哪里.ogg",
+    "image": "music/suxing/album07/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 恋爱在流行",
+    "url": "music/suxing/album08/苏醒AllenSu - 恋爱在流行.mp3",
+    "image": "music/suxing/album08/600x600bb.jpg"
+},
+{
+    "name": "王铮亮 _ 苏醒AllenSu _ 张远 - 了不起的我们",
+    "url": "music/suxing/album09/王铮亮 _ 苏醒AllenSu _ 张远 - 了不起的我们.mp3",
+    "image": "music/suxing/album09/s34479451.jpg"
+},
+{
+    "name": "苏醒AllenSu - Rising Land",
+    "url": "music/suxing/album10/苏醒AllenSu - Rising Land.ogg",
+    "image": "music/suxing/album10/s34473207.jpg"
+},
+{
+    "name": "苏醒AllenSu - 不要劝我放下",
+    "url": "music/suxing/album11/苏醒AllenSu - 不要劝我放下.ogg",
+    "image": "music/suxing/album11/s34459263.jpg"
+},
+{
+    "name": "苏醒AllenSu - 伴夜星辰",
+    "url": "music/suxing/album12/苏醒AllenSu - 伴夜星辰.ogg",
+    "image": "music/suxing/album12/s34381735.jpg"
+},
+{
+    "name": "苏醒AllenSu - 把活干完一起欢畅",
+    "url": "music/suxing/album13/苏醒AllenSu - 把活干完一起欢畅.ogg",
+    "image": "music/suxing/album13/s34524195.jpg"
+},
+{
+    "name": "苏醒AllenSu - 最佳看球姿势",
+    "url": "music/suxing/album14/苏醒AllenSu - 最佳看球姿势.mp3",
+    "image": "music/suxing/album14/s34377257.jpg"
+},
+{
+    "name": "苏醒AllenSu - Love Is All Around",
+    "url": "music/suxing/album15/苏醒AllenSu - Love Is All Around.ogg",
+    "image": "music/suxing/album15/s34352053.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 陆虎 _ 姚政 - 小镇姑娘",
+    "url": "music/suxing/album16/苏醒AllenSu _ 陆虎 _ 姚政 - 小镇姑娘.mp3",
+    "image": "music/suxing/album16/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 秋天",
+    "url": "music/suxing/album17/苏醒AllenSu - 秋天.mp3",
+    "image": "music/suxing/album17/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 老歌手的日常",
+    "url": "music/suxing/album18/苏醒AllenSu - 老歌手的日常.mp3",
+    "image": "music/suxing/album18/s34294561.jpg"
+},
+{
+    "name": "苏醒AllenSu - Love Beyond The Sea",
+    "url": "music/suxing/album19/苏醒AllenSu - Love Beyond The Sea.ogg",
+    "image": "music/suxing/album19/s34277165.jpg"
+},
+{
+    "name": "苏醒AllenSu - 种愿望",
+    "url": "music/suxing/album20/苏醒AllenSu - 种愿望.mp3",
+    "image": "music/suxing/album20/s34258716.jpg"
+},
+{
+    "name": "苏醒AllenSu - 风景",
+    "url": "music/suxing/album21/苏醒AllenSu - 风景.ogg",
+    "image": "music/suxing/album21/s34251642.jpg"
+},
+{
+    "name": "苏醒AllenSu - 飞翔",
+    "url": "music/suxing/album22/苏醒AllenSu - 飞翔.mp3",
+    "image": "music/suxing/album22/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 更远的地方",
+    "url": "music/suxing/album23/苏醒AllenSu - 更远的地方.ogg",
+    "image": "music/suxing/album23/s34233655.jpg"
+},
+{
+    "name": "苏醒AllenSu - 匿名信",
+    "url": "music/suxing/album24/苏醒AllenSu - 匿名信.ogg",
+    "image": "music/suxing/album24/s34203913.jpg"
+},
+{
+    "name": "苏醒AllenSu - 中年叔叔",
+    "url": "music/suxing/album25/苏醒AllenSu - 中年叔叔.ogg",
+    "image": "music/suxing/album25/s34085098.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 何洁 - 卿心",
+    "url": "music/suxing/album26/苏醒AllenSu _ 何洁 - 卿心.ogg",
+    "image": "music/suxing/album26/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 哽咽",
+    "url": "music/suxing/album27/苏醒AllenSu - 哽咽.mp3",
+    "image": "music/suxing/album27/s33965248.jpg"
+},
+{
+    "name": "苏醒AllenSu - 老狗",
+    "url": "music/suxing/album28/苏醒AllenSu - 老狗.ogg",
+    "image": "music/suxing/album28/s33922610.jpg"
+},
+{
+    "name": "苏醒AllenSu - 光",
+    "url": "music/suxing/album29/苏醒AllenSu - 光.ogg",
+    "image": "music/suxing/album29/s33854111.jpg"
+},
+{
+    "name": "苏醒AllenSu - ALLEN请注意",
+    "url": "music/suxing/album42/苏醒AllenSu - ALLEN请注意.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - Losing Control",
+    "url": "music/suxing/album42/苏醒AllenSu - Losing Control.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - Only You",
+    "url": "music/suxing/album42/苏醒AllenSu - Only You.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - The Greatest Messi",
+    "url": "music/suxing/album42/苏醒AllenSu - The Greatest Messi.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 小明",
+    "url": "music/suxing/album42/苏醒AllenSu - 小明.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 巴黎恋人",
+    "url": "music/suxing/album42/苏醒AllenSu - 巴黎恋人.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 男神",
+    "url": "music/suxing/album42/苏醒AllenSu - 男神.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 破亿",
+    "url": "music/suxing/album42/苏醒AllenSu - 破亿.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 何洁 - Stand Up Again",
+    "url": "music/suxing/album42/苏醒AllenSu _ 何洁 - Stand Up Again.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 鲁赛赛 _ 袁智丽 _ 林嘉里 - 好久不见",
+    "url": "music/suxing/album42/苏醒AllenSu _ 鲁赛赛 _ 袁智丽 _ 林嘉里 - 好久不见.ogg",
+    "image": "music/suxing/album42/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 世界大不同",
+    "url": "music/suxing/album43/苏醒AllenSu - 世界大不同.mp3",
+    "image": "music/suxing/album43/T002R300x300M000003Xu0I44Xqp3I_1.jpg"
+},
+{
+    "name": "苏醒AllenSu - 光芒",
+    "url": "music/suxing/album44/苏醒AllenSu - 光芒.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 原地",
+    "url": "music/suxing/album44/苏醒AllenSu - 原地.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 外婆家",
+    "url": "music/suxing/album44/苏醒AllenSu - 外婆家.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 妈妈",
+    "url": "music/suxing/album44/苏醒AllenSu - 妈妈.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 彩虹",
+    "url": "music/suxing/album44/苏醒AllenSu - 彩虹.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 爱人",
+    "url": "music/suxing/album44/苏醒AllenSu - 爱人.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 白雪歌",
+    "url": "music/suxing/album44/苏醒AllenSu - 白雪歌.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 虞美人",
+    "url": "music/suxing/album44/苏醒AllenSu - 虞美人.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 蝶恋花",
+    "url": "music/suxing/album44/苏醒AllenSu - 蝶恋花.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 越来越近",
+    "url": "music/suxing/album44/苏醒AllenSu - 越来越近.ogg",
+    "image": "music/suxing/album44/600x600bb.jpg"
+},
+{
+    "name": "何洁 _ 苏醒AllenSu - 只愿与你",
+    "url": "music/suxing/album45/何洁 _ 苏醒AllenSu - 只愿与你.ogg",
+    "image": "music/suxing/album45/s28542944.jpg"
+},
+{
+    "name": "苏醒AllenSu - Back Home",
+    "url": "music/suxing/album46/苏醒AllenSu - Back Home.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - Falling In Love",
+    "url": "music/suxing/album46/苏醒AllenSu - Falling In Love.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - Sexy Girl",
+    "url": "music/suxing/album46/苏醒AllenSu - Sexy Girl.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 学会爱",
+    "url": "music/suxing/album46/苏醒AllenSu - 学会爱.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 找个人",
+    "url": "music/suxing/album46/苏醒AllenSu - 找个人.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 放肆出发",
+    "url": "music/suxing/album46/苏醒AllenSu - 放肆出发.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 跟着我旅行",
+    "url": "music/suxing/album46/苏醒AllenSu - 跟着我旅行.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 适者生存",
+    "url": "music/suxing/album46/苏醒AllenSu - 适者生存.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 重生",
+    "url": "music/suxing/album46/苏醒AllenSu - 重生.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 高清无码",
+    "url": "music/suxing/album46/苏醒AllenSu - 高清无码.ogg",
+    "image": "music/suxing/album46/s28363651.jpg"
+},
+{
+    "name": "苏醒AllenSu - 侗听",
+    "url": "music/suxing/album47/苏醒AllenSu - 侗听.ogg",
+    "image": "music/suxing/album47/s28045516.jpg"
+},
+{
+    "name": "苏醒AllenSu - 永恒之火",
+    "url": "music/suxing/album47/苏醒AllenSu - 永恒之火.ogg",
+    "image": "music/suxing/album47/s28045516.jpg"
+},
+{
+    "name": "苏醒AllenSu - 神泉水 (DJ Chillen Remix)",
+    "url": "music/suxing/album47/苏醒AllenSu - 神泉水 (DJ Chillen Remix).ogg",
+    "image": "music/suxing/album47/s28045516.jpg"
+},
+{
+    "name": "苏醒AllenSu - 缘来",
+    "url": "music/suxing/album47/苏醒AllenSu - 缘来.ogg",
+    "image": "music/suxing/album47/s28045516.jpg"
+},
+{
+    "name": "裂人帮 - 让世界听见",
+    "url": "music/suxing/album47/裂人帮 - 让世界听见.ogg",
+    "image": "music/suxing/album47/s28045516.jpg"
+},
+{
+    "name": "苏醒AllenSu - Dream",
+    "url": "music/suxing/album48/苏醒AllenSu - Dream.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - Future(Interlude)",
+    "url": "music/suxing/album48/苏醒AllenSu - Future(Interlude).ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - Omnipotent(Skit)",
+    "url": "music/suxing/album48/苏醒AllenSu - Omnipotent(Skit).mp3",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - Splitman",
+    "url": "music/suxing/album48/苏醒AllenSu - Splitman.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - The Announcement(Skit)",
+    "url": "music/suxing/album48/苏醒AllenSu - The Announcement(Skit).ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - Walk Alone(Interlude)",
+    "url": "music/suxing/album48/苏醒AllenSu - Walk Alone(Interlude).ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - Whatever",
+    "url": "music/suxing/album48/苏醒AllenSu - Whatever.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - 我不是歌手",
+    "url": "music/suxing/album48/苏醒AllenSu - 我不是歌手.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - 星座女郎",
+    "url": "music/suxing/album48/苏醒AllenSu - 星座女郎.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - 有故事的女人",
+    "url": "music/suxing/album48/苏醒AllenSu - 有故事的女人.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - 洋货",
+    "url": "music/suxing/album48/苏醒AllenSu - 洋货.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - 独行",
+    "url": "music/suxing/album48/苏醒AllenSu - 独行.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 鲁赛赛 - The Break",
+    "url": "music/suxing/album48/苏醒AllenSu _ 鲁赛赛 - The Break.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 鲁赛赛 - 北京City",
+    "url": "music/suxing/album48/苏醒AllenSu _ 鲁赛赛 - 北京City.ogg",
+    "image": "music/suxing/album48/s27967121.jpg"
+},
+{
+    "name": "苏醒AllenSu - 永恒之火",
+    "url": "music/suxing/album49/苏醒AllenSu - 永恒之火.mp3",
+    "image": "music/suxing/album49/s27507767.jpg"
+},
+{
+    "name": "苏醒AllenSu - 神泉水",
+    "url": "music/suxing/album50/苏醒AllenSu - 神泉水.mp3",
+    "image": "music/suxing/album50/s27464070.jpg"
+},
+{
+    "name": "苏醒AllenSu - 黑暗之光",
+    "url": "music/suxing/album51/苏醒AllenSu - 黑暗之光.mp3",
+    "image": "music/suxing/album51/s27257585.jpg"
+},
+{
+    "name": "苏醒AllenSu - 兄弟",
+    "url": "music/suxing/album52/苏醒AllenSu - 兄弟.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 可惜",
+    "url": "music/suxing/album52/苏醒AllenSu - 可惜.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 对手",
+    "url": "music/suxing/album52/苏醒AllenSu - 对手.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 心世界",
+    "url": "music/suxing/album52/苏醒AllenSu - 心世界.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 忽然之间",
+    "url": "music/suxing/album52/苏醒AllenSu - 忽然之间.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 情人节故事",
+    "url": "music/suxing/album52/苏醒AllenSu - 情人节故事.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 晚安亲爱的",
+    "url": "music/suxing/album52/苏醒AllenSu - 晚安亲爱的.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 武林盟主",
+    "url": "music/suxing/album52/苏醒AllenSu - 武林盟主.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 英雄",
+    "url": "music/suxing/album52/苏醒AllenSu - 英雄.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - 轮廓",
+    "url": "music/suxing/album52/苏醒AllenSu - 轮廓.ogg",
+    "image": "music/suxing/album52/s23127482.jpg"
+},
+{
+    "name": "苏醒AllenSu - Be My Lady",
+    "url": "music/suxing/album53/苏醒AllenSu - Be My Lady.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - I Will Be There For You (英文版_Bonus Track)",
+    "url": "music/suxing/album53/苏醒AllenSu - I Will Be There For You (英文版_Bonus Track).ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - Party Queen",
+    "url": "music/suxing/album53/苏醒AllenSu - Party Queen.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 下次再玩",
+    "url": "music/suxing/album53/苏醒AllenSu - 下次再玩.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 假如爱是一种错",
+    "url": "music/suxing/album53/苏醒AllenSu - 假如爱是一种错.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 分裂",
+    "url": "music/suxing/album53/苏醒AllenSu - 分裂.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 只谈心不贪心",
+    "url": "music/suxing/album53/苏醒AllenSu - 只谈心不贪心.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 怕爱",
+    "url": "music/suxing/album53/苏醒AllenSu - 怕爱.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 我还在唱歌",
+    "url": "music/suxing/album53/苏醒AllenSu - 我还在唱歌.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 身旁",
+    "url": "music/suxing/album53/苏醒AllenSu - 身旁.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 非偶像",
+    "url": "music/suxing/album53/苏醒AllenSu - 非偶像.ogg",
+    "image": "music/suxing/album53/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 1+1等于全世界",
+    "url": "music/suxing/album54/苏醒AllenSu - 1+1等于全世界.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - Miss Pretty",
+    "url": "music/suxing/album54/苏醒AllenSu - Miss Pretty.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - So I Say",
+    "url": "music/suxing/album54/苏醒AllenSu - So I Say.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 一首想念的歌",
+    "url": "music/suxing/album54/苏醒AllenSu - 一首想念的歌.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 你最醒目",
+    "url": "music/suxing/album54/苏醒AllenSu - 你最醒目.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 后来你好吗",
+    "url": "music/suxing/album54/苏醒AllenSu - 后来你好吗.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 想念式",
+    "url": "music/suxing/album54/苏醒AllenSu - 想念式.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 浪漫旅程",
+    "url": "music/suxing/album54/苏醒AllenSu - 浪漫旅程.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 选秀明星",
+    "url": "music/suxing/album54/苏醒AllenSu - 选秀明星.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - 酷旋风",
+    "url": "music/suxing/album54/苏醒AllenSu - 酷旋风.ogg",
+    "image": "music/suxing/album54/600x600bb.jpg"
 },
 {
     "name": "五月天 - HoSee",
