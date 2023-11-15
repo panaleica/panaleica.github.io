@@ -284,6 +284,11 @@ let json = [{
     "image": "music/baian/album16/T002R300x300M000004ADYFG0SQj3f_2.jpg"
 },
 {
+    "name": "白安 - 这里什么都没有",
+    "url": "music/baian/album17/白安 - 这里什么都没有.mp3",
+    "image": "music/baian/album17/600x600bb.jpg"
+},
+{
     "name": "BY2 - PP别黏在椅上",
     "url": "music/by2/album01/BY2 - PP别黏在椅上.ogg",
     "image": "music/by2/album01/600x600bb.jpg"
@@ -1764,6 +1769,56 @@ let json = [{
     "image": "music/fir/album11/600x600bb.jpg"
 },
 {
+    "name": "范逸臣 Van Fan _ F.I.R.飞儿乐团 - 功夫狂潮",
+    "url": "music/fir/album12/范逸臣 Van Fan _ F_I_R_飞儿乐团 - 功夫狂潮.ogg",
+    "image": "music/fir/album12/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 _ 动力火车 - 爱我所爱",
+    "url": "music/fir/album13/F_I_R_飞儿乐团 _ 动力火车 - 爱我所爱.ogg",
+    "image": "music/fir/album13/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 _ Do As Infinity (大无限乐团) - 无限青春 Forever Young",
+    "url": "music/fir/album14/F_I_R_飞儿乐团 _ Do As Infinity (大无限乐团) - 无限青春 Forever Young.ogg",
+    "image": "music/fir/album14/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 _ 皇毅Spark - 海雾",
+    "url": "music/fir/album15/F_I_R_飞儿乐团 _ 皇毅Spark - 海雾.ogg",
+    "image": "music/fir/album15/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 天地之间",
+    "url": "music/fir/album16/F_I_R_飞儿乐团 - 天地之间.ogg",
+    "image": "music/fir/album16/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 _ 阿沁 - 诫",
+    "url": "music/fir/album17/F_I_R_飞儿乐团 _ 阿沁 - 诫.ogg",
+    "image": "music/fir/album17/s33759458.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - Someday We May Love",
+    "url": "music/fir/album18/F_I_R_飞儿乐团 - Someday We May Love.ogg",
+    "image": "music/fir/album18/600x600bb.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 龙的崛起",
+    "url": "music/fir/album19/F_I_R_飞儿乐团 - 龙的崛起.ogg",
+    "image": "music/fir/album19/s34107795.jpg"
+},
+{
+    "name": "F.I.R.飞儿乐团 - 刺青",
+    "url": "music/fir/album20/F_I_R_飞儿乐团 - 刺青.ogg",
+    "image": "music/fir/album20/600x600bb.jpg"
+},
+{
+    "name": "Tank _ F.I.R.飞儿乐团 - 三国恋2022",
+    "url": "music/fir/album21/Tank _ F_I_R_飞儿乐团 - 三国恋2022.mp3",
+    "image": "music/fir/album21/s34223338.jpg"
+},
+{
     "name": "华晨宇 _ 和平精英 - 绝境战神",
     "url": "music/huachenyu/album01/华晨宇 _ 和平精英 - 绝境战神.ogg",
     "image": "music/huachenyu/album01/T002R300x300M0000029gVDz0rGpjA_1.jpg"
@@ -2127,6 +2182,11 @@ let json = [{
     "name": "华晨宇,欧豪,白举纲 - 追梦赤子心",
     "url": "music/huachenyu/album35/华晨宇,欧豪,白举纲 - 追梦赤子心.mp3",
     "image": "music/huachenyu/album35/s27064064.jpg"
+},
+{
+    "name": "华晨宇 - 风之海",
+    "url": "music/huachenyu/album36/华晨宇 - 风之海.mp3",
+    "image": "music/huachenyu/album36/600x600bb.jpg"
 },
 {
     "name": "梁静茹 - 亲亲",
@@ -3929,6 +3989,66 @@ let json = [{
     "image": "music/suxing/album29/s33854111.jpg"
 },
 {
+    "name": "苏醒AllenSu - Real Time 2020",
+    "url": "music/suxing/album30/苏醒AllenSu - Real Time 2020.ogg",
+    "image": "music/suxing/album30/s33787041.jpg"
+},
+{
+    "name": "苏醒AllenSu - Dunk On You",
+    "url": "music/suxing/album31/苏醒AllenSu - Dunk On You.ogg",
+    "image": "music/suxing/album31/s33767626.jpg"
+},
+{
+    "name": "苏醒AllenSu - 漂泊",
+    "url": "music/suxing/album32/苏醒AllenSu - 漂泊.ogg",
+    "image": "music/suxing/album32/s33655374.jpg"
+},
+{
+    "name": "苏醒AllenSu - 醒来说",
+    "url": "music/suxing/album33/苏醒AllenSu - 醒来说.ogg",
+    "image": "music/suxing/album33/s33548035.jpg"
+},
+{
+    "name": "苏醒AllenSu - 没那么从容",
+    "url": "music/suxing/album34/苏醒AllenSu - 没那么从容.ogg",
+    "image": "music/suxing/album34/s33511937.jpg"
+},
+{
+    "name": "苏醒AllenSu - Fly With Me",
+    "url": "music/suxing/album35/苏醒AllenSu - Fly With Me.ogg",
+    "image": "music/suxing/album35/T002R300x300M000001HvrOt4bFqzE_1.jpg"
+},
+{
+    "name": "苏醒AllenSu - 诡使神差",
+    "url": "music/suxing/album36/苏醒AllenSu - 诡使神差.ogg",
+    "image": "music/suxing/album36/s33462633.jpg"
+},
+{
+    "name": "苏醒AllenSu - 回忆失踪",
+    "url": "music/suxing/album37/苏醒AllenSu - 回忆失踪.ogg",
+    "image": "music/suxing/album37/s33536358.jpg"
+},
+{
+    "name": "苏醒AllenSu - 懒得",
+    "url": "music/suxing/album38/苏醒AllenSu - 懒得.ogg",
+    "image": "music/suxing/album38/s33306877.jpg"
+},
+{
+    "name": "苏醒AllenSu - 离舟",
+    "url": "music/suxing/album39/苏醒AllenSu - 离舟.mp3",
+    "image": "music/suxing/album39/600x600bb.jpg"
+},
+{
+    "name": "何洁 _ 苏醒AllenSu - 水仙",
+    "url": "music/suxing/album40/何洁 _ 苏醒AllenSu - 水仙.mp3",
+    "image": "music/suxing/album40/s29942159.jpg"
+},
+{
+    "name": "苏醒AllenSu _ 张远 - 撑兄道弟",
+    "url": "music/suxing/album41/苏醒AllenSu _ 张远 - 撑兄道弟.ogg",
+    "image": "music/suxing/album41/s29902483.jpg"
+},
+{
     "name": "苏醒AllenSu - ALLEN请注意",
     "url": "music/suxing/album42/苏醒AllenSu - ALLEN请注意.ogg",
     "image": "music/suxing/album42/600x600bb.jpg"
@@ -4352,6 +4472,61 @@ let json = [{
     "name": "苏醒AllenSu - 酷旋风",
     "url": "music/suxing/album54/苏醒AllenSu - 酷旋风.ogg",
     "image": "music/suxing/album54/600x600bb.jpg"
+},
+{
+    "name": "苏醒AllenSu - China China",
+    "url": "music/suxing/album55/苏醒AllenSu - China China.mp3",
+    "image": "music/suxing/album55/s3933708.jpg"
+},
+{
+    "name": "苏醒AllenSu - It's The Magic",
+    "url": "music/suxing/album56/苏醒AllenSu - It's The Magic.mp3",
+    "image": "music/suxing/album56/s3709331.jpg"
+},
+{
+    "name": "方大同 _ 苏醒AllenSu - 好兄弟",
+    "url": "music/suxing/album57/方大同 _ 苏醒AllenSu - 好兄弟.mp3",
+    "image": "music/suxing/album57/s33656625.jpg"
+},
+{
+    "name": "苏醒 - 我们在一起",
+    "url": "music/suxing/album58/苏醒 - 我们在一起.mp3",
+    "image": "music/suxing/album58/s4714500.jpg"
+},
+{
+    "name": "苏醒 - 谢谢你陪我一起过",
+    "url": "music/suxing/album59/苏醒 - 谢谢你陪我一起过.mp3",
+    "image": "music/suxing/album59/s4714500.jpg"
+},
+{
+    "name": "苏醒 - Happy Go(Remix)",
+    "url": "music/suxing/album60/苏醒 - Happy Go(Remix).mp3",
+    "image": "music/suxing/album60/600x600bb.jpg"
+},
+{
+    "name": "苏醒 - Happy Go",
+    "url": "music/suxing/album60/苏醒 - Happy Go.mp3",
+    "image": "music/suxing/album60/600x600bb.jpg"
+},
+{
+    "name": "苏醒 - Preface",
+    "url": "music/suxing/album60/苏醒 - Preface.mp3",
+    "image": "music/suxing/album60/600x600bb.jpg"
+},
+{
+    "name": "苏醒 - 幸福曾经来过",
+    "url": "music/suxing/album60/苏醒 - 幸福曾经来过.mp3",
+    "image": "music/suxing/album60/600x600bb.jpg"
+},
+{
+    "name": "苏醒 - 秋天",
+    "url": "music/suxing/album60/苏醒 - 秋天.mp3",
+    "image": "music/suxing/album60/600x600bb.jpg"
+},
+{
+    "name": "苏醒,胡灵 - 分手的恋爱",
+    "url": "music/suxing/album60/苏醒,胡灵 - 分手的恋爱.mp3",
+    "image": "music/suxing/album60/600x600bb.jpg"
 },
 {
     "name": "五月天 - HoSee",
@@ -5837,6 +6012,36 @@ let json = [{
     "name": "詹雯婷 - 诀爱",
     "url": "music/zhanwenting/album06/詹雯婷 - 诀爱.ogg",
     "image": "music/zhanwenting/album06/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 命运火焰",
+    "url": "music/zhanwenting/album07/詹雯婷 - 命运火焰.mp3",
+    "image": "music/zhanwenting/album07/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 唯爱",
+    "url": "music/zhanwenting/album08/詹雯婷 - 唯爱.ogg",
+    "image": "music/zhanwenting/album08/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 _ 黄旭 _ 王以太 - 友情岁月",
+    "url": "music/zhanwenting/album09/詹雯婷 _ 黄旭 _ 王以太 - 友情岁月.mp3",
+    "image": "music/zhanwenting/album09/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 荒野志",
+    "url": "music/zhanwenting/album10/詹雯婷 - 荒野志.mp3",
+    "image": "music/zhanwenting/album10/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 逆道",
+    "url": "music/zhanwenting/album11/詹雯婷 - 逆道.mp3",
+    "image": "music/zhanwenting/album11/600x600bb.jpg"
+},
+{
+    "name": "詹雯婷 - 荒羽",
+    "url": "music/zhanwenting/album12/詹雯婷 - 荒羽.mp3",
+    "image": "music/zhanwenting/album12/600x600bb.jpg"
 },
 {
     "name": "周杰伦 - Intro",
