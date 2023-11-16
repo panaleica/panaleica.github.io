@@ -3014,6 +3014,31 @@ let json = [{
     "image": "music/liangjingru/album23/600x600bb.jpg"
 },
 {
+    "name": "梁静茹 - 今天情人节",
+    "url": "music/liangjingru/album24/梁静茹 - 今天情人节.ogg",
+    "image": "music/liangjingru/album24/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 比较爱",
+    "url": "music/liangjingru/album24/梁静茹 - 比较爱.ogg",
+    "image": "music/liangjingru/album24/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 没有如果",
+    "url": "music/liangjingru/album24/梁静茹 - 没有如果.ogg",
+    "image": "music/liangjingru/album24/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 满满的都是爱",
+    "url": "music/liangjingru/album24/梁静茹 - 满满的都是爱.ogg",
+    "image": "music/liangjingru/album24/600x600bb.jpg"
+},
+{
+    "name": "梁静茹 - 蔚蓝海岸",
+    "url": "music/liangjingru/album24/梁静茹 - 蔚蓝海岸.ogg",
+    "image": "music/liangjingru/album24/600x600bb.jpg"
+},
+{
     "name": "孙燕姿 - 充氧期",
     "url": "music/sunyanzi/album01/孙燕姿 - 充氧期.ogg",
     "image": "music/sunyanzi/album01/600x600bb.jpg"
@@ -5459,6 +5484,136 @@ let json = [{
     "image": "music/wuyuetian/album31/600x600bb.jpg"
 },
 {
+    "name": "五月天 - 不见不散",
+    "url": "music/wuyuetian/album32/五月天 - 不见不散.mp3",
+    "image": "music/wuyuetian/album32/s3404316.jpg"
+},
+{
+    "name": "五月天 - 八月爱人",
+    "url": "music/wuyuetian/album32/五月天 - 八月爱人.mp3",
+    "image": "music/wuyuetian/album32/s3404316.jpg"
+},
+{
+    "name": "五月天 - 虚弱",
+    "url": "music/wuyuetian/album32/五月天 - 虚弱.mp3",
+    "image": "music/wuyuetian/album32/s3404316.jpg"
+},
+{
+    "name": "五月天 - 金色大街",
+    "url": "music/wuyuetian/album32/五月天 - 金色大街.mp3",
+    "image": "music/wuyuetian/album32/s3404316.jpg"
+},
+{
+    "name": "五月天 - Paradise + 倔强 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - Paradise + 倔强 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 垃圾车 (07 最够朋友版)",
+    "url": "music/wuyuetian/album33/五月天 - 垃圾车 (07 最够朋友版).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 天使 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 天使 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 孙悟空 (Ver_ All Crew Out)",
+    "url": "music/wuyuetian/album33/五月天 - 孙悟空 (Ver_ All Crew Out).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 年轻就要对味",
+    "url": "music/wuyuetian/album33/五月天 - 年轻就要对味.ogg",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 我 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 我 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 我又初恋了 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 我又初恋了 (Live).ogg",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 抓狂",
+    "url": "music/wuyuetian/album33/五月天 - 抓狂.mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 摩托车日记 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 摩托车日记 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 晚安 地球人 + 疯狂世界 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 晚安 地球人 + 疯狂世界 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 最重要的小事 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 最重要的小事 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 玛莎的小事 (Piano Live)",
+    "url": "music/wuyuetian/album33/五月天 - 玛莎的小事 (Piano Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 知足 (07 最知足版)",
+    "url": "music/wuyuetian/album33/五月天 - 知足 (07 最知足版).ogg",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 离开地球表面 (Remix By DJ Rock)",
+    "url": "music/wuyuetian/album33/五月天 - 离开地球表面 (Remix By DJ Rock).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 离开地球表面",
+    "url": "music/wuyuetian/album33/五月天 - 离开地球表面.ogg",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 约翰蓝侬 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 约翰蓝侬 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 阿姆斯壮 (Live)",
+    "url": "music/wuyuetian/album33/五月天 - 阿姆斯壮 (Live).mp3",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 _ 纪晓君 - To Find My Paradise",
+    "url": "music/wuyuetian/album33/五月天 _ 纪晓君 - To Find My Paradise.ogg",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 _ 陈绮贞 - 私奔到月球",
+    "url": "music/wuyuetian/album33/五月天 _ 陈绮贞 - 私奔到月球.ogg",
+    "image": "music/wuyuetian/album33/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 小太阳",
+    "url": "music/wuyuetian/album34/五月天 - 小太阳.ogg",
+    "image": "music/wuyuetian/album34/600x600bb.jpg"
+},
+{
+    "name": "五月天 - 将军令",
+    "url": "music/wuyuetian/album35/五月天 - 将军令.ogg",
+    "image": "music/wuyuetian/album35/600x600bb.jpg"
+},
+{
+    "name": "八三夭乐团 _ 五月天 - 干啦干啦",
+    "url": "music/wuyuetian/album36/八三夭乐团 _ 五月天 - 干啦干啦.ogg",
+    "image": "music/wuyuetian/album36/600x600bb.jpg"
+},
+{
     "name": "徐佳莹 - VIP",
     "url": "music/xujiaying/album01/徐佳莹 - VIP.ogg",
     "image": "music/xujiaying/album01/600x600bb.jpg"
@@ -5782,6 +5937,241 @@ let json = [{
     "name": "徐佳莹 _ 黄瑞丰 - 二日醉 feat_ 黄瑞丰",
     "url": "music/xujiaying/album06/徐佳莹 _ 黄瑞丰 - 二日醉 feat_ 黄瑞丰.ogg",
     "image": "music/xujiaying/album06/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 星光祭",
+    "url": "music/xujiaying/album07/徐佳莹 - 星光祭.mp3",
+    "image": "music/xujiaying/album07/s3216684.jpg"
+},
+{
+    "name": "徐佳莹 - 起点",
+    "url": "music/xujiaying/album08/徐佳莹 - 起点.mp3",
+    "image": "music/xujiaying/album08/s6861433.jpg"
+},
+{
+    "name": "徐佳莹 - 在旅行的路上",
+    "url": "music/xujiaying/album09/徐佳莹 - 在旅行的路上.mp3",
+    "image": "music/xujiaying/album09/s27028390.jpg"
+},
+{
+    "name": "徐佳莹 - 大雨将至",
+    "url": "music/xujiaying/album10/徐佳莹 - 大雨将至.mp3",
+    "image": "music/xujiaying/album10/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 遗忘之前",
+    "url": "music/xujiaying/album11/徐佳莹 - 遗忘之前.mp3",
+    "image": "music/xujiaying/album11/s28396902.jpg"
+},
+{
+    "name": "徐佳莹 - 不要再孤单",
+    "url": "music/xujiaying/album12/徐佳莹 - 不要再孤单.mp3",
+    "image": "music/xujiaying/album12/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 潇洒走一回",
+    "url": "music/xujiaying/album13/徐佳莹 - 潇洒走一回.ogg",
+    "image": "music/xujiaying/album13/s28552717.jpg"
+},
+{
+    "name": "徐佳莹 - 女人花 (影视原声)",
+    "url": "music/xujiaying/album14/徐佳莹 - 女人花 (影视原声).ogg",
+    "image": "music/xujiaying/album14/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 我所需要的 (影视原声)",
+    "url": "music/xujiaying/album15/徐佳莹 - 我所需要的 (影视原声).ogg",
+    "image": "music/xujiaying/album15/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 格斗场",
+    "url": "music/xujiaying/album16/徐佳莹 - 格斗场.mp3",
+    "image": "music/xujiaying/album16/s28830289.jpg"
+},
+{
+    "name": "徐佳莹 - 湫兮如风",
+    "url": "music/xujiaying/album17/徐佳莹 - 湫兮如风.ogg",
+    "image": "music/xujiaying/album17/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 一无所有 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 一无所有 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 不痛 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 不痛 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 修炼爱情 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 修炼爱情 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 咕叽咕叽 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 咕叽咕叽 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 喜欢你 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 喜欢你 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 失落沙洲 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 失落沙洲 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 浪费 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 浪费 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 相爱后动物感伤 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 相爱后动物感伤 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 鲁冰花 (Live)",
+    "url": "music/xujiaying/album18/徐佳莹 - 鲁冰花 (Live).mp3",
+    "image": "music/xujiaying/album18/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 当我找到了你",
+    "url": "music/xujiaying/album19/徐佳莹 - 当我找到了你.mp3",
+    "image": "music/xujiaying/album19/s29151303.jpg"
+},
+{
+    "name": "徐佳莹 - 最初的记忆",
+    "url": "music/xujiaying/album20/徐佳莹 - 最初的记忆.mp3",
+    "image": "music/xujiaying/album20/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 完美落地",
+    "url": "music/xujiaying/album21/徐佳莹 - 完美落地.mp3",
+    "image": "music/xujiaying/album21/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 我们的十年",
+    "url": "music/xujiaying/album22/徐佳莹 - 我们的十年.mp3",
+    "image": "music/xujiaying/album22/s29773822.jpg"
+},
+{
+    "name": "徐佳莹 - 一爱难求",
+    "url": "music/xujiaying/album23/徐佳莹 - 一爱难求.ogg",
+    "image": "music/xujiaying/album23/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 最美的遇见",
+    "url": "music/xujiaying/album24/徐佳莹 - 最美的遇见.mp3",
+    "image": "music/xujiaying/album24/s29867026.jpg"
+},
+{
+    "name": "徐佳莹 - 真的傻",
+    "url": "music/xujiaying/album25/徐佳莹 - 真的傻.mp3",
+    "image": "music/xujiaying/album25/s29985164.jpg"
+},
+{
+    "name": "徐佳莹 - 一句话的宇宙",
+    "url": "music/xujiaying/album26/徐佳莹 - 一句话的宇宙.mp3",
+    "image": "music/xujiaying/album26/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 一样的月光",
+    "url": "music/xujiaying/album27/徐佳莹 - 一样的月光.mp3",
+    "image": "music/xujiaying/album27/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 明知故犯",
+    "url": "music/xujiaying/album27/徐佳莹 - 明知故犯.mp3",
+    "image": "music/xujiaying/album27/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 贝壳",
+    "url": "music/xujiaying/album27/徐佳莹 - 贝壳.mp3",
+    "image": "music/xujiaying/album27/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - Hell",
+    "url": "music/xujiaying/album28/徐佳莹 - Hell.mp3",
+    "image": "music/xujiaying/album28/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 崩溃",
+    "url": "music/xujiaying/album28/徐佳莹 - 崩溃.mp3",
+    "image": "music/xujiaying/album28/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 残爱",
+    "url": "music/xujiaying/album28/徐佳莹 - 残爱.mp3",
+    "image": "music/xujiaying/album28/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 _ 廖韦卓 - 挣脱",
+    "url": "music/xujiaying/album29/徐佳莹 _ 廖韦卓 - 挣脱.mp3",
+    "image": "music/xujiaying/album29/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 _ 廖韦卓 - 来我身边",
+    "url": "music/xujiaying/album29/徐佳莹 _ 廖韦卓 - 来我身边.mp3",
+    "image": "music/xujiaying/album29/600x600bb.jpg"
+},
+{
+    "name": "方治权 _ 李元智 _ 徐佳莹 _ 陈蓝迪 - 蝶恋",
+    "url": "music/xujiaying/album29/方治权 _ 李元智 _ 徐佳莹 _ 陈蓝迪 - 蝶恋.mp3",
+    "image": "music/xujiaying/album29/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 原谅的代价",
+    "url": "music/xujiaying/album30/徐佳莹 - 原谅的代价.mp3",
+    "image": "music/xujiaying/album30/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 能不能只有我",
+    "url": "music/xujiaying/album30/徐佳莹 - 能不能只有我.mp3",
+    "image": "music/xujiaying/album30/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 门开不开",
+    "url": "music/xujiaying/album30/徐佳莹 - 门开不开.mp3",
+    "image": "music/xujiaying/album30/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 没颜色的花",
+    "url": "music/xujiaying/album31/徐佳莹 - 没颜色的花.ogg",
+    "image": "music/xujiaying/album31/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 不舍",
+    "url": "music/xujiaying/album32/徐佳莹 - 不舍.mp3",
+    "image": "music/xujiaying/album32/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 天使爱大象",
+    "url": "music/xujiaying/album33/徐佳莹 - 天使爱大象.ogg",
+    "image": "music/xujiaying/album33/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 妈妈教会我",
+    "url": "music/xujiaying/album34/徐佳莹 - 妈妈教会我.ogg",
+    "image": "music/xujiaying/album34/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 我一直都在这里",
+    "url": "music/xujiaying/album35/徐佳莹 - 我一直都在这里.ogg",
+    "image": "music/xujiaying/album35/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 在你不知道的时间里爱你很久",
+    "url": "music/xujiaying/album36/徐佳莹 - 在你不知道的时间里爱你很久.mp3",
+    "image": "music/xujiaying/album36/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 今夕何夕",
+    "url": "music/xujiaying/album37/徐佳莹 - 今夕何夕.ogg",
+    "image": "music/xujiaying/album37/600x600bb.jpg"
 },
 {
     "name": "张若凡 - 不凡",
@@ -6892,4 +7282,19 @@ let json = [{
     "name": "周杰伦 - 黄金甲",
     "url": "music/zhoujielun/album19/周杰伦 - 黄金甲.ogg",
     "image": "music/zhoujielun/album19/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 周大侠",
+    "url": "music/zhoujielun/album20/周杰伦 - 周大侠.mp3",
+    "image": "music/zhoujielun/album20/s31205791.jpg"
+},
+{
+    "name": "周杰伦 - 秘密花园",
+    "url": "music/zhoujielun/album20/周杰伦 - 秘密花园.mp3",
+    "image": "music/zhoujielun/album20/s31205791.jpg"
+},
+{
+    "name": "派伟俊 _ 周杰伦 - Try",
+    "url": "music/zhoujielun/album21/派伟俊 _ 周杰伦 - Try.ogg",
+    "image": "music/zhoujielun/album21/600x600bb.jpg"
 }]
