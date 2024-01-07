@@ -694,6 +694,31 @@ let json = [{
     "image": "music/by2/album23/600x600bb.jpg"
 },
 {
+    "name": "BY2 - 丫",
+    "url": "music/by2/album24/BY2 - 丫.mp3",
+    "image": "music/by2/album24/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 双鲤书",
+    "url": "music/by2/album24/BY2 - 双鲤书.mp3",
+    "image": "music/by2/album24/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 回避",
+    "url": "music/by2/album24/BY2 - 回避.mp3",
+    "image": "music/by2/album24/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 带我飞向月亮",
+    "url": "music/by2/album24/BY2 - 带我飞向月亮.mp3",
+    "image": "music/by2/album24/600x600bb.jpg"
+},
+{
+    "name": "BY2 - 年少",
+    "url": "music/by2/album24/BY2 - 年少.mp3",
+    "image": "music/by2/album24/600x600bb.jpg"
+},
+{
     "name": "陈楚生 - 向海而生",
     "url": "music/chenchusheng/album01/陈楚生 - 向海而生.ogg",
     "image": "music/chenchusheng/album01/600x600bb.jpg"
@@ -2187,6 +2212,11 @@ let json = [{
     "name": "华晨宇 - 风之海",
     "url": "music/huachenyu/album36/华晨宇 - 风之海.mp3",
     "image": "music/huachenyu/album36/600x600bb.jpg"
+},
+{
+    "name": "华晨宇 - 普通到不普通的人生",
+    "url": "music/huachenyu/album37/华晨宇 - 普通到不普通的人生.mp3",
+    "image": "music/huachenyu/album37/600x600bb.jpg"
 },
 {
     "name": "梁静茹 - 亲亲",
@@ -6174,6 +6204,86 @@ let json = [{
     "image": "music/xujiaying/album37/600x600bb.jpg"
 },
 {
+    "name": "徐佳莹 - 没颜色的花",
+    "url": "music/xujiaying/album38/徐佳莹 - 没颜色的花.ogg",
+    "image": "music/xujiaying/album38/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 不舍",
+    "url": "music/xujiaying/album39/徐佳莹 - 不舍.mp3",
+    "image": "music/xujiaying/album39/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 你有我",
+    "url": "music/xujiaying/album40/徐佳莹 - 你有我.mp3",
+    "image": "music/xujiaying/album40/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 最远的远方",
+    "url": "music/xujiaying/album41/徐佳莹 - 最远的远方.mp3",
+    "image": "music/xujiaying/album41/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 问劫",
+    "url": "music/xujiaying/album42/徐佳莹 - 问劫.ogg",
+    "image": "music/xujiaying/album42/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 光阴独白",
+    "url": "music/xujiaying/album43/徐佳莹 - 光阴独白.ogg",
+    "image": "music/xujiaying/album43/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 雏形",
+    "url": "music/xujiaying/album44/徐佳莹 - 雏形.ogg",
+    "image": "music/xujiaying/album44/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 以上皆非",
+    "url": "music/xujiaying/album45/徐佳莹 - 以上皆非.ogg",
+    "image": "music/xujiaying/album45/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 远距离练习",
+    "url": "music/xujiaying/album46/徐佳莹 - 远距离练习.ogg",
+    "image": "music/xujiaying/album46/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 行走的鱼",
+    "url": "music/xujiaying/album47/徐佳莹 - 行走的鱼.ogg",
+    "image": "music/xujiaying/album47/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 背后的地球",
+    "url": "music/xujiaying/album48/徐佳莹 - 背后的地球.mp3",
+    "image": "music/xujiaying/album48/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 我经过风暴",
+    "url": "music/xujiaying/album49/徐佳莹 - 我经过风暴.ogg",
+    "image": "music/xujiaying/album49/s34611134.jpg"
+},
+{
+    "name": "徐佳莹 - 与爱无关",
+    "url": "music/xujiaying/album50/徐佳莹 - 与爱无关.ogg",
+    "image": "music/xujiaying/album50/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 亏欠",
+    "url": "music/xujiaying/album51/徐佳莹 - 亏欠.mp3",
+    "image": "music/xujiaying/album51/600x600bb.jpg"
+},
+{
+    "name": "徐佳莹 - 你的童话",
+    "url": "music/xujiaying/album52/徐佳莹 - 你的童话.mp3",
+    "image": "music/xujiaying/album52/s34748401.jpg"
+},
+{
+    "name": "裘德_徐佳莹 - 色盲",
+    "url": "music/xujiaying/album53/裘德_徐佳莹 - 色盲.mp3",
+    "image": "music/xujiaying/album53/600x600bb.jpg"
+},
+{
     "name": "张若凡 - 不凡",
     "url": "music/zhangruofan/album01/张若凡 - 不凡.ogg",
     "image": "music/zhangruofan/album01/600x600bb.jpg"
@@ -7297,4 +7407,9 @@ let json = [{
     "name": "派伟俊 _ 周杰伦 - Try",
     "url": "music/zhoujielun/album21/派伟俊 _ 周杰伦 - Try.ogg",
     "image": "music/zhoujielun/album21/600x600bb.jpg"
+},
+{
+    "name": "周杰伦 - 圣诞星 (feat_ 杨瑞代)",
+    "url": "music/zhoujielun/album22/周杰伦 - 圣诞星 (feat_ 杨瑞代).ogg",
+    "image": "music/zhoujielun/album22/600x600bb.jpg"
 }]
