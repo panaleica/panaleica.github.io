@@ -6279,8 +6279,8 @@ let json = [{
     "image": "music/xujiaying/album52/s34748401.jpg"
 },
 {
-    "name": "裘德_徐佳莹 - 色盲",
-    "url": "music/xujiaying/album53/裘德_徐佳莹 - 色盲.mp3",
+    "name": "裘德 _ 徐佳莹 - 色盲",
+    "url": "music/xujiaying/album53/裘德 _ 徐佳莹 - 色盲.mp3",
     "image": "music/xujiaying/album53/600x600bb.jpg"
 },
 {
@@ -7412,4 +7412,1309 @@ let json = [{
     "name": "周杰伦 - 圣诞星 (feat_ 杨瑞代)",
     "url": "music/zhoujielun/album22/周杰伦 - 圣诞星 (feat_ 杨瑞代).ogg",
     "image": "music/zhoujielun/album22/600x600bb.jpg"
+},
+{
+    "name": "王力宏 - More I Cannot Wish You (Live)",
+    "url": "music/王力宏/2017 王力宏 福利秀 The Freeshow 现场录音专辑/王力宏 - More I Cannot Wish You (Live).ogg",
+    "image": "music/王力宏/2017 王力宏 福利秀 The Freeshow 现场录音专辑/"
+},
+{
+    "name": "王力宏 - Nothing Compare 2 U (Live)",
+    "url": "music/王力宏/2017 王力宏 福利秀 The Freeshow 现场录音专辑/王力宏 - Nothing Compare 2 U (Live).ogg",
+    "image": "music/王力宏/2017 王力宏 福利秀 The Freeshow 现场录音专辑/"
+},
+{
+    "name": "王力宏 - 爱的就是你 (Live)",
+    "url": "music/王力宏/2017 王力宏 福利秀 The Freeshow 现场录音专辑/王力宏 - 爱的就是你 (Live).ogg",
+    "image": "music/王力宏/2017 王力宏 福利秀 The Freeshow 现场录音专辑/"
+},
+{
+    "name": "王力宏 - A_I_ 爱",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - A_I_ 爱.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - Why Don't You Just Love Me",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - Why Don't You Just Love Me.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 亲爱的",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 亲爱的.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 列王的纷争",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 列王的纷争.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 千秋万代",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 千秋万代.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 听爱",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 听爱.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 奇遇的起点",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 奇遇的起点.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 无声感情",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 无声感情.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - 没有眼泪的世界",
+    "url": "music/王力宏/A_I_ 爱/王力宏 - 没有眼泪的世界.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 _ TFBOYS - Tonight Forever",
+    "url": "music/王力宏/A_I_ 爱/王力宏 _ TFBOYS - Tonight Forever.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 _ 谭维维 - 缘分一道桥",
+    "url": "music/王力宏/A_I_ 爱/王力宏 _ 谭维维 - 缘分一道桥.ogg",
+    "image": "music/王力宏/A_I_ 爱/"
+},
+{
+    "name": "王力宏 - CrossFire",
+    "url": "music/王力宏/CrossFire/王力宏 - CrossFire.ogg",
+    "image": "music/王力宏/CrossFire/"
+},
+{
+    "name": "王力宏 - Forever Your Dad",
+    "url": "music/王力宏/Forever Your Dad/王力宏 - Forever Your Dad.ogg",
+    "image": "music/王力宏/Forever Your Dad/"
+},
+{
+    "name": "王力宏 - Dream Again (再度梦想)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - Dream Again (再度梦想).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - Hear My Voice",
+    "url": "music/王力宏/Hear My Voice/王力宏 - Hear My Voice.ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - I Can't Stop Loving",
+    "url": "music/王力宏/Hear My Voice/王力宏 - I Can't Stop Loving.ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - This Could Be Love",
+    "url": "music/王力宏/Hear My Voice/王力宏 - This Could Be Love.ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - ふるえる心 (颤抖的心)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - ふるえる心 (颤抖的心).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - モノローグ (独角戏)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - モノローグ (独角戏).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - 僕等になれなくて (两个人不等于我们)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - 僕等になれなくて (两个人不等于我们).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - 君が僕の歌を聴いたら (如果你听见我的歌)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - 君が僕の歌を聴いたら (如果你听见我的歌).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - 君の知らない空へ",
+    "url": "music/王力宏/Hear My Voice/王力宏 - 君の知らない空へ.ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - 愛の奇蹟 (爱的奇迹)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - 愛の奇蹟 (爱的奇迹).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - 手のひらの涙 (流泪手心)",
+    "url": "music/王力宏/Hear My Voice/王力宏 - 手のひらの涙 (流泪手心).ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - 永遠のはじまり",
+    "url": "music/王力宏/Hear My Voice/王力宏 - 永遠のはじまり.ogg",
+    "image": "music/王力宏/Hear My Voice/"
+},
+{
+    "name": "王力宏 - Man In The Mirror",
+    "url": "music/王力宏/Man in the Mirror/王力宏 - Man In The Mirror.ogg",
+    "image": "music/王力宏/Man in the Mirror/"
+},
+{
+    "name": "王力宏 - Nature大地",
+    "url": "music/王力宏/Nature/王力宏 - Nature大地.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 一窝黑猩猩",
+    "url": "music/王力宏/Nature/王力宏 - 一窝黑猩猩.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 哭泣的森林",
+    "url": "music/王力宏/Nature/王力宏 - 哭泣的森林.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 大地之歌(The Earth Song)",
+    "url": "music/王力宏/Nature/王力宏 - 大地之歌(The Earth Song).ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 大地的窗口",
+    "url": "music/王力宏/Nature/王力宏 - 大地的窗口.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 往冈贝的路上",
+    "url": "music/王力宏/Nature/王力宏 - 往冈贝的路上.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 是你",
+    "url": "music/王力宏/Nature/王力宏 - 是你.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 树梢",
+    "url": "music/王力宏/Nature/王力宏 - 树梢.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 河谷岁月",
+    "url": "music/王力宏/Nature/王力宏 - 河谷岁月.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 银色的湖",
+    "url": "music/王力宏/Nature/王力宏 - 银色的湖.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 风想",
+    "url": "music/王力宏/Nature/王力宏 - 风想.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - 高原上的月影",
+    "url": "music/王力宏/Nature/王力宏 - 高原上的月影.ogg",
+    "image": "music/王力宏/Nature/"
+},
+{
+    "name": "王力宏 - ONE 一个 (Live 版)",
+    "url": "music/王力宏/ONE 一个 (Live 版)/王力宏 - ONE 一个 (Live 版).ogg",
+    "image": "music/王力宏/ONE 一个 (Live 版)/"
+},
+{
+    "name": "王力宏 - The Mountains 群山",
+    "url": "music/王力宏/The Mountains 群山 (威廉姆斯大学校歌)/王力宏 - The Mountains 群山.ogg",
+    "image": "music/王力宏/The Mountains 群山 (威廉姆斯大学校歌)/"
+},
+{
+    "name": "王力宏 - As Long As I Have You",
+    "url": "music/王力宏/The Only One/王力宏 - As Long As I Have You.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - China White",
+    "url": "music/王力宏/The Only One/王力宏 - China White.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - Julia",
+    "url": "music/王力宏/The Only One/王力宏 - Julia.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - Last Night",
+    "url": "music/王力宏/The Only One/王力宏 - Last Night.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - Like A Gunshot",
+    "url": "music/王力宏/The Only One/王力宏 - Like A Gunshot.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - Mary Says",
+    "url": "music/王力宏/The Only One/王力宏 - Mary Says.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 不可能错过你",
+    "url": "music/王力宏/The Only One/王力宏 - 不可能错过你.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 公转自转",
+    "url": "music/王力宏/The Only One/王力宏 - 公转自转.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 唯一 (国语)",
+    "url": "music/王力宏/The Only One/王力宏 - 唯一 (国语).ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 唯一 (日语)",
+    "url": "music/王力宏/The Only One/王力宏 - 唯一 (日语).ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 流泪手心",
+    "url": "music/王力宏/The Only One/王力宏 - 流泪手心.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 爱你等于爱自己",
+    "url": "music/王力宏/The Only One/王力宏 - 爱你等于爱自己.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - 爱的就是你 (浪漫版)",
+    "url": "music/王力宏/The Only One/王力宏 - 爱的就是你 (浪漫版).ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 _ Lara Fabian - Light Of My Life",
+    "url": "music/王力宏/The Only One/王力宏 _ Lara Fabian - Light Of My Life.ogg",
+    "image": "music/王力宏/The Only One/"
+},
+{
+    "name": "王力宏 - Can You Feel My World",
+    "url": "music/王力宏/不可思议/王力宏 - Can You Feel My World.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - Love Love Love",
+    "url": "music/王力宏/不可思议/王力宏 - Love Love Love.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - Not Your Average Thug",
+    "url": "music/王力宏/不可思议/王力宏 - Not Your Average Thug.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - What Was I Thinking",
+    "url": "music/王力宏/不可思议/王力宏 - What Was I Thinking.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - Ya Birthday",
+    "url": "music/王力宏/不可思议/王力宏 - Ya Birthday.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 不可思议电台 (口白)",
+    "url": "music/王力宏/不可思议/王力宏 - 不可思议电台 (口白).ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 不着地",
+    "url": "music/王力宏/不可思议/王力宏 - 不着地.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 你不在",
+    "url": "music/王力宏/不可思议/王力宏 - 你不在.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 你和我",
+    "url": "music/王力宏/不可思议/王力宏 - 你和我.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 女朋友",
+    "url": "music/王力宏/不可思议/王力宏 - 女朋友.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 我就喜欢",
+    "url": "music/王力宏/不可思议/王力宏 - 我就喜欢.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 此刻，你心里想起谁",
+    "url": "music/王力宏/不可思议/王力宏 - 此刻，你心里想起谁.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - 爱无所不在",
+    "url": "music/王力宏/不可思议/王力宏 - 爱无所不在.ogg",
+    "image": "music/王力宏/不可思议/"
+},
+{
+    "name": "王力宏 - Happy Ending",
+    "url": "music/王力宏/不可能错过你/王力宏 - Happy Ending.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - Julia",
+    "url": "music/王力宏/不可能错过你/王力宏 - Julia.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - Mary Says",
+    "url": "music/王力宏/不可能错过你/王力宏 - Mary Says.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 不可能错过你",
+    "url": "music/王力宏/不可能错过你/王力宏 - 不可能错过你.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 不降落的滑翔翼",
+    "url": "music/王力宏/不可能错过你/王力宏 - 不降落的滑翔翼.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 你爱过没有",
+    "url": "music/王力宏/不可能错过你/王力宏 - 你爱过没有.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 失去了你",
+    "url": "music/王力宏/不可能错过你/王力宏 - 失去了你.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 感情副作用",
+    "url": "music/王力宏/不可能错过你/王力宏 - 感情副作用.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 打开爱",
+    "url": "music/王力宏/不可能错过你/王力宏 - 打开爱.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 流泪手心",
+    "url": "music/王力宏/不可能错过你/王力宏 - 流泪手心.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 钓灵感",
+    "url": "music/王力宏/不可能错过你/王力宏 - 钓灵感.ogg",
+    "image": "music/王力宏/不可能错过你/"
+},
+{
+    "name": "王力宏 - 世界的梦想 (抢听版)",
+    "url": "music/王力宏/世界的梦想/王力宏 - 世界的梦想 (抢听版).ogg",
+    "image": "music/王力宏/世界的梦想/"
+},
+{
+    "name": "王力宏 - Kiss Goodbye",
+    "url": "music/王力宏/为你而声/王力宏 - Kiss Goodbye.ogg",
+    "image": "music/王力宏/为你而声/"
+},
+{
+    "name": "王力宏 - 花田错 (Remix)",
+    "url": "music/王力宏/为你而声/王力宏 - 花田错 (Remix).ogg",
+    "image": "music/王力宏/为你而声/"
+},
+{
+    "name": "王力宏 - In Your Eyes",
+    "url": "music/王力宏/你的爱。/王力宏 - In Your Eyes.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 七十亿分之一",
+    "url": "music/王力宏/你的爱。/王力宏 - 七十亿分之一.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 你的爱",
+    "url": "music/王力宏/你的爱。/王力宏 - 你的爱.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 保护",
+    "url": "music/王力宏/你的爱。/王力宏 - 保护.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 前奏",
+    "url": "music/王力宏/你的爱。/王力宏 - 前奏.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 天翻地覆",
+    "url": "music/王力宏/你的爱。/王力宏 - 天翻地覆.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 就是现在",
+    "url": "music/王力宏/你的爱。/王力宏 - 就是现在.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 微博控",
+    "url": "music/王力宏/你的爱。/王力宏 - 微博控.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 梦寐以求",
+    "url": "music/王力宏/你的爱。/王力宏 - 梦寐以求.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 - 裂心",
+    "url": "music/王力宏/你的爱。/王力宏 - 裂心.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 _ Avicii - 忘我 (抒情版)",
+    "url": "music/王力宏/你的爱。/王力宏 _ Avicii - 忘我 (抒情版).ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 _ Avicii - 忘我",
+    "url": "music/王力宏/你的爱。/王力宏 _ Avicii - 忘我.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 _ 章子怡 - 爱一点",
+    "url": "music/王力宏/你的爱。/王力宏 _ 章子怡 - 爱一点.ogg",
+    "image": "music/王力宏/你的爱。/"
+},
+{
+    "name": "王力宏 _ 孙楠 - 光耀亚洲",
+    "url": "music/王力宏/光耀亚洲/王力宏 _ 孙楠 - 光耀亚洲.ogg",
+    "image": "music/王力宏/光耀亚洲/"
+},
+{
+    "name": "王力宏 - 2000年",
+    "url": "music/王力宏/公转自转/王力宏 - 2000年.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - One Of These Days",
+    "url": "music/王力宏/公转自转/王力宏 - One Of These Days.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - Please Come Back To Me",
+    "url": "music/王力宏/公转自转/王力宏 - Please Come Back To Me.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 不管怎样",
+    "url": "music/王力宏/公转自转/王力宏 - 不管怎样.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 你以为我是谁",
+    "url": "music/王力宏/公转自转/王力宏 - 你以为我是谁.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 信任",
+    "url": "music/王力宏/公转自转/王力宏 - 信任.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 公转自转",
+    "url": "music/王力宏/公转自转/王力宏 - 公转自转.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 我的情歌",
+    "url": "music/王力宏/公转自转/王力宏 - 我的情歌.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 梦想被冷冻",
+    "url": "music/王力宏/公转自转/王力宏 - 梦想被冷冻.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 爱你等于爱自己",
+    "url": "music/王力宏/公转自转/王力宏 - 爱你等于爱自己.ogg",
+    "image": "music/王力宏/公转自转/"
+},
+{
+    "name": "王力宏 - 再见英雄",
+    "url": "music/王力宏/再见英雄/王力宏 - 再见英雄.ogg",
+    "image": "music/王力宏/再见英雄/"
+},
+{
+    "name": "王力宏 - Take Your Time",
+    "url": "music/王力宏/创世纪影音全记录/王力宏 - Take Your Time.ogg",
+    "image": "music/王力宏/创世纪影音全记录/"
+},
+{
+    "name": "王力宏 - 每天爱你廿四小时",
+    "url": "music/王力宏/创世纪影音全记录/王力宏 - 每天爱你廿四小时.ogg",
+    "image": "music/王力宏/创世纪影音全记录/"
+},
+{
+    "name": "王力宏 - 爱我的歌",
+    "url": "music/王力宏/创世纪影音全记录/王力宏 - 爱我的歌.ogg",
+    "image": "music/王力宏/创世纪影音全记录/"
+},
+{
+    "name": "王力宏 - 十二生肖",
+    "url": "music/王力宏/十二生肖/王力宏 - 十二生肖.ogg",
+    "image": "music/王力宏/十二生肖/"
+},
+{
+    "name": "王力宏 - Dragon Dance",
+    "url": "music/王力宏/十八般武艺/王力宏 - Dragon Dance.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 伯牙绝弦",
+    "url": "music/王力宏/十八般武艺/王力宏 - 伯牙绝弦.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 你不知道的事 (宋晓青版本)",
+    "url": "music/王力宏/十八般武艺/王力宏 - 你不知道的事 (宋晓青版本).ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 你不知道的事",
+    "url": "music/王力宏/十八般武艺/王力宏 - 你不知道的事.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 十八般武艺",
+    "url": "music/王力宏/十八般武艺/王力宏 - 十八般武艺.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 天涯海角",
+    "url": "music/王力宏/十八般武艺/王力宏 - 天涯海角.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 杜 U ♥ Me",
+    "url": "music/王力宏/十八般武艺/王力宏 - 杜 U ♥ Me.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 柴米油盐酱醋茶",
+    "url": "music/王力宏/十八般武艺/王力宏 - 柴米油盐酱醋茶.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 美",
+    "url": "music/王力宏/十八般武艺/王力宏 - 美.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 自己人",
+    "url": "music/王力宏/十八般武艺/王力宏 - 自己人.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 - 需要人陪",
+    "url": "music/王力宏/十八般武艺/王力宏 - 需要人陪.ogg",
+    "image": "music/王力宏/十八般武艺/"
+},
+{
+    "name": "王力宏 _ 朱小磊 - 南京，南京",
+    "url": "music/王力宏/南京，南京/王力宏 _ 朱小磊 - 南京，南京.ogg",
+    "image": "music/王力宏/南京，南京/"
+},
+{
+    "name": "成龙 _ 雷佳 _ 王力宏 _ 谭维维 - 和平的薪火",
+    "url": "music/王力宏/和平的薪火/成龙 _ 雷佳 _ 王力宏 _ 谭维维 - 和平的薪火.ogg",
+    "image": "music/王力宏/和平的薪火/"
+},
+{
+    "name": "王力宏 - If You Knew",
+    "url": "music/王力宏/唯一/王力宏 - If You Knew.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - Last Night",
+    "url": "music/王力宏/唯一/王力宏 - Last Night.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 不必问别人",
+    "url": "music/王力宏/唯一/王力宏 - 不必问别人.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 变坏",
+    "url": "music/王力宏/唯一/王力宏 - 变坏.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 唯一 (日语)",
+    "url": "music/王力宏/唯一/王力宏 - 唯一 (日语).ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 唯一",
+    "url": "music/王力宏/唯一/王力宏 - 唯一.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 安全感",
+    "url": "music/王力宏/唯一/王力宏 - 安全感.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 我要",
+    "url": "music/王力宏/唯一/王力宏 - 我要.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 戒不了你",
+    "url": "music/王力宏/唯一/王力宏 - 戒不了你.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 爱的就是你 (浪漫版)",
+    "url": "music/王力宏/唯一/王力宏 - 爱的就是你 (浪漫版).ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 爱的就是你",
+    "url": "music/王力宏/唯一/王力宏 - 爱的就是你.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 白狐狸",
+    "url": "music/王力宏/唯一/王力宏 - 白狐狸.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 谢绝推销你的爱",
+    "url": "music/王力宏/唯一/王力宏 - 谢绝推销你的爱.ogg",
+    "image": "music/王力宏/唯一/"
+},
+{
+    "name": "王力宏 - 坚信爱会赢",
+    "url": "music/王力宏/坚信爱会赢/王力宏 - 坚信爱会赢.ogg",
+    "image": "music/王力宏/坚信爱会赢/"
+},
+{
+    "name": "王力宏 _ 谭维维 - 寸心",
+    "url": "music/王力宏/大决战 影视原声带/王力宏 _ 谭维维 - 寸心.ogg",
+    "image": "music/王力宏/大决战 影视原声带/"
+},
+{
+    "name": "王力宏 - 天地龙鳞",
+    "url": "music/王力宏/天地龙鳞/王力宏 - 天地龙鳞.ogg",
+    "image": "music/王力宏/天地龙鳞/"
+},
+{
+    "name": "王力宏 - Noah",
+    "url": "music/王力宏/好想你/王力宏 - Noah.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 不说后悔",
+    "url": "music/王力宏/好想你/王力宏 - 不说后悔.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 回忆",
+    "url": "music/王力宏/好想你/王力宏 - 回忆.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 好想你",
+    "url": "music/王力宏/好想你/王力宏 - 好想你.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 暴风雨",
+    "url": "music/王力宏/好想你/王力宏 - 暴风雨.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 爱依然执着",
+    "url": "music/王力宏/好想你/王力宏 - 爱依然执着.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 眼睛",
+    "url": "music/王力宏/好想你/王力宏 - 眼睛.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 远离伤心",
+    "url": "music/王力宏/好想你/王力宏 - 远离伤心.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 预约你的爱",
+    "url": "music/王力宏/好想你/王力宏 - 预约你的爱.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - 风中的遗憾",
+    "url": "music/王力宏/好想你/王力宏 - 风中的遗憾.ogg",
+    "image": "music/王力宏/好想你/"
+},
+{
+    "name": "王力宏 - As Long As I Have You",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - As Long As I Have You.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - Better Off Alone",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - Better Off Alone.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - Stand By Me",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - Stand By Me.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 去爱",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 去爱.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 喊我一千遍",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 喊我一千遍.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 头版摇滚",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 头版摇滚.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 如果你听见我的歌",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 如果你听见我的歌.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 情难牵",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 情难牵.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 是你",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 是你.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 有了你就足够",
+    "url": "music/王力宏/如果你听见我的歌/王力宏 - 有了你就足够.ogg",
+    "image": "music/王力宏/如果你听见我的歌/"
+},
+{
+    "name": "王力宏 - 寸心 (王力宏独唱版)",
+    "url": "music/王力宏/寸心 (王力宏独唱版)/王力宏 - 寸心 (王力宏独唱版).ogg",
+    "image": "music/王力宏/寸心 (王力宏独唱版)/"
+},
+{
+    "name": "王力宏 - 就是现在我看你有戏 (High版)",
+    "url": "music/王力宏/就是现在我看你有戏/王力宏 - 就是现在我看你有戏 (High版).ogg",
+    "image": "music/王力宏/就是现在我看你有戏/"
+},
+{
+    "name": "王力宏 - 就是现在我看你有戏",
+    "url": "music/王力宏/就是现在我看你有戏/王力宏 - 就是现在我看你有戏.ogg",
+    "image": "music/王力宏/就是现在我看你有戏/"
+},
+{
+    "name": "王力宏 - One World One Dream",
+    "url": "music/王力宏/尼康 + 王力宏限量版/王力宏 - One World One Dream.ogg",
+    "image": "music/王力宏/尼康 + 王力宏限量版/"
+},
+{
+    "name": "王力宏 - Everything",
+    "url": "music/王力宏/心·跳/王力宏 - Everything.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 心跳",
+    "url": "music/王力宏/心·跳/王力宏 - 心跳.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 我完全没有任何理由理你",
+    "url": "music/王力宏/心·跳/王力宏 - 我完全没有任何理由理你.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 摇滚怎么了！！",
+    "url": "music/王力宏/心·跳/王力宏 - 摇滚怎么了！！.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 春雨里洗过的太阳",
+    "url": "music/王力宏/心·跳/王力宏 - 春雨里洗过的太阳.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 爱得 得体",
+    "url": "music/王力宏/心·跳/王力宏 - 爱得 得体.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 玩偶",
+    "url": "music/王力宏/心·跳/王力宏 - 玩偶.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 竞争对手",
+    "url": "music/王力宏/心·跳/王力宏 - 竞争对手.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - 脚本",
+    "url": "music/王力宏/心·跳/王力宏 - 脚本.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 _ 张靓颖 - 另一个天堂",
+    "url": "music/王力宏/心·跳/王力宏 _ 张靓颖 - 另一个天堂.ogg",
+    "image": "music/王力宏/心·跳/"
+},
+{
+    "name": "王力宏 - Follow Me",
+    "url": "music/王力宏/心中的日月/王力宏 - Follow Me.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - Forever Love",
+    "url": "music/王力宏/心中的日月/王力宏 - Forever Love.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 一首简单的歌",
+    "url": "music/王力宏/心中的日月/王力宏 - 一首简单的歌.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 在那遥远的地方",
+    "url": "music/王力宏/心中的日月/王力宏 - 在那遥远的地方.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 开场Intro",
+    "url": "music/王力宏/心中的日月/王力宏 - 开场Intro.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 心中的日月",
+    "url": "music/王力宏/心中的日月/王力宏 - 心中的日月.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 放开你的心",
+    "url": "music/王力宏/心中的日月/王力宏 - 放开你的心.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 星座",
+    "url": "music/王力宏/心中的日月/王力宏 - 星座.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 爱错",
+    "url": "music/王力宏/心中的日月/王力宏 - 爱错.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 竹林深处",
+    "url": "music/王力宏/心中的日月/王力宏 - 竹林深处.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - 过来",
+    "url": "music/王力宏/心中的日月/王力宏 - 过来.ogg",
+    "image": "music/王力宏/心中的日月/"
+},
+{
+    "name": "王力宏 - Last Night",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - Last Night.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - Love Me Tender",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - Love Me Tender.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - The Water Is Wide",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - The Water Is Wide.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 不愿说再见",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 不愿说再见.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 为我哭一次好不好",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 为我哭一次好不好.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 乘着爱自由的飞",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 乘着爱自由的飞.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 你伤了我的心",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 你伤了我的心.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 别这样我会哭",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 别这样我会哭.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 听雨",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 听雨.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 四季",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 四季.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 情敌贝多芬",
+    "url": "music/王力宏/情敌贝多芬/王力宏 - 情敌贝多芬.ogg",
+    "image": "music/王力宏/情敌贝多芬/"
+},
+{
+    "name": "王力宏 - 想见就能相见",
+    "url": "music/王力宏/想见就能相见/王力宏 - 想见就能相见.ogg",
+    "image": "music/王力宏/想见就能相见/"
+},
+{
+    "name": "王力宏 - 戏出东方",
+    "url": "music/王力宏/戏出东方/王力宏 - 戏出东方.ogg",
+    "image": "music/王力宏/戏出东方/"
+},
+{
+    "name": "王力宏 - 我们的歌 (未来你好毕业晚会版)",
+    "url": "music/王力宏/我们的歌 (未来你好毕业晚会版)/王力宏 - 我们的歌 (未来你好毕业晚会版).ogg",
+    "image": "music/王力宏/我们的歌 (未来你好毕业晚会版)/"
+},
+{
+    "name": "王力宏 - 我用生命爱你 (Karaoke版)",
+    "url": "music/王力宏/我用生命爱你/王力宏 - 我用生命爱你 (Karaoke版).ogg",
+    "image": "music/王力宏/我用生命爱你/"
+},
+{
+    "name": "王力宏 _ 柯以敏 - 我用生命爱你",
+    "url": "music/王力宏/我用生命爱你/王力宏 _ 柯以敏 - 我用生命爱你.ogg",
+    "image": "music/王力宏/我用生命爱你/"
+},
+{
+    "name": "王力宏 - Cockney Girl",
+    "url": "music/王力宏/改变自己/王力宏 - Cockney Girl.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - Intro",
+    "url": "music/王力宏/改变自己/王力宏 - Intro.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 不完整的旋律",
+    "url": "music/王力宏/改变自己/王力宏 - 不完整的旋律.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 创作前言 (口白)",
+    "url": "music/王力宏/改变自己/王力宏 - 创作前言 (口白).ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 华人万岁",
+    "url": "music/王力宏/改变自己/王力宏 - 华人万岁.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 我们的歌",
+    "url": "music/王力宏/改变自己/王力宏 - 我们的歌.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 改变自己",
+    "url": "music/王力宏/改变自己/王力宏 - 改变自己.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 星期六的深夜",
+    "url": "music/王力宏/改变自己/王力宏 - 星期六的深夜.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 爱在哪里",
+    "url": "music/王力宏/改变自己/王力宏 - 爱在哪里.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 爱的鼓励",
+    "url": "music/王力宏/改变自己/王力宏 - 爱的鼓励.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 落叶归根",
+    "url": "music/王力宏/改变自己/王力宏 - 落叶归根.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 _ 任家萱Selina - 你是我心内的一首歌",
+    "url": "music/王力宏/改变自己/王力宏 _ 任家萱Selina - 你是我心内的一首歌.ogg",
+    "image": "music/王力宏/改变自己/"
+},
+{
+    "name": "王力宏 - 星光",
+    "url": "music/王力宏/星光/王力宏 - 星光.ogg",
+    "image": "music/王力宏/星光/"
+},
+{
+    "name": "王力宏 - Introduction (口白)",
+    "url": "music/王力宏/永远的第一天/王力宏 - Introduction (口白).ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 不要害怕",
+    "url": "music/王力宏/永远的第一天/王力宏 - 不要害怕.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 伤口是爱的笔记",
+    "url": "music/王力宏/永远的第一天/王力宏 - 伤口是爱的笔记.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 你可以告诉我 (你还爱谁)",
+    "url": "music/王力宏/永远的第一天/王力宏 - 你可以告诉我 (你还爱谁).ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 忘了时间忘了我",
+    "url": "music/王力宏/永远的第一天/王力宏 - 忘了时间忘了我.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 感情是舞台",
+    "url": "music/王力宏/永远的第一天/王力宏 - 感情是舞台.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 欢喜城",
+    "url": "music/王力宏/永远的第一天/王力宏 - 欢喜城.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 永远的第一天",
+    "url": "music/王力宏/永远的第一天/王力宏 - 永远的第一天.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 爱我的歌 (香港 Bonus Track)",
+    "url": "music/王力宏/永远的第一天/王力宏 - 爱我的歌 (香港 Bonus Track).ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 狂想世界",
+    "url": "music/王力宏/永远的第一天/王力宏 - 狂想世界.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 这就是爱",
+    "url": "music/王力宏/永远的第一天/王力宏 - 这就是爱.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - 龙的传人",
+    "url": "music/王力宏/永远的第一天/王力宏 - 龙的传人.ogg",
+    "image": "music/王力宏/永远的第一天/"
+},
+{
+    "name": "王力宏 - As Time Goes By",
+    "url": "music/王力宏/火力全开/王力宏 - As Time Goes By.ogg",
+    "image": "music/王力宏/火力全开/"
+},
+{
+    "name": "王力宏 - W-H-Y",
+    "url": "music/王力宏/火力全开/王力宏 - W-H-Y.ogg",
+    "image": "music/王力宏/火力全开/"
+},
+{
+    "name": "王力宏 - 依然爱你",
+    "url": "music/王力宏/火力全开/王力宏 - 依然爱你.ogg",
+    "image": "music/王力宏/火力全开/"
+},
+{
+    "name": "王力宏 - 此刻你心里想起谁",
+    "url": "music/王力宏/火力全开/王力宏 - 此刻你心里想起谁.ogg",
+    "image": "music/王力宏/火力全开/"
+},
+{
+    "name": "王力宏 - 火力全开",
+    "url": "music/王力宏/火力全开/王力宏 - 火力全开.ogg",
+    "image": "music/王力宏/火力全开/"
+},
+{
+    "name": "王力宏 - 火力全开组曲",
+    "url": "music/王力宏/火力全开/王力宏 - 火力全开组曲.ogg",
+    "image": "music/王力宏/火力全开/"
+},
+{
+    "name": "王力宏 - 两个人不等于我们",
+    "url": "music/王力宏/爱的奇迹/王力宏 - 两个人不等于我们.ogg",
+    "image": "music/王力宏/爱的奇迹/"
+},
+{
+    "name": "王力宏 - 愛の奇蹟 (爱的奇迹) (日语)",
+    "url": "music/王力宏/爱的奇迹/王力宏 - 愛の奇蹟 (爱的奇迹) (日语).ogg",
+    "image": "music/王力宏/爱的奇迹/"
+},
+{
+    "name": "王力宏 - 手のひらの涙 (流泪手心) (日语)",
+    "url": "music/王力宏/爱的奇迹/王力宏 - 手のひらの涙 (流泪手心) (日语).ogg",
+    "image": "music/王力宏/爱的奇迹/"
+},
+{
+    "name": "王力宏 - 畅爽开怀",
+    "url": "music/王力宏/畅爽开怀/王力宏 - 畅爽开怀.ogg",
+    "image": "music/王力宏/畅爽开怀/"
+},
+{
+    "name": "王力宏 - Dream Again",
+    "url": "music/王力宏/白纸/王力宏 - Dream Again.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 不要开灯",
+    "url": "music/王力宏/白纸/王力宏 - 不要开灯.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 四月还会下雪",
+    "url": "music/王力宏/白纸/王力宏 - 四月还会下雪.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 在每一秒里都想见到你",
+    "url": "music/王力宏/白纸/王力宏 - 在每一秒里都想见到你.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 想家",
+    "url": "music/王力宏/白纸/王力宏 - 想家.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 放逐思念",
+    "url": "music/王力宏/白纸/王力宏 - 放逐思念.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 爱在思念蔓延时",
+    "url": "music/王力宏/白纸/王力宏 - 爱在思念蔓延时.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 白纸",
+    "url": "music/王力宏/白纸/王力宏 - 白纸.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 给我你的手",
+    "url": "music/王力宏/白纸/王力宏 - 给我你的手.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - 认真",
+    "url": "music/王力宏/白纸/王力宏 - 认真.ogg",
+    "image": "music/王力宏/白纸/"
+},
+{
+    "name": "王力宏 - Kiss Goodbye",
+    "url": "music/王力宏/盖世英雄/王力宏 - Kiss Goodbye.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 哥儿们",
+    "url": "music/王力宏/盖世英雄/王力宏 - 哥儿们.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 在梅边",
+    "url": "music/王力宏/盖世英雄/王力宏 - 在梅边.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 大城小爱",
+    "url": "music/王力宏/盖世英雄/王力宏 - 大城小爱.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 爱因为在心中",
+    "url": "music/王力宏/盖世英雄/王力宏 - 爱因为在心中.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 盖世英雄",
+    "url": "music/王力宏/盖世英雄/王力宏 - 盖世英雄.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 第一个清晨",
+    "url": "music/王力宏/盖世英雄/王力宏 - 第一个清晨.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 花田错",
+    "url": "music/王力宏/盖世英雄/王力宏 - 花田错.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 - 让开",
+    "url": "music/王力宏/盖世英雄/王力宏 - 让开.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 _ Rain _ 林贞熙 - 完美的互动",
+    "url": "music/王力宏/盖世英雄/王力宏 _ Rain _ 林贞熙 - 完美的互动.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 _ 欧阳靖 _ 李岩 - 盖世英雄",
+    "url": "music/王力宏/盖世英雄/王力宏 _ 欧阳靖 _ 李岩 - 盖世英雄.ogg",
+    "image": "music/王力宏/盖世英雄/"
+},
+{
+    "name": "王力宏 _ ゴスペラーズ - 愛にゆこう (为爱前行)",
+    "url": "music/王力宏/盖世英雄（日本版）/王力宏 _ ゴスペラーズ - 愛にゆこう (为爱前行).ogg",
+    "image": "music/王力宏/盖世英雄（日本版）/"
+},
+{
+    "name": "王力宏 _ 李建复 _ 李友珊 - 龙的传人–肆拾年",
+    "url": "music/王力宏/龙的传人–肆拾年/王力宏 _ 李建复 _ 李友珊 - 龙的传人–肆拾年.ogg",
+    "image": "music/王力宏/龙的传人–肆拾年/"
 }]
