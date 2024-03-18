@@ -7560,8 +7560,8 @@ let json = [{
 },
 {
     "name": "王力宏 - ONE 一个 (Live 版)",
-    "url": "music/王力宏/ONE 一个 (Live_版)/王力宏 - ONE 一个 (Live 版).ogg",
-    "image": "music/王力宏/ONE 一个 (Live_版)/600x600bb.jpg"
+    "url": "music/王力宏/ONE_一个_(Live_版)/王力宏 - ONE 一个 (Live 版).ogg",
+    "image": "music/王力宏/ONE_一个_(Live_版)/600x600bb.jpg"
 },
 {
     "name": "王力宏 - The Mountains 群山",
